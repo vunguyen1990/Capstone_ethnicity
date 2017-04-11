@@ -1,0 +1,101 @@
+,index,Unnamed: 0,candidate_name,candidate_surname,candidate_country,candidate_gender,c_address_latitude,c_address_longitude,ethnicity,type,url,cand_id,fullname,ID
+0,16396,16396,Benjamin,Monnereau,FR,Male,48.856614,2.3522219,White/Caucasian,linkedin,https://fr.linkedin.com/in/benjamin-monnereau-ab6a3949/en,16396,BenjaminMonnereau,0
+1,192464,192464,Nicholas,Barrash,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/nicholas-barrash-3969a245,192464,NicholasBarrash,1
+2,163076,163076,Corbin,Schwalm,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/schwalm,163076,CorbinSchwalm,2
+3,194132,194132,Steven,Yuan,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/stevenyuan,194132,StevenYuan,3
+4,17484,17484,Alexandre,Yacoub,FR,Male,48.8499198,2.6370411,White/Caucasian,linkedin,https://www.linkedin.com/in/alexandreyacoub?authType=OUT_OF_NETWORK&authToken=Idbk,17484,AlexandreYacoub,4
+5,131392,131392,Nora,Apsel,US,Female,40.7127837,-74.0059413,White/Caucasian,linkedin,https://www.linkedin.com/in/noraapsel,131392,NoraApsel,5
+6,18413,18413,Emmanuelle,REMITA (LACHAMBRE),FR,Female,48.8499198,2.6370411,Other/Multiracial,linkedin,https://www.linkedin.com/in/emmanuelle-remita-lachambre-211a262b/,18413,EmmanuelleREMITA (LACHAMBRE),6
+7,6679,6679,Clayton,Nobbs,CA,Male,49.2827291,-123.1207375,White/Caucasian,linkedin,https://www.linkedin.com/in/clayton-nobbs-04173813,6679,ClaytonNobbs,7
+8,177428,177428,Susie,Fregoso,US,Female,37.3860517,-122.0838511,Hispanic/Latino,linkedin,https://www.linkedin.com/in/susiefregoso,177428,SusieFregoso,8
+9,34199,34199,Teresa,Durrant,GB,Female,51.5073509,-0.1277583,White/Caucasian,linkedin,https://www.linkedin.com/in/teresadurrant,34199,TeresaDurrant,9
+10,23745,23745,Paul,Cooke,GB,Male,51.5073509,-0.1277583,White/Caucasian,linkedin,https://www.linkedin.com/in/paul-cooke-0611a99?authType=name&authToken=zwIM,23745,PaulCooke,10
+11,12095,12095,Claus,Wild,DE,Male,51.5172809,7.5069847,White/Caucasian,linkedin,https://www.linkedin.com/in/clauswild2,12095,ClausWild,11
+12,104714,104714,Soniya,Hadkar,US,Female,34.0753762,-84.2940899,Asian,linkedin,https://www.linkedin.com/in/soniya-hadkar-10416782,104714,SoniyaHadkar,12
+13,89554,89554,Farhan,Yousaf,US,Male,37.3229978,-122.0321823,Asian,linkedin,https://www.linkedin.com/in/farhanyousaf,89554,FarhanYousaf,13
+14,14911,14911,Leticia,Sáenz Murga,ES,Female,41.3850639,2.1734035,White/Caucasian,linkedin,https://es.linkedin.com/in/letihf/en,14911,LeticiaSáenz Murga,14
+15,196099,196099,Michael,Williams,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/michael-williams-a6514415?authType=name&authToken=yA-8&trk=prof-sb-browse_map-name,196099,MichaelWilliams,15
+16,113420,113420,Rob,Russo,US,Male,32.8197172,-97.0054959,White/Caucasian,linkedin,https://www.linkedin.com/in/rob-russo-619b358,113420,RobRusso,16
+17,96513,96513,Rutav,Shah,US,Male,34.0522342,-118.2436849,Asian,linkedin,https://www.linkedin.com/in/rutavshah,96513,RutavShah,17
+18,180046,180046,Kaizad,Patel,US,Male,42.2959267,-71.7128471,Asian,linkedin,https://www.linkedin.com/in/kaizad-patel-b272129?authType=name&authToken=IyYL&trk=connect_hub_pymk_profile_name,180046,KaizadPatel,18
+19,27079,27079,Lavinia,Reindorp,GB,Female,51.5073509,-0.1277583,White/Caucasian,linkedin,https://uk.linkedin.com/in/lavinia-reindorp-8583ab7a,27079,LaviniaReindorp,19
+20,121992,121992,Mohammed,Mo,US,Male,35.2270869,-80.8431267,Asian,linkedin,https://www.linkedin.com/in/mjmnetsec,121992,MohammedMo,20
+21,43048,43048,Mark,Bakker,NL,Male,52.3702157,4.8951679,White/Caucasian,linkedin,https://nl.linkedin.com/in/mark-bakker-bb12a84,43048,MarkBakker,21
+22,189090,189090,Micaela,Gimenez,US,Female,37.7749295,-122.4194155,Hispanic/Latino,linkedin,https://www.linkedin.com/in/micagimenez,189090,MicaelaGimenez,22
+23,116847,116847,Chris,Chrisolouris,US,Male,40.7127837,-74.0059413,White/Caucasian,linkedin,https://www.linkedin.com/in/chris-chrisolouris-05b67858,116847,ChrisChrisolouris,23
+24,78339,78339,James,Nurmi,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/james-nurmi-14b8981/,78339,JamesNurmi,24
+25,28447,28447,Hyde,Zhang,GB,Male,51.5073509,-0.1277583,Asian,linkedin,https://www.linkedin.com/in/hydezhang?authType=name&authToken=9KSL,28447,HydeZhang,25
+26,196164,196164,Nick,Gundersen,US,Male,34.0522342,-118.2436849,White/Caucasian,linkedin,https://www.linkedin.com/in/nick-gundersen-05854051,196164,NickGundersen,26
+27,166984,166984,Alec,Sibilia,US,Male,42.4272,-71.0069369,White/Caucasian,linkedin,https://www.linkedin.com/in/alecsibilia,166984,AlecSibilia,27
+28,197389,197389,Jesús,Felipe Trujillo Rodríguez,US,Male,37.7749295,-122.4194155,Hispanic/Latino,linkedin,https://www.linkedin.com/in/jesusfelipetrujillo/en,197389,JesúsFelipe Trujillo Rodríguez,28
+29,91078,91078,Kyle,Nikolich,US,Male,34.0130796,-117.812221,White/Caucasian,linkedin,https://www.linkedin.com/in/kylenikolich,91078,KyleNikolich,29
+30,96144,96144,Michael,Walsh,US,Male,47.606139,-122.342528,White/Caucasian,linkedin,https://www.linkedin.com/in/michael-walsh-6891981?trk=pub-pbmap,96144,MichaelWalsh,30
+31,41302,41302,Alessandro,Friuli,IT,Male,43.8049734,11.2484757,White/Caucasian,linkedin,https://it.linkedin.com/in/alessandro-friuli-497bab36/en,41302,AlessandroFriuli,31
+32,154381,154381,Michael,Cramer,US,Male,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/michael-cramer-9491992,154381,MichaelCramer,32
+33,109289,109289,Elena,Paudel,US,Female,47.8209301,-122.3151313,Hispanic/Latino,linkedin,https://www.linkedin.com/in/elena-paudel-36200514,109289,ElenaPaudel,33
+34,65864,65864,Maria,Ioveva,US,Female,37.7749295,-122.4194155,White/Caucasian,linkedin,http://www.linkedin.com/in/mariaioveva/,65864,MariaIoveva,34
+35,143065,143065,Sahil,Bhasin,US,Male,42.3600825,-71.0588801,Asian,linkedin,https://www.linkedin.com/in/sahil-bhasin-73987b13,143065,SahilBhasin,35
+36,87816,87816,Juan,David Medina,US,Male,37.7749295,-122.4194155,Hispanic/Latino,linkedin,https://www.linkedin.com/in/jdmedina,87816,JuanDavid Medina,36
+37,196439,196439,Graham,Leach,US,Male,34.0130796,-117.812221,White/Caucasian,linkedin,https://www.linkedin.com/in/graham-leach-a8a93a10,196439,GrahamLeach,37
+38,78047,78047,Gorka,Sanchez,US,Male,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/gorkasanchezpaypal?authType=OPENLINK&authToken=sAWA,78047,GorkaSanchez,38
+39,97728,97728,Hassan,Bazzi,US,Male,37.7749295,-122.4194155,Other/Multiracial,linkedin,https://www.linkedin.com/in/habazzi,97728,HassanBazzi,39
+40,163241,163241,Yatrik,Mehta,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/yatrik,163241,YatrikMehta,40
+41,66499,66499,Gabriel,Hurley,US,Male,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/gabrielhurley,66499,GabrielHurley,41
+42,111083,111083,Max,Meyers,US,Male,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/meyersmax,111083,MaxMeyers,42
+43,194301,194301,Mitchell,Lloyd,US,Male,45.5230622,-122.6764816,White/Caucasian,linkedin,https://www.linkedin.com/in/mitchell-lloyd-b0b46431,194301,MitchellLloyd,43
+44,83166,83166,Aditya,Telidevara,US,Male,47.6739881,-122.121512,Asian,linkedin,http://www.linkedin.com/in/adityatelidevara,83166,AdityaTelidevara,44
+45,155452,155452,Craig,Strait,US,Male,46.2529086,-118.8777018,White/Caucasian,linkedin,https://www.linkedin.com/in/craig-strait-96598928,155452,CraigStrait,45
+46,73204,73204,Nichole,Radman,US,Male,47.606139,-122.342528,White/Caucasian,linkedin,https://www.linkedin.com/in/nicholeradman?authType=name&authToken=pT7k&trk=prof-sb-browse_map-name,73204,NicholeRadman,46
+47,23474,23474,Maria,Bertone,GB,Female,51.5073509,-0.1277583,White/Caucasian,linkedin,https://uk.linkedin.com/in/maria-bertone-b9a7424,23474,MariaBertone,47
+48,153820,153820,zhuwei,wu,US,Male,42.2570481,-88.2122582,Asian,linkedin,https://www.linkedin.com/in/zhuwei-wu-a27a2487,153820,zhuweiwu,48
+49,137318,137318,Federico,Silva Armas,US,Male,47.6062095,-122.3320708,Hispanic/Latino,linkedin,https://www.linkedin.com/in/federico-silva-armas-60a57845,137318,FedericoSilva Armas,49
+50,32027,32027,Ashraful,Alam,GB,Male,51.5073509,-0.1277583,Asian,linkedin,https://www.linkedin.com/in/alam24,32027,AshrafulAlam,50
+51,161896,161896,Katrina,Goh,US,Female,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/katrina-goh-95727b14,161896,KatrinaGoh,51
+52,145990,145990,Gail,Yaeker-Daunis,US,Female,41.4102882,-73.1346647,White/Caucasian,linkedin,https://www.linkedin.com/in/gail-daunis-0466844a?authType=name&authToken=l7X2&trk=prof-sb-browse_map-name,145990,GailYaeker-Daunis,52
+53,40024,40024,Chandra,Pingali,IN,Male,11.1271225,78.6568942,Asian,linkedin,https://in.linkedin.com/in/chandra-mouli-pingali-aab81632,40024,ChandraPingali,53
+54,48373,48373,Liling,Ek,SG,Male,1.3553794,103.8677444,White/Caucasian,linkedin,https://www.linkedin.com/in/liling-ek-3181304,48373,LilingEk,54
+55,107944,107944,Lucas,Galego,US,Male,37.7749295,-122.4194155,Hispanic/Latino,linkedin,https://www.linkedin.com/in/lucasgalego,107944,LucasGalego,55
+56,154335,154335,Autumn,Quinn,US,Female,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/autumn-quinn-729a304,154335,AutumnQuinn,56
+57,492,492,Craig,Theodorou,AU,Male,-27.4697707,153.0251235,White/Caucasian,linkedin,http://www.linkedin.com/in/craigtheodorou,492,CraigTheodorou,57
+58,76616,76616,Dmitriy,Dunavetsky,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/dmitriy-dunavetsky-1aa826b,76616,DmitriyDunavetsky,58
+59,185585,185585,Doug,Bullard,US,Male,35.8991678,-78.8636402,White/Caucasian,linkedin,https://www.linkedin.com/in/doug-bullard-9b585126?authType=OUT_OF_NETWORK&authToken=QV5R,185585,DougBullard,59
+60,181287,181287,Joseph,Rider,US,Male,46.729553,-94.6858998,White/Caucasian,linkedin,https://www.linkedin.com/in/jdrider,181287,JosephRider,60
+61,162046,162046,Wangxing,Ye,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/wangxing-ye-091b003b,162046,WangxingYe,61
+62,56267,56267,Gayathri,Rajan,US,Female,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/gayathri-rajan-81b226,56267,GayathriRajan,62
+63,157963,157963,Cabe,Eaton,US,Male,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/cabeeaton,157963,CabeEaton,63
+64,9243,9243,Jean-Charles,CARRET,CH,Male,46.2283204,6.070988,White/Caucasian,linkedin,https://www.linkedin.com/in/dsitrade,9243,Jean-CharlesCARRET,64
+65,17867,17867,Tzvetelina,Tzvetkova-Chevolleau,FR,Female,45.764043,4.835659,White/Caucasian,linkedin,https://www.linkedin.com/in/tzvetelina-tzvetkova-chevolleau-4919211?authType=name&authToken=s1Lq,17867,TzvetelinaTzvetkova-Chevolleau,65
+66,165921,165921,Amrit,Kharel,US,Male,37.5629917,-122.3255254,Asian,linkedin,https://www.linkedin.com/in/amrit-kharel-3b218499,165921,AmritKharel,66
+67,162287,162287,Kristen,Kenedy,US,Female,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/kristenkenedy,162287,KristenKenedy,67
+68,101470,101470,Matt,Caron,US,Male,40.6781784,-73.9441579,White/Caucasian,linkedin,https://www.linkedin.com/in/8bitorange,101470,MattCaron,68
+69,123674,123674,Sunil,Dixit,US,Male,37.8271784,-122.2913078,Asian,linkedin,https://www.linkedin.com/in/sdixit,123674,SunilDixit,69
+70,81727,81727,Lukas,Krattiger,US,Male,37.3382082,-121.8863286,White/Caucasian,linkedin,https://www.linkedin.com/in/lukaskrattiger?authType=name&authToken=JONR&trk=prof-sb-browse_map-name,81727,LukasKrattiger,70
+71,37477,37477,Michael,(Mike) Roche,IE,Male,53.41291,-8.24389,White/Caucasian,linkedin,https://www.linkedin.com/in/mikroche,37477,Michael(Mike) Roche,71
+72,71847,71847,Patrick,Neiler,US,Male,34.0130796,-117.812221,White/Caucasian,linkedin,https://www.linkedin.com/in/patrickneiler,71847,PatrickNeiler,72
+73,198070,198070,Allison,Kallish,US,Female,40.7127837,-74.0059413,White/Caucasian,linkedin,https://www.linkedin.com/in/allison-kallish-9219a37,198070,AllisonKallish,73
+74,91395,91395,Adam,Felson,US,Male,39.9389199,-105.0674317,White/Caucasian,linkedin,https://www.linkedin.com/in/adam-felson-57a8733,91395,AdamFelson,74
+75,64918,64918,Scott,Small,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/scottsmall1,64918,ScottSmall,75
+76,117714,117714,Daniel,Frank,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/danielhfrank,117714,DanielFrank,76
+77,7976,7976,Deborah,Morrice,CH,Female,31.1980696,29.9054827,White/Caucasian,linkedin,https://ch.linkedin.com/in/deborah-morrice-03365570/en,7976,DeborahMorrice,77
+78,195170,195170,Elliott,Drabek,US,Male,37.4529598,-122.1817252,White/Caucasian,linkedin,https://www.linkedin.com/in/elliott-drabek-9b790423,195170,ElliottDrabek,78
+79,197014,197014,Saritha,Chikyala,US,Male,42.3600825,-71.0588801,Asian,linkedin,https://www.linkedin.com/in/saritha-chikyala-32290813,197014,SarithaChikyala,79
+80,17217,17217,Nicolas,Sobolev,FR,Male,43.4939571,5.8930665,White/Caucasian,linkedin,https://www.linkedin.com/in/nicolas-sobolev-1a9a163,17217,NicolasSobolev,80
+81,157149,157149,Steve,Witt,US,Male,34.2163937,-119.0376023,White/Caucasian,linkedin,https://www.linkedin.com/in/steve-witt-475b8569,157149,SteveWitt,81
+82,73298,73298,Shannon,Lucas,US,Male,47.6062095,-122.3320708,White/Caucasian,linkedin,https://www.linkedin.com/in/shannonlucas,73298,ShannonLucas,82
+83,197981,197981,Manny,Aggarwal,US,Male,33.6425861,-117.8296479,Asian,linkedin,https://www.linkedin.com/in/mannyaggarwal,197981,MannyAggarwal,83
+84,164148,164148,Lara,Burson,US,Female,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/lara-burson-38049615,164148,LaraBurson,84
+85,133788,133788,Miso,Kim,US,Male,37.8271784,-122.2913078,Asian,linkedin,https://www.linkedin.com/in/miso-kim-72471936,133788,MisoKim,85
+86,115777,115777,Pat,Shah,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/pshah1,115777,PatShah,86
+87,28531,28531,Joao,Carlos Costa,GB,Male,51.5073509,-0.1277583,White/Caucasian,linkedin,https://www.linkedin.com/in/joao-carlos-costa-00297,28531,JoaoCarlos Costa,87
+88,22366,22366,Sanjay,Nand,GB,Male,51.5073509,-0.1277583,Asian,linkedin,https://www.linkedin.com/in/sanjaynand1?authType=name&authToken=XlrF&trk=prof-sb-browse_map-name,22366,SanjayNand,88
+89,87784,87784,Eric,Solomon,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/eric-solomon-6abaa04,87784,EricSolomon,89
+90,109654,109654,Leo,Woessner,US,Male,37.09024,-95.712891,White/Caucasian,linkedin,https://www.linkedin.com/in/estezz,109654,LeoWoessner,90
+91,194543,194543,Mujtaba,Ghouse,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/mujtabag?authType=NAME_SEARCH&authToken=rsI6,194543,MujtabaGhouse,91
+92,115841,115841,Kelly,Bork,US,Female,47.606139,-122.342528,White/Caucasian,linkedin,https://www.linkedin.com/in/kellybork,115841,KellyBork,92
+93,48864,48864,Nizam,Alfian Jasmani,SG,Male,1.3553794,103.8677444,Asian,linkedin,https://www.linkedin.com/in/nizam-alfian-jasmani-399bb141,48864,NizamAlfian Jasmani,93
+94,17130,17130,Robin,Groom,FR,Male,43.4939571,5.8930665,White/Caucasian,linkedin,https://fr.linkedin.com/in/robin-groom-0a8334,17130,RobinGroom,94
+95,9139,9139,Axel,Heuser,CH,Male,47.5619253,7.592768,White/Caucasian,linkedin,https://www.linkedin.com/in/axel-heuser-505475aa,9139,AxelHeuser,95
+96,80295,80295,Wenhui,Liu,US,Male,37.4323341,-121.8995741,Asian,linkedin,https://www.linkedin.com/in/wenhui-liu-01b79425?authType=name&authToken=sq0l,80295,WenhuiLiu,96
+97,187211,187211,Samantha,Silverman,US,Female,41.8781136,-87.6297982,White/Caucasian,linkedin,https://www.linkedin.com/in/samantha-kopin-silverman-479759a9?authType=name&authToken=Vqgy,187211,SamanthaSilverman,97
+98,187578,187578,Marybeth,Skill,US,Female,33.7489954,-84.3879824,White/Caucasian,linkedin,https://www.linkedin.com/in/marybethskill,187578,MarybethSkill,98
+99,32560,32560,Margaret,Duffy,GB,Female,51.7520209,-1.2577263,White/Caucasian,linkedin,https://www.linkedin.com/in/margaret-duffy-9574627b?authType=name&authToken=SuEc,32560,MargaretDuffy,99

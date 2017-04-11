@@ -1,0 +1,2724 @@
+'https://www.linkedin.com/in/byron-young-24179644 - 600'
+   cand_id firstname                   img_path lastname  \
+0      600     Byron  photo/profile_img_600.jpg    Young   
+
+                                                url  
+0  https://www.linkedin.com/in/byron-young-24179644  
+   cand_id country endMonth  endYear   locationName        name  startMonth  \
+0      600      US        1     2013  San Francisco  AdRoll.com           7   
+1      600      US        7     2012  San Francisco     Expedia           2   
+2      600      US        2     2015  San Francisco      AdRoll           2   
+3      600      US        2     2014  San Francisco      AdRoll           1   
+4      600      US  Present  Present            NaN      AdRoll           2   
+
+   startYear  
+0       2012  
+1       2012  
+2       2014  
+3       2013  
+4       2015  
+   cand_id country endMonth  endYear                               name  \
+0      600      US  Present  Present     University of Colorado Boulder   
+1      600      US  Present     2005  University of Colorado at Boulder   
+
+   startYear  
+0        NaN  
+1     2001.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/david-granados-a5625b13 - 601'
+   cand_id firstname                   img_path  lastname  \
+0      601     David  photo/profile_img_601.jpg  Granados   
+
+                                                 url  
+0  https://www.linkedin.com/in/david-granados-a56...  
+   cand_id country endMonth  endYear           locationName  \
+0      601      US  Present  Present  Cupertino, California   
+1      601      US        2     2008                    NaN   
+2      601      US        3     2012                    NaN   
+3      601      US        9     2014            Fontana, CA   
+4      601      US        5     2008                    NaN   
+
+                       name  startMonth  startYear  
+0                     Apple           1       2015  
+1                    Stadco          10       2007  
+2               MillenWorks           9       2008  
+3               S&B Filters           2       2012  
+4  CACO PACIFIC Corporation           3       2008  
+   cand_id country endMonth  endYear                     name  startYear
+0      601      US  Present  Present  Mt. San Antonio College        NaN
+1      601      US  Present     2008  Mt. San Antonio College     2007.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/kirsten-pine-a237683 - 602'
+   cand_id firstname img_path lastname  \
+0      602   Kirsten      NaN     Pine   
+
+                                                url  
+0  https://www.linkedin.com/in/kirsten-pine-a237683  
+   cand_id country endMonth  endYear               locationName          name  \
+0      602      US       12     2009         Austin, Texas Area     Dell Inc.   
+1      602      US       12     2006         Austin, Texas Area  Dell Inc.Aus   
+2      602      US       11     2013       Greater Chicago Area     Dell Inc.   
+3      602      US  Present  Present  Mountain View, California        Google   
+4      602      US        7     2013          Chicago, Illinois          Dell   
+
+   startMonth  startYear  
+0           1       2007  
+1           5       2005  
+2           8       2013  
+3          12       2013  
+4           1       2010  
+   cand_id country endMonth  endYear                    name  startYear
+0      602      US  Present  Present  University of Michigan        NaN
+1      602      US  Present     2003  University of Michigan     2002.0
+2      602      US  Present     2002  University of Michigan     1998.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/amyderdzinski?trk=pub-pbmap - 603'
+   cand_id firstname                   img_path    lastname  \
+0      603       Amy  photo/profile_img_603.jpg  Derdzinski   
+
+                                                 url  
+0  https://www.linkedin.com/in/amyderdzinski?trk=...  
+   cand_id country endMonth  endYear               locationName  \
+0      603      US  Present  Present  Somerville, Massachusetts   
+1      603      US        9     2014        Greater Boston Area   
+2      603      US        5     2014                        NaN   
+3      603      US       10     2015      Boston, Massachusetts   
+4      603      US       12     2014        Greater Boston Area   
+5      603      US       10     2016                        NaN   
+
+                                                name  startMonth  startYear  
+0                                    OHO Interactive          11       2015  
+1                                   Tree In the City           6       2014  
+2  Council for Accreditation in Occupational Hear...          12       2013  
+3                                Genuine Interactive           2       2015  
+4                                   General Assembly           9       2014  
+5                                   Code for America          10       2016  
+   cand_id country endMonth  endYear  \
+0      603      US  Present  Present   
+1      603      US  Present     2014   
+2      603      US  Present     2014   
+3      603      US  Present     2009   
+
+                                         name  startYear  
+0  The Art Institutes International-Minnesota        NaN  
+1                  Milwaukee Portfolio School     2014.0  
+2           University of Wisconsin-Milwaukee     2012.0  
+3  The Art Institutes International-Minnesota     2007.0  
+   cand_id    name      proficiency
+0      603  Arabic  LIMITED_WORKING
+'https://www.linkedin.com/in/zeev-schultz-80718b1 - 604'
+   cand_id firstname                   img_path lastname  \
+0      604      Zeev  photo/profile_img_604.jpg  Schultz   
+
+                                                url  
+0  https://www.linkedin.com/in/zeev-schultz-80718b1  
+   cand_id country endMonth  endYear            locationName  \
+0      604      IL  Present     2001                  Israel   
+1      604      US  Present  Present  San Francisco Bay Area   
+2      604      IL        8     2012                  Israel   
+3      604      US  Present  Present  San Francisco Bay Area   
+4      604      IL        8     2012                  Israel   
+
+                         name  startMonth  startYear  
+0         IBM Global Services         NaN       1999  
+1  Hewlett Packard Enterprise         1.0       2015  
+2                          HP         7.0       2009  
+3                 HP Software         9.0       2012  
+4                          HP        11.0       2001  
+   cand_id country endMonth  endYear                 name  startYear
+0      604      IL  Present  Present  Bar-Ilan University        NaN
+1      604      IL  Present     2010  Bar-Ilan University     2006.0
+2      604      IL  Present     2004  Bar-Ilan University     1999.0
+   cand_id     name        proficiency
+0      604  English  FULL_PROFESSIONAL
+'https://www.linkedin.com/in/rockymccorkle - 605'
+   cand_id firstname                   img_path  lastname  \
+0      605     Rocky  photo/profile_img_605.jpg  McCorkle   
+
+                                         url  
+0  https://www.linkedin.com/in/rockymccorkle  
+   cand_id country endMonth  endYear            locationName  \
+0      605      US        8     2015  San Francisco Bay Area   
+1      605      US        8     2015  San Francisco Bay Area   
+2      605      US  Present  Present       Mountain View, CA   
+3      605      US        8     2015          Emeryville, CA   
+4      605      US        2     2016       Mountain View, CA   
+5      605      US  Present  Present                     NaN   
+
+                                  name  startMonth  startYear  
+0                        Sugar Digital           8       2013  
+1                       The North Face           8       2013  
+2                     Beyond at Google           2       2016  
+3                           Title Nine          12       2008  
+4                               Google           8       2015  
+5  CIty College of San Francisco Board           9       2015  
+   cand_id country endMonth  endYear                         name  startYear
+0      605      US  Present  Present    The Ohio State University        NaN
+1      605      US  Present  Present  San Francisco Art Institute        NaN
+2      605      US  Present  Present      Wright State University        NaN
+3      605      US  Present     2001      Wright State University     1996.0
+4      605      US  Present     2007  San Francisco Art Institute     2005.0
+5      605      US  Present     2005    The Ohio State University     2001.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/niroshan-sooriyakumar-a24a506b - 606'
+   cand_id firstname img_path      lastname  \
+0      606  Niroshan      NaN  Sooriyakumar   
+
+                                                 url  
+0  https://www.linkedin.com/in/niroshan-sooriyaku...  
+   cand_id country endMonth  endYear          locationName             name  \
+0      606      CA        8     2010         Markham, Ont.  IBM Canada Ltd.   
+1      606      CA        7     2015  Toronto, Canada Area    Bibliocommons   
+2      606      CA  Present  Present  Toronto, Canada Area    BiblioCommons   
+
+   startMonth  startYear  
+0           5       2009  
+1           9       2011  
+2           7       2015  
+   cand_id country endMonth  endYear                   name  startYear
+0      606      CA  Present  Present  University of Toronto        NaN
+1      606      CA  Present     2011  University of Toronto     2006.0
+   cand_id     name          proficiency
+0      606  English  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/james-freeby-2b556843 - 607'
+   cand_id firstname img_path lastname  \
+0      607     James      NaN   Freeby   
+
+                                                 url  
+0  https://www.linkedin.com/in/james-freeby-2b556843  
+   cand_id country endMonth  endYear          locationName  \
+0      607      US  Present  Present                   NaN   
+1      607      US        1     2004         san francisco   
+2      607      US  Present     2006                   NaN   
+3      607      US  Present  Present  Berkeley, California   
+4      607      US  Present     2010                   NaN   
+
+                                                name  startMonth  startYear  
+0                                  iHomefinder, Inc.         NaN       2010  
+1                                           Blue Dot         1.0       2001  
+2  AAA Northern California, Nevada & Utah Insuran...         NaN       2004  
+3                                  iHomefinder, Inc.         6.0       2014  
+4                                       DigitalGlobe         NaN       2006  
+   cand_id country endMonth  endYear                                  name  \
+0      607      US  Present     2001  University of California, Santa Cruz   
+1      607      US  Present     1991    University of California, Berkeley   
+
+   startYear  
+0       1998  
+1       1987  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/terry-madden-025a834 - 608'
+   cand_id firstname                   img_path lastname  \
+0      608     Terry  photo/profile_img_608.jpg   Madden   
+
+                                                url  
+0  https://www.linkedin.com/in/terry-madden-025a834  
+   cand_id country endMonth  endYear                         locationName  \
+0      608      IE  Present  Present                    Limerick, Ireland   
+1      608      IE        9     2010                             Limerick   
+2      608    None        2     2008  New Facility Startup in Lodz Poland   
+
+   name  startMonth  startYear  
+0  Dell           9       2010  
+1  Dell           2       2008  
+2  Dell           6       2006  
+   cand_id country endMonth  endYear                    name
+0      608      IE  Present  Present  University of Limerick
+1      608      IE  Present  Present  University of Limerick
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/simon-folie-4baa5769 - 609'
+   cand_id firstname                   img_path lastname  \
+0      609     Simon  photo/profile_img_609.jpg    Folie   
+
+                                                url  
+0  https://www.linkedin.com/in/simon-folie-4baa5769  
+   cand_id country endMonth  endYear locationName  \
+0      609      IT       10     2009          NaN   
+1      609      AT  Present  Present         Wien   
+2      609      DE        7     2014          NaN   
+3      609      GB        6     2013          NaN   
+4      609      GB       12     2015          NaN   
+
+                          name  startMonth  startYear  
+0                   Bidac GmbH           7       2009  
+1               zeb consulting           1       2016  
+2        holub.steiner.partner          11       2010  
+3  University of Hertfordshire           9       2012  
+4               zeb consulting           9       2014  
+   cand_id country endMonth  endYear                          name  startYear
+0      609      GB  Present  Present   University of Hertfordshire        NaN
+1      609      AT  Present  Present  Technische UniversitÃ¤t Wien        NaN
+2      609      AT  Present     2011                       TU Wien     2007.0
+3      609      AT  Present     2014                       TU Wien     2011.0
+4      609      GB  Present     2013   University of Hertfordshire     2013.0
+   cand_id     name        proficiency
+0      609  English  FULL_PROFESSIONAL
+'https://www.linkedin.com/in/amynhuff - 610'
+   cand_id firstname                   img_path lastname  \
+0      610       Amy  photo/profile_img_610.jpg     Huff   
+
+                                    url  
+0  https://www.linkedin.com/in/amynhuff  
+   cand_id country endMonth  endYear          locationName  \
+0      610      US  Present  Present            Duluth, GA   
+1      610      US        8     2007  Greater Atlanta Area   
+2      610      US       11     1997            Duluth, GA   
+3      610      US       12     2001            Duluth, GA   
+4      610      US        5     2006            Duluth, GA   
+
+                                                name  startMonth  startYear  
+0  Horizon Software International (subsidiary of ...           8       2007  
+1                Horizon Software International, LLC           5       2006  
+2  Horizon Software International (subsidiary of ...           2       1997  
+3  Horizon Software International (subsidiary of ...          11       1997  
+4  Horizon Software International (subsidiary of ...          12       2001  
+   cand_id country endMonth  endYear                                     name
+0      610      US  Present  Present                    University at Buffalo
+1      610      US  Present  Present  State University of New York at Buffalo
+2      610      US  Present  Present             Frontier Central High School
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/asheta-shah-19362b3?authType=name&authToken=ePbd&trk=prof-sb-browse_map-name - 611'
+   cand_id firstname                   img_path lastname  \
+0      611    Asheta  photo/profile_img_611.jpg     Shah   
+
+                                                 url  
+0  https://www.linkedin.com/in/asheta-shah-19362b...  
+   cand_id country endMonth  endYear            locationName      name  \
+0      611      US  Present  Present  San Francisco Bay Area   Sephora   
+1      611      US  Present  Present  San Francisco Bay Area   SEPHORA   
+2      611      US  Present  Present  San Francisco Bay Area   SEPHORA   
+3      611      US        9     2012                     NaN  LeapFrog   
+4      611      US        4     2013          Emeryville, CA  LeapFrog   
+
+   startMonth  startYear  
+0           4       2013  
+1          10       2016  
+2          10       2013  
+3           6       2010  
+4           9       2012  
+   cand_id country endMonth  endYear                            name
+0      611      US  Present  Present  San Francisco State University
+1      611      US  Present  Present  San Francisco State University
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/aakash-namboodri-ms-mba-candidate-56345749 - 612'
+   cand_id         firstname                   img_path          lastname  \
+0      612  Aakash Namboodri  photo/profile_img_612.jpg  MS,MBA Candidate   
+
+                                                 url  
+0  https://www.linkedin.com/in/aakash-namboodri-m...  
+   cand_id country endMonth  endYear          locationName  \
+0      612      US  Present  Present  Greater Detroit Area   
+1      612      US        6     2012   Columbus, Ohio Area   
+2      612      US       10     2014  Greater Detroit Area   
+3      612      US  Present  Present  Greater Detroit Area   
+4      612      IN        6     2008                   NaN   
+5      612      US        3     2016                   NaN   
+
+                              name  startMonth  startYear  
+0                 Lear Corporation          10       2014  
+1          Pacer International Inc           7       2011  
+2               Ford Motor Company           4       2012  
+3                   General Motors           9       2016  
+4  Narayan InfinityRajasthan India           1       2007  
+5          OAKLAND FAMILY SERVICES           3       2016  
+   cand_id country endMonth  endYear                         name  startYear
+0      612      IN  Present  Present      University of Rajasthan        NaN
+1      612      US  Present  Present           Oakland University        NaN
+2      612      US  Present  Present  Western Michigan University        NaN
+3      612      US  Present     2011  Western Michigan University     2009.0
+4      612      IN  Present     2007      University of Rajasthan     2003.0
+5      612      US  Present     2017           Oakland University     2015.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/pub/paula-reyes/14/ab1/4a5 - 613'
+   cand_id firstname                   img_path lastname  \
+0      613     Paula  photo/profile_img_613.jpg    Reyes   
+
+                                                 url  
+0  https://www.linkedin.com/pub/paula-reyes/14/ab...  
+   cand_id country  endMonth  endYear  locationName  \
+0      613      US         6     2016           NaN   
+1      613      US         6     2012  Cranbury, NJ   
+2      613      US         9     2009           NaN   
+3      613      US         6     2014           NaN   
+4      613      US         2     2011           NaN   
+
+                                name  startMonth  startYear  
+0                         Akorn, Inc           7       2014  
+1  Sun Pharmaceutical Industries Ltd           4       2011  
+2                              Wyeth           7       2007  
+3            Valeant Pharmaceuticals           7       2012  
+4                             Pfizer           9       2009  
+   cand_id country endMonth  endYear                        name  startYear
+0      613      US  Present  Present  Montclair State University        NaN
+1      613      US  Present     2006  Montclair State University     2002.0
+2      613      US  Present     1997  Montclair State University     1995.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/konrad-dobrowolski-96884430 - 614'
+   cand_id firstname                   img_path     lastname  \
+0      614    Konrad  photo/profile_img_614.jpg  Dobrowolski   
+
+                                                 url  
+0  https://www.linkedin.com/in/konrad-dobrowolski...  
+   cand_id country endMonth  endYear                       locationName  \
+0      614    None  Present  Present                            Ireland   
+1      614      PL        6     2012                Warsaw Area, Poland   
+2      614      PL        4     2013  Warsaw, Masovian District, Poland   
+3      614      IE        4     2015                    Dublin, Ireland   
+4      614      PL        9     2010                Warsaw Area, Poland   
+
+                        name  startMonth  startYear  
+0  Houghton Mifflin Harcourt           5       2015  
+1              Orange Polska           2       2011  
+2                 Billennium           7       2012  
+3                FÃ³nua Ltd.          11       2013  
+4                    Trimtab           3       2010  
+   cand_id country endMonth  endYear  \
+0      614    None  Present  Present   
+1      614      US  Present     2016   
+2      614      PL  Present  Present   
+
+                                                name  startYear  
+0  Polsko-JapoÅska WyÅ¼sza SzkoÅa Technik Kompu...        NaN  
+1                          US Permaculture Institute     2016.0  
+2  Polish - Japanese Institute of Information Tec...        NaN  
+   cand_id     name        proficiency
+0      614  English  FULL_PROFESSIONAL
+'https://au.linkedin.com/in/melanie-perez-66197835 - 615'
+   cand_id firstname img_path lastname  \
+0      615   No name      NaN  No name   
+
+                                                 url  
+0  https://au.linkedin.com/in/melanie-perez-66197835  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/debora-bobo-6269841?authType=name&authToken=kf1N - 616'
+   cand_id firstname                   img_path lastname  \
+0      616    Debora  photo/profile_img_616.jpg     Bobo   
+
+                                                 url  
+0  https://www.linkedin.com/in/debora-bobo-626984...  
+   cand_id country endMonth  endYear            locationName  \
+0      616      FR        9     2006                     NaN   
+1      616      CA        7     2014    Toronto, Canada Area   
+2      616      FR  Present  Present      Paris Area, France   
+3      616      GB       12     2012  London, United Kingdom   
+4      616      FR        7     2011      Paris Area, France   
+
+                              name  startMonth  startYear  
+0                        BT France           3       2005  
+1                  Ecocarrier Inc.           3       2013  
+2                          Arkadin           1       2015  
+3  Leadformance PagesJaunes Groupe           2       2012  
+4                        Transatel          10       2006  
+   cand_id country endMonth  endYear  \
+0      616      US  Present  Present   
+1      616      FR  Present  Present   
+2      616      FR  Present  Present   
+3      616      FR  Present     2009   
+4      616      US  Present     2002   
+5      616      FR  Present     2002   
+
+                                                name  startYear  
+0  Michigan State University - The Eli Broad Coll...        NaN  
+1                                           IAE Caen        NaN  
+2                              NEOMA Business School        NaN  
+3                                           IAE Caen     2008.0  
+4  Michigan State University - The Eli Broad Coll...     2002.0  
+5                              Rouen Business School     1998.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/nicolas-corai-3957a91 - 617'
+   cand_id firstname img_path lastname  \
+0      617   Nicolas      NaN    Corai   
+
+                                                 url  
+0  https://www.linkedin.com/in/nicolas-corai-3957a91  
+   cand_id country endMonth  endYear              name  startMonth  startYear
+0      617      PH        1     2006  Intersperse, Inc         4.0       2003
+1      617      US        5     2012    SonicWALL, Inc         1.0       2006
+2      617      US  Present  Present    Dell SonicWALL         5.0       2012
+3      617      US  Present     2003           Fasturn         NaN       2001
+   cand_id country endMonth  endYear  \
+0      617      US  Present  Present   
+1      617      FR  Present  Present   
+2      617      FR  Present  Present   
+3      617      FR  Present  Present   
+4      617      US  Present     1999   
+
+                                                name  startYear  
+0                          San Jose State University        NaN  
+1  ESME-Sudria | Ecole spÃ©ciale de MÃ©canique et...        NaN  
+2  ESME-Sudria | Ecole spÃ©ciale de MÃ©canique et...        NaN  
+3                                       Lycee Buffon        NaN  
+4                          San Jose State University     1998.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/kavitasharda - 618'
+   cand_id firstname img_path lastname  \
+0      618    Kavita      NaN   Sharda   
+
+                                        url  
+0  https://www.linkedin.com/in/kavitasharda  
+   cand_id country endMonth  endYear   locationName          name  startMonth  \
+0      618      US        4     2012            NaN  Coupons Inc.         4.0   
+1      618      US  Present  Present  Mountain view   Coupons.com         1.0   
+2      618      US        9     2008            NaN     Microsoft         9.0   
+3      618      GB        4     2011            NaN   Pie Digital         6.0   
+4      618      US  Present     2006            NaN     InnoMedia         NaN   
+
+   startYear  
+0       2011  
+1       2013  
+2       2007  
+3       2009  
+4       2006  
+   cand_id country endMonth  endYear                                  name  \
+0      618      US  Present  Present  California State University-East Bay   
+1      618      US  Present     2009  California State University-East Bay   
+2      618      IN  Present     2004   Vishwakarma Institute of technology   
+
+   startYear  
+0        NaN  
+1     2008.0  
+2     2000.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/neildhanowa - 619'
+   cand_id firstname                   img_path lastname  \
+0      619      Neil  photo/profile_img_619.jpg  Dhanowa   
+
+                                       url  
+0  https://www.linkedin.com/in/neildhanowa  
+   cand_id country endMonth  endYear            locationName  \
+0      619      US        7     2015  San Francisco Bay Area   
+1      619      US       10     2014  San Francisco Bay Area   
+2      619      US  Present  Present  San Francisco Bay Area   
+3      619      US        9     2016  San Francisco Bay Area   
+4      619      US        3     2014  San Francisco Bay Area   
+5      619    None        1     2009                     NaN   
+
+                                                name  startMonth  startYear  
+0                                         BrightRoll           3       2015  
+1  IDG Consumer & SMB Brands (Macworld, PCWorld, ...           3       2014  
+2                                              Yahoo           9       2016  
+3                                              Yahoo           3       2015  
+4                                      Network World           6       2013  
+5         Antelope Neighborhood Accountability Board           1       2007  
+   cand_id country endMonth  endYear                             name  \
+0      619      US  Present  Present  University of California, Davis   
+1      619      US  Present     2004  University of California, Davis   
+
+   startYear  
+0        NaN  
+1     2000.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/luis-guedes-5a72856 - 620'
+   cand_id firstname                   img_path lastname  \
+0      620      Luis  photo/profile_img_620.jpg   Guedes   
+
+                                               url  
+0  https://www.linkedin.com/in/luis-guedes-5a72856  
+   cand_id country endMonth  endYear            locationName  \
+0      620      US        7     2014      Palm Beach Gardens   
+1      620      US  Present  Present  Greater Milwaukee Area   
+2      620      US       11     2012      Palm Beach Gardens   
+3      620      US       11     2011      Palm Beach Gardens   
+4      620      US       11     2015  San Angelo, Texas Area   
+5      620      US       11     2013                     NaN   
+
+                           name  startMonth  startYear  
+0                     Biomet 3i          11       2012  
+1  Dohmen Life Science Services           1       2016  
+2                     Biomet 3i          11       2010  
+3                     Biomet 3i           5       2008  
+4                      BEPC Inc           9       2015  
+5      St. Rita Catholic Church           5       2010  
+   cand_id country endMonth  endYear                        name  startYear
+0      620      PR  Present  Present  Universidad de Puerto Rico        NaN
+1      620      PR  Present     1975  Universidad de Puerto Rico     1972.0
+2      620      US  Present     2008             Dominguez Hills     2005.0
+   cand_id     name          proficiency
+0      620  English  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/yoganarasimha - 621'
+   cand_id             firstname                   img_path    lastname  \
+0      621  Yoganarasimha Prasad  photo/profile_img_621.jpg  Ramamurthy   
+
+                                         url  
+0  https://www.linkedin.com/in/yoganarasimha  
+   cand_id country endMonth  endYear            locationName  \
+0      621      US  Present  Present  San Francisco Bay Area   
+1      621    None  Present     2002                     NaN   
+2      621      MX  Present     1995                     NaN   
+3      621      US        1     2005                     NaN   
+4      621      US        6     2005                     NaN   
+
+                         name  startMonth  startYear  
+0                      IPsoft         6.0       2005  
+1  Sonata Software Ltd & ODSI         NaN       1995  
+2                        NIIT         NaN       1993  
+3                     Ensenda         7.0       2002  
+4               CNET Networks         2.0       2005  
+   cand_id country endMonth  endYear  \
+0      621      IN  Present  Present   
+1      621      US  Present  Present   
+2      621      US  Present     1989   
+3      621      IN  Present     1989   
+4      621      IN  Present     1991   
+
+                                           name  startYear  
+0  National Institute of Information Technology        NaN  
+1                              National College        NaN  
+2                              National College     1986.0  
+3                National College, Basavanagudi     1986.0  
+4  National Institute of Information Technology     1989.0  
+   cand_id     name        proficiency
+0      621  English  FULL_PROFESSIONAL
+'https://www.linkedin.com/in/abhijith-chandrashekar-2a538423?authType=NAME_SEARCH&authToken=oR0Z - 622'
+   cand_id firstname                   img_path       lastname  \
+0      622  Abhijith  photo/profile_img_622.jpg  Chandrashekar   
+
+                                                 url  
+0  https://www.linkedin.com/in/abhijith-chandrash...  
+   cand_id country endMonth  endYear            locationName  \
+0      622      IN        6     2010   Bengaluru Area, India   
+1      622      US  Present  Present  San Francisco Bay Area   
+2      622      US        8     2011       Hillsboro, Oregon   
+
+                name  startMonth  startYear  
+0           Mindteck           1       2010  
+1     Citrix Systems           2       2012  
+2  Intel Corporation           5       2011  
+   cand_id country endMonth  endYear                                   name  \
+0      622      IN  Present  Present  Visvesvaraya Technological University   
+1      622      US  Present  Present                  University of Florida   
+2      622      IN  Present     2010  Visvesvaraya Technological University   
+3      622      US  Present     2011                  University of Florida   
+4      622      IN  Present     2006      Sri Kumaran Children's Home, CBSE   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2006.0  
+3     2010.0  
+4        NaN  
+Empty DataFrame
+Columns: []
+Index: []
+'https://uk.linkedin.com/in/seungbeom-roh-93339549 - 623'
+   cand_id firstname img_path lastname  \
+0      623   No name      NaN  No name   
+
+                                                 url  
+0  https://uk.linkedin.com/in/seungbeom-roh-93339549  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/sylvia-gamio-b8b7a9b0 - 624'
+   cand_id firstname img_path lastname  \
+0      624    Sylvia      NaN    Gamio   
+
+                                                 url  
+0  https://www.linkedin.com/in/sylvia-gamio-b8b7a9b0  
+   cand_id country endMonth  endYear               name  startMonth  startYear
+0      624      US  Present     2011   Ophtec USA, Inc.         NaN       2008
+1      624      US        1     2015  Tria Beauty, Inc.        11.0       2011
+2      624      US       12     2016             ZELTIQ         3.0       2015
+3      624      US  Present  Present             ZELTIQ         1.0       2017
+   cand_id country endMonth  endYear                         name
+0      624      US  Present  Present  Florida Atlantic University
+1      624      US  Present  Present  Florida Atlantic University
+2      624      US  Present  Present  Florida Atlantic University
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/danlee2?authType=NAME_SEARCH&authToken=LXEN&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A55207852%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1465360132330%2Ctas%3ADan%20Lee%20Accusoft%20 - 625'
+   cand_id firstname img_path lastname  \
+0      625       Dan      NaN      Lee   
+
+                                                 url  
+0  https://www.linkedin.com/in/danlee2?authType=N...  
+   cand_id country endMonth  endYear                        locationName  \
+0      625      US       11     2016  Tampa/St. Petersburg, Florida Area   
+1      625      US        3     2014                                 NaN   
+2      625      US  Present  Present                                 NaN   
+3      625      US       12     2014  Tampa/St. Petersburg, Florida Area   
+4      625      US  Present     2009                                 NaN   
+5      625      US       11     2016  Tampa/St. Petersburg, Florida Area   
+6      625      US        3     2014                                 NaN   
+7      625      US  Present  Present                                 NaN   
+8      625      US       12     2014  Tampa/St. Petersburg, Florida Area   
+9      625      US  Present     2009                                 NaN   
+
+                   name  startMonth  startYear  
+0              Accusoft        12.0       2014  
+1   NEWSCYCLE Solutions         6.0       2010  
+2              AutoLoop        11.0       2016  
+3              Accusoft         3.0       2014  
+4  World Publishing Co.         NaN       2007  
+5              Accusoft        12.0       2014  
+6   NEWSCYCLE Solutions         6.0       2010  
+7              AutoLoop        11.0       2016  
+8              Accusoft         3.0       2014  
+9  World Publishing Co.         NaN       2007  
+   cand_id country endMonth  endYear                        name  startYear
+0      625      US  Present  Present       University of Phoenix        NaN
+1      625      US  Present     2004       University of Phoenix     2000.0
+2      625      US  Present     1989     Mount Baker High School     1985.0
+3      625      US  Present  Present  U.S. Navy Submarine School        NaN
+4      625      US  Present  Present       University of Phoenix        NaN
+5      625      US  Present     2004       University of Phoenix     2000.0
+6      625      US  Present     1989     Mount Baker High School     1985.0
+7      625      US  Present  Present  U.S. Navy Submarine School        NaN
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/moriyagi - 626'
+   cand_id firstname                   img_path lastname  \
+0      626      Mori  photo/profile_img_626.jpg     Yagi   
+
+                                    url  
+0  https://www.linkedin.com/in/moriyagi  
+   cand_id country endMonth  endYear            locationName  \
+0      626      US        3     2015  San Francisco Bay Area   
+1      626      US        4     2016  San Francisco Bay Area   
+2      626      US        2     2015  San Francisco Bay Area   
+3      626      US       12     2013           San Francisco   
+4      626      US  Present  Present  San Francisco Bay Area   
+
+                           name  startMonth  startYear  
+0                    Chegg Inc.           6       2014  
+1                    Chegg Inc.           3       2015  
+2  InstaEDU (acquired by Chegg)          12       2013  
+3          estorm international           9       2013  
+4                    Chegg Inc.           4       2016  
+   cand_id country endMonth  endYear                                 name  \
+0      626      US  Present  Present   University of California San Diego   
+1      626      US  Present     2005  University of California, San Diego   
+
+   startYear  
+0        NaN  
+1     2000.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/justinadler1 - 627'
+   cand_id firstname                   img_path lastname  \
+0      627    Justin  photo/profile_img_627.jpg    Adler   
+
+                                        url  
+0  https://www.linkedin.com/in/justinadler1  
+   cand_id country endMonth  endYear            locationName  \
+0      627      US       12     2016  San Francisco Bay Area   
+1      627      ES        5     2013   Barcelona Area, Spain   
+2      627      US  Present  Present                     NaN   
+3      627      US        1     2013            Brooklyn, NY   
+4      627      US       11     2015  San Francisco Bay Area   
+
+               name  startMonth  startYear  
+0   Chubbies Shorts          11       2015  
+1  Freelance Writer           1       2012  
+2    PAX Labs, Inc.           1       2017  
+3     Gelf Magazine           4       2009  
+4         Betabrand           5       2013  
+   cand_id country endMonth  endYear                   name
+0      627      US  Present  Present  University of Arizona
+1      627      US  Present  Present  University of Arizona
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/bryan-mcnett-8b57681 - 628'
+   cand_id firstname img_path lastname  \
+0      628     Bryan      NaN   McNett   
+
+                                                url  
+0  https://www.linkedin.com/in/bryan-mcnett-8b57681  
+   cand_id country endMonth  endYear       locationName                  name  \
+0      628      US        4     2002  New York City, NY  Powerhead Games, LLC   
+1      628      US  Present  Present   Santa Monica, CA           Naughty Dog   
+2      628      US        4     2007   Santa Monica, CA              Treyarch   
+3      628      US  Present     2007   Santa Monica, CA            Activision   
+4      628      US  Present     2000      Glen Rock, NJ       Big Panda House   
+
+   startMonth  startYear  
+0         1.0       2000  
+1         4.0       2007  
+2         8.0       2002  
+3         NaN       2002  
+4         NaN       1997  
+   cand_id country endMonth  endYear                             name  \
+0      628      US  Present  Present  Stevens Institute of Technology   
+1      628      US  Present     1995  Stevens Institute of Technology   
+2      628      US  Present  Present             Millburn High School   
+
+   startYear  
+0        NaN  
+1     1990.0  
+2        NaN  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/rohitsampige - 629'
+   cand_id firstname                   img_path lastname  \
+0      629     Rohit  photo/profile_img_629.jpg  Sampige   
+
+                                        url  
+0  https://www.linkedin.com/in/rohitsampige  
+   cand_id country endMonth  endYear            locationName  \
+0      629      US  Present     2014  San Francisco Bay Area   
+1      629      US  Present  Present  San Francisco Bay Area   
+2      629      GB  Present     2006                     NaN   
+3      629      US  Present     2004                     NaN   
+4      629      GB  Present     2009  London, United Kingdom   
+
+                     name  startYear  
+0                 Infosys       2009  
+1                 Infosys       2014  
+2    BT - Global Services       2004  
+3           Cisco Systems       2002  
+4  BT Media and Broadcast       2006  
+   cand_id country endMonth  endYear                            name
+0      629      IN  Present  Present  Indian Institute of Technology
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/roshan-fernandes-47670b1 - 630'
+   cand_id firstname                   img_path   lastname  \
+0      630    Roshan  photo/profile_img_630.jpg  Fernandes   
+
+                                                 url  
+0  https://www.linkedin.com/in/roshan-fernandes-4...  
+   cand_id country endMonth  endYear            locationName  \
+0      630      US  Present  Present  San Francisco Bay Area   
+1      630      IN        1     2003      Mumbai Area, India   
+2      630      IN       12     2007   Bengaluru Area, India   
+
+                name  startMonth  startYear  
+0             Google           1       2008  
+1  Rave Technologies           8       2000  
+2        OAT Systems           1       2003  
+   cand_id country endMonth  endYear                name
+0      630      IN  Present  Present  University of Pune
+1      630      IN        5     2000     Pune University
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/lisatgranata - 631'
+   cand_id firstname img_path lastname  \
+0      631   No name      NaN  No name   
+
+                                        url  
+0  https://www.linkedin.com/in/lisatgranata  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/jennifer-warren-b2994119?authType=NAME_SEARCH&authToken=8JRl&locale=en_US&trk=tyah - 632'
+   cand_id firstname                   img_path lastname  \
+0      632  Jennifer  photo/profile_img_632.jpg   Warren   
+
+                                                 url  
+0  https://www.linkedin.com/in/jennifer-warren-b2...  
+   cand_id country endMonth  endYear       locationName  \
+0      632      AU       11     2011  Sydney, Australia   
+1      632      GB  Present  Present                NaN   
+2      632      US        8     2012          Waterford   
+3      632      GB        5     2014  neath port talbot   
+4      632      GB  Present     2011                NaN   
+5      632      AU       11     2011  Sydney, Australia   
+6      632      GB  Present  Present                NaN   
+7      632      US        8     2012          Waterford   
+8      632      GB        5     2014  neath port talbot   
+9      632      GB  Present     2011                NaN   
+
+                                       name  startMonth  startYear  
+0                             Pharmaxis Ltd         8.0       2011  
+1                                   Norgine         5.0       2014  
+2                             EirGen Pharma         6.0       2012  
+3  Neath Port Talbot County Borough Council         9.0       2012  
+4                               Norgine LTD         NaN       2006  
+5                             Pharmaxis Ltd         8.0       2011  
+6                                   Norgine         5.0       2014  
+7                             EirGen Pharma         6.0       2012  
+8  Neath Port Talbot County Borough Council         9.0       2012  
+9                               Norgine LTD         NaN       2006  
+   cand_id country endMonth  endYear                                 name  \
+0      632      IE  Present     2003  Galway Mayo Institure of Technology   
+1      632      GB  Present     2013      Swansea Metropolitan University   
+2      632      IE  Present     2003  Galway Mayo Institure of Technology   
+3      632      GB  Present     2013      Swansea Metropolitan University   
+
+   startYear  
+0       1998  
+1       2012  
+2       1998  
+3       2012  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/jewely-dunn-cpa-2b0a0a14 - 633'
+   cand_id firstname                   img_path   lastname  \
+0      633    Jewely  photo/profile_img_633.jpg  Dunn, CPA   
+
+                                                 url  
+0  https://www.linkedin.com/in/jewely-dunn-cpa-2b...  
+   cand_id country endMonth  endYear                locationName  \
+0      633      US        9     2012                         NaN   
+1      633      US        5     2008                         NaN   
+2      633      US  Present  Present    Baltimore, Maryland Area   
+3      633      US        8     2015  Washington D.C. Metro Area   
+4      633      US        9     2010                         NaN   
+
+                  name  startMonth  startYear  
+0           SC&H Group          10       2010  
+1  TESSCO Technologies           6       2007  
+2          PANDORA A/S           8       2015  
+3                  PwC           9       2012  
+4           SC&H Group           5       2008  
+   cand_id country endMonth  endYear                     name  startYear
+0      633      US  Present  Present  Essex Community College        NaN
+1      633      US  Present  Present     Stevenson University        NaN
+2      633      US  Present  Present      Villa Julie College        NaN
+3      633      US  Present     2013     Stevenson University     2007.0
+4      633      US  Present     2008      Villa Julie College     2005.0
+5      633      US  Present     2005  Essex Community College     2003.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/marilee-niemi-8878912 - 634'
+   cand_id firstname img_path lastname  \
+0      634   Marilee      NaN    Niemi   
+
+                                                 url  
+0  https://www.linkedin.com/in/marilee-niemi-8878912  
+   cand_id country endMonth  endYear    locationName  \
+0      634      US  Present     2006             NaN   
+1      634      US        1     2012             NaN   
+2      634      US  Present  Present  Emeryville, CA   
+3      634      US        8     2007             NaN   
+
+                                    name  startMonth  startYear  
+0  Federal Reserve Bank of San Francisco         NaN       1998  
+1                          CafePress.com         8.0       2007  
+2                    Peet's Coffee & Tea         1.0       2012  
+3    PlanetMagpie IT Consulting Bay Area         9.0       2006  
+   cand_id country endMonth  endYear                               name  \
+0      634      US  Present  Present                  Albany Law School   
+1      634      US  Present  Present  Rochester Institute of Technology   
+2      634      US  Present     1995                  Albany Law School   
+3      634      US  Present     1993               Russell Sage College   
+4      634      US  Present     1997  Rochester Institute of Technology   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     1992.0  
+3     1989.0  
+4     1995.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/chenjieyu - 635'
+   cand_id firstname                   img_path lastname  \
+0      635   Chenjie  photo/profile_img_635.jpg       Yu   
+
+                                     url  
+0  https://www.linkedin.com/in/chenjieyu  
+   cand_id country endMonth  endYear   locationName  \
+0      635      US        5     2014  Mountain View   
+1      635      US  Present  Present            NaN   
+2      635      US        7     2012            NaN   
+3      635      US        8     2015  Mountain View   
+4      635      US        9     2011            NaN   
+
+                          name  startMonth  startYear  
+0                     LinkedIn           7       2012  
+1                       Google           8       2015  
+2                       Yahoo!           9       2011  
+3                     Tango Me           5       2014  
+4  Argonne National Laboratory           1       2011  
+   cand_id country endMonth  endYear                                 name  \
+0      635      US  Present  Present  University of Maryland College Park   
+1      635      CN  Present  Present        Shanghai Jiao Tong University   
+2      635      US  Present     2009  University of Maryland College Park   
+3      635      CN  Present     2005        Shanghai Jiao Tong University   
+4      635      US  Present     2010  University of Maryland College Park   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2005.0  
+3     2001.0  
+4     2005.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/sam-paluy-2562b9 - 636'
+   cand_id firstname                   img_path lastname  \
+0      636       Sam  photo/profile_img_636.jpg    Paluy   
+
+                                            url  
+0  https://www.linkedin.com/in/sam-paluy-2562b9  
+   cand_id country endMonth  endYear    locationName                    name  \
+0      636      US        4     2011    San Jose, CA       PACE Incorporated   
+1      636      US        5     2009             NaN      Dolby Laboratories   
+2      636      US        3     2011  Santa Cruz, CA       Plantronics,  Inc   
+3      636      US        5     2013       San Mateo  Avistar Communications   
+4      636      US  Present  Present    Sunnyvale,CA  Internet Private Store   
+
+   startMonth  startYear  
+0           3       2011  
+1           2       2009  
+2          12       2010  
+3           1       2012  
+4           6       2009  
+   cand_id country endMonth  endYear                                name
+0      636      RU  Present  Present  Radio University, Taganrog, Russia
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/tushar-tanwar-5727313 - 637'
+   cand_id firstname img_path lastname  \
+0      637    Tushar      NaN   Tanwar   
+
+                                                 url  
+0  https://www.linkedin.com/in/tushar-tanwar-5727313  
+   cand_id country endMonth  endYear                         name  startMonth  \
+0      637      US  Present  Present  Schering Plough Corporation         NaN   
+1      637      US        1     2007                       Abbott         1.0   
+2      637      US       12     2008                       Comsys         1.0   
+3      637      US  Present     2004                    Genentech         NaN   
+
+   startYear  
+0       2009  
+1       2005  
+2       2007  
+3       2003  
+   cand_id country endMonth  endYear                                name
+0      637      US  Present  Present  New Jersey Institute of Technology
+1      637      US  Present  Present                                NJIT
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/yawarmurad - 638'
+   cand_id firstname                   img_path lastname  \
+0      638     Yawar  photo/profile_img_638.jpg    Murad   
+
+                                      url  
+0  https://www.linkedin.com/in/yawarmurad  
+   cand_id country endMonth  endYear            locationName  \
+0      638      US        1     2011                     NaN   
+1      638      US        2     2007                     NaN   
+2      638      GB        1     2008                     NaN   
+3      638      US        1     2014                     NaN   
+4      638      GB  Present  Present  London, United Kingdom   
+
+               name  startMonth  startYear  
+0     GE Healthcare           1       2008  
+1           GE Life          11       2004  
+2        Lloyds TSB           3       2007  
+3  Alvarez & Marsal           1       2011  
+4                EY           1       2014  
+   cand_id country endMonth  endYear                    name  startMonth  \
+0      638      GB  Present  Present    Cass Business School         NaN   
+1      638      US  Present  Present  University of Michigan         NaN   
+2      638      US        5     1996  University of Michigan         9.0   
+3      638      US  Present     1997  University of Michigan         NaN   
+4      638      GB  Present     2004    Cass Business School         NaN   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     1992.0  
+3     1996.0  
+4     2002.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/tomasz-ludek-2119a839 - 639'
+   cand_id firstname                   img_path lastname  \
+0      639    Tomasz  photo/profile_img_639.jpg    Ludek   
+
+                                                 url  
+0  https://www.linkedin.com/in/tomasz-ludek-2119a839  
+   cand_id country endMonth  endYear                             locationName  \
+0      639      US  Present  Present                                      NaN   
+1      639      PL        5     2014  Poznan, Greater Poland District, Poland   
+2      639      PL        5     2013  Poznan, Greater Poland District, Poland   
+3      639    None        7     2016                                      NaN   
+4      639      PL       10     2013  Poznan, Greater Poland District, Poland   
+
+                                                name  startMonth  startYear  
+0                                             Toptal           3       2014  
+1                          Samsung Poland R&D Center           6       2013  
+2                                              ATREM           7       2012  
+3        Alt Tab - World's best developers on demand           6       2015  
+4  Freelance cooperation with Sputnik Software Sp...          11       2012  
+   cand_id country endMonth  endYear                             name  \
+0      639      PL  Present  Present  Poznan University of Technology   
+1      639      PL  Present  Present    Lodz University of Technology   
+2      639      PL  Present     2009  Poznan University of Technology   
+3      639      PL  Present     2011     Technical University of Lodz   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2004.0  
+3     2010.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/sethtisue - 640'
+   cand_id firstname                   img_path lastname  \
+0      640      Seth  photo/profile_img_640.jpg    Tisue   
+
+                                     url  
+0  https://www.linkedin.com/in/sethtisue  
+   cand_id country endMonth  endYear             locationName  \
+0      640      US  Present  Present        San Francisco, CA   
+1      640      US        4     2014             Evanston, IL   
+2      640      US  Present     2016            Cambridge, MA   
+3      640      US        5     2015      Greater Boston Area   
+4      640    None  Present  Present  http://www.scalawags.tv   
+
+                                                name  startMonth  startYear  
+0                                    Lightbend, Inc.         6.0       2015  
+1                            Northwestern University         NaN       2001  
+2  Boston Area Scala Enthusiasts & Northeast Scal...         NaN       2009  
+3                              McGraw-Hill Education         7.0       2014  
+4                                  Scalawags podcast         2.0       2014  
+   cand_id country endMonth  endYear                     name  startYear
+0      640      US  Present  Present  Northwestern University        NaN
+1      640      US  Present     1999  Northwestern University     1995.0
+2      640      US  Present     1993    University of Chicago     1989.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/harm-niederl%C3%A4nder-5a074315 - 641'
+   cand_id firstname                   img_path       lastname  \
+0      641      Harm  photo/profile_img_641.jpg  NiederlÃ¤nder   
+
+                                                 url  
+0  https://www.linkedin.com/in/harm-niederl%C3%A4...  
+   cand_id country endMonth  endYear                locationName  \
+0      641      NL        6     2011     Weesp Area, Netherlands   
+1      641      NL        8     2013  Nijmegen Area, Netherlands   
+2      641      NL       11     2011     Weesp area, Netherlands   
+3      641      NL  Present  Present   Haarlem Area, Netherlands   
+4      641      US  Present  Present                         NaN   
+
+                name  startMonth  startYear  
+0             Abbott           8       2007  
+1            Synthon          11       2011  
+2      Homage Pharma           6       2011  
+3  Teva Pharmachemie           9       2013  
+4         Free lance           6       2009  
+   cand_id country endMonth  endYear  \
+0      641      NL  Present  Present   
+1      641      NL  Present     1992   
+2      641      NL  Present     1988   
+
+                                          name  startYear  
+0  Vrije Universiteit Amsterdam (VU Amsterdam)        NaN  
+1  Vrije Universiteit Amsterdam (VU Amsterdam)     1988.0  
+2                 Vrije Universiteit Amsterdam     1981.0  
+   cand_id   name          proficiency
+0      641  Dutch  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/yi-wei-wu-b5503524/ - 642'
+   cand_id firstname                   img_path lastname  \
+0      642    Yi-Wei  photo/profile_img_642.jpg       Wu   
+
+                                               url  
+0  https://www.linkedin.com/in/yi-wei-wu-b5503524/  
+   cand_id country endMonth  endYear    locationName                 name  \
+0      642      US       12     2012   San Mateo, Ca  Tribal Technologies   
+1      642      US  Present  Present  Menlo Park, CA             Facebook   
+2      642    None        8     2015             NaN            Redbeacon   
+
+   startMonth  startYear  
+0          11       2010  
+1           9       2015  
+2          12       2012  
+   cand_id country endMonth  endYear                               name  \
+0      642      US  Present  Present  University of Southern California   
+1      642      TW  Present  Present        National Central University   
+2      642      US  Present     2010  University of Southern California   
+3      642      TW  Present     2008        National Central University   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2008.0  
+3     2004.0  
+   cand_id     name          proficiency
+0      642  Chinese  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/matthewwardenaar - 643'
+   cand_id firstname                   img_path   lastname  \
+0      643   Matthew  photo/profile_img_643.jpg  Wardenaar   
+
+                                            url  
+0  https://www.linkedin.com/in/matthewwardenaar  
+   cand_id country endMonth  endYear              locationName  \
+0      643      US  Present  Present  Greater Los Angeles Area   
+1      643      US       12     2016            Cupertino, Ca.   
+2      643      US  Present  Present            Palo Alto, Ca.   
+3      643      US        7     2015             San Francisco   
+4      643      US        8     2016     Cupertino, California   
+
+                   name  startMonth  startYear  
+0  MatthewWardenaar.com         NaN       2006  
+1                 Apple         8.0       2016  
+2              Cyanogen         1.0       2017  
+3     Turo (RelayRides)         8.0       2014  
+4                 Apple         8.0       2015  
+   cand_id country endMonth  endYear  \
+0      643      US  Present  Present   
+1      643      US  Present  Present   
+2      643      US  Present     2017   
+3      643      US  Present  Present   
+4      643      US  Present  Present   
+
+                                                name  startYear  
+0                                Stanford University        NaN  
+1                University of California, Riverside        NaN  
+2                                Stanford University     2016.0  
+3  Graduate School of Business Administration - C...        NaN  
+4                University of California, Riverside        NaN  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/leo-liang-li-55a6822b - 644'
+   cand_id   firstname                   img_path lastname  \
+0      644  Leo(Liang)  photo/profile_img_644.jpg       Li   
+
+                                                 url  
+0  https://www.linkedin.com/in/leo-liang-li-55a6822b  
+   cand_id country endMonth  endYear  \
+0      644      US        5     2016   
+1      644      US        3     2014   
+2      644      US        5     2014   
+3      644      US  Present  Present   
+4      644      US  Present  Present   
+
+                                       locationName                  name  \
+0                1000 enterprise way, sunnyvale, CA              Motorola   
+1                                       Fremont, CA              Lab2Apps   
+2                                   Santa Clara, CA     Intel Corporation   
+3                                               NaN  TCL Research America   
+4  2870 Zanker Rd, Suite 200 San Jose, CA 95134 USA                   TCL   
+
+   startMonth  startYear  
+0         5.0     2014.0  
+1         1.0     2013.0  
+2         3.0     2014.0  
+3         NaN        NaN  
+4         5.0     2016.0  
+   cand_id country endMonth  endYear                      name  startYear
+0      644      US  Present  Present  Florida State University        NaN
+1      644      CN  Present  Present          Jilin University        NaN
+2      644      CN  Present     2004          Jilin University     2000.0
+3      644      US  Present     2012  Florida State University     2010.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/blakeengel - 645'
+   cand_id firstname                   img_path lastname  \
+0      645     Blake  photo/profile_img_645.jpg    Engel   
+
+                                      url  
+0  https://www.linkedin.com/in/blakeengel  
+   cand_id country endMonth  endYear            locationName             name  \
+0      645      US        6     2013  San Francisco Bay Area      Bonnier R&D   
+1      645      US        7     2016       San Francisco, CA             Uber   
+2      645      US        6     2015                     NaN      Independent   
+3      645      US        4     2015  San Francisco Bay Area  Nextbit Systems   
+4      645      US  Present  Present  San Francisco Bay Area             Uber   
+
+   startMonth  startYear  
+0           7       2012  
+1           7       2015  
+2           5       2007  
+3           7       2013  
+4           7       2016  
+   cand_id country endMonth  endYear                             name
+0      645      US  Present  Present       Carnegie Mellon University
+1      645      DE  Present  Present  Technische UniversitÃ¤t Dresden
+2      645      US  Present  Present       Carnegie Mellon University
+3      645      DE  Present  Present  Technische UniversitÃ¤t Dresden
+   cand_id    name          proficiency
+0      645  German  NATIVE_OR_BILINGUAL
+'http://nl.linkedin.com/pub/leo-van-de-goor/14/a8/a54 - 646'
+   cand_id firstname img_path lastname  \
+0      646   No name      NaN  No name   
+
+                                                 url  
+0  http://nl.linkedin.com/pub/leo-van-de-goor/14/...  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/vickidorman - 647'
+   cand_id firstname                   img_path  lastname  \
+0      647     Vicki  photo/profile_img_647.jpg  Richards   
+
+                                       url  
+0  https://www.linkedin.com/in/vickidorman  
+   cand_id country endMonth  endYear            locationName            name  \
+0      647      GB  Present     2009                     NaN             PFJ   
+1      647      GB       11     2016  London, United Kingdom  Marin Software   
+2      647      GB  Present  Present  London, United Kingdom         Adthena   
+3      647      GB        3     2014  London, United Kingdom  Marin Software   
+4      647      GB        1     2013                  London             PFJ   
+
+   startMonth  startYear  
+0         NaN       2007  
+1         4.0       2014  
+2        12.0       2016  
+3         1.0       2013  
+4        10.0       2007  
+   cand_id country endMonth  endYear                           name  startYear
+0      647      GB  Present  Present       Leeds Beckett University        NaN
+1      647      GB  Present     2002  Leeds Metropolitan University     2000.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/jasonmaiser - 648'
+   cand_id firstname                   img_path lastname  \
+0      648     Jason  photo/profile_img_648.jpg   Maiser   
+
+                                       url  
+0  https://www.linkedin.com/in/jasonmaiser  
+   cand_id country endMonth  endYear           locationName  \
+0      648      US        3     2011  Microsoft, Redmond WA   
+1      648    None  Present  Present             Bothell WA   
+2      648      US        7     2011            Seattle, WA   
+3      648      US        1     2016           Bellevue, WA   
+4      648      US        4     2015      AT&T - Bothell WA   
+5      648      US  Present  Present                    NaN   
+
+                 name  startMonth  startYear  
+0           Microsoft         1.0     2011.0  
+1                AT&T         3.0     2016.0  
+2             Produxs         5.0     2011.0  
+3  Puget Sound Energy         5.0     2015.0  
+4       AT&T Mobility         8.0     2011.0  
+5       New London CT         NaN        NaN  
+   cand_id country endMonth  endYear                                     name  \
+0      648      US  Present  Present  Massachusetts College of Art and Design   
+1      648      US  Present  Present                 University of Washington   
+2      648      US  Present  Present                University of Connecticut   
+3      648      US  Present     1998            The University of Connecticut   
+4      648      US  Present     2010                 University of Washington   
+5      648      US  Present     2001  Massachusetts College of Art and Design   
+
+   startYear  
+0        NaN  
+1        NaN  
+2        NaN  
+3     1996.0  
+4     2009.0  
+5     1998.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/shridhar-dabhekar-92736236 - 649'
+   cand_id firstname img_path  lastname  \
+0      649  shridhar      NaN  dabhekar   
+
+                                                 url  
+0  https://www.linkedin.com/in/shridhar-dabhekar-...  
+   cand_id country endMonth  endYear                             name  \
+0      649      US       10     2013        Blue\tCanopy\tGroup,\tLLC   
+1      649      US        6     2014      Xavient Information Systems   
+2      649      US  Present  Present      Xavient Information Systems   
+3      649      US        5     2011  Stevens Institute of Technology   
+4      649      US        5     2013                   VolantSoft Inc   
+
+   startMonth  startYear  
+0           5       2013  
+1          10       2013  
+2           6       2014  
+3           1       2011  
+4           7       2012  
+   cand_id country endMonth  endYear                             name  \
+0      649      US  Present  Present  Stevens Institute of Technology   
+1      649      IN  Present  Present        SSJCOE, Mumbai University   
+2      649      US  Present     2012  Stevens Institute of Technology   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2010.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/jacoj - 650'
+   cand_id firstname                   img_path lastname  \
+0      650      Jaco  photo/profile_img_650.jpg   Jacobs   
+
+                                 url  
+0  https://www.linkedin.com/in/jacoj  
+   cand_id country endMonth  endYear                     locationName  \
+0      650      NL  Present  Present      Amsterdam Area, Netherlands   
+1      650      ZA        4     2007          Kosmosdal, South Africa   
+2      650      ZA        8     2007  Johannesburg Area, South Africa   
+3      650      ZA        7     2012  Johannesburg Area, South Africa   
+4      650      ZA        9     2003          Centurion, South Africa   
+
+        name  startMonth  startYear  
+0  Accenture           8       2012  
+1  GijimaAst          10       2003  
+2    Netcure           5       2006  
+3        IBM           8       2008  
+4     Condyn           9       2001  
+   cand_id country endMonth  endYear                               name  \
+0      650    None  Present     2007                       ISC2 - CISSP   
+1      650      ZA  Present     1996  Afrikaans Hoer Seunskool Pretoria   
+
+   startYear  
+0       2007  
+1       1992  
+   cand_id       name          proficiency
+0      650  Afrikaans  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/parasaranraman - 651'
+   cand_id  firstname                   img_path lastname  \
+0      651  Parasaran  photo/profile_img_651.jpg    Raman   
+
+                                          url  
+0  https://www.linkedin.com/in/parasaranraman  
+   cand_id country endMonth  endYear                         locationName  \
+0      651      US       12     2013                                  NaN   
+1      651      US        3     2015                        Sunnyvale, CA   
+2      651      IN        8     2009                     Bangalore, India   
+3      651      US        9     2012  Santa Clara - Great America Parkway   
+4      651      US  Present  Present          Greater Salt Lake City Area   
+5      651    None  Present  Present                                  NaN   
+
+                                            name  startMonth  startYear  
+0                             University of Utah           8       2009  
+1                                          Yahoo           1       2014  
+2                                         Yahoo!           6       2009  
+3                                         Yahoo!           5       2012  
+4                              Eastwind Networks           3       2015  
+5  Salt Lake Valley Science and Engineering Fair           3       2009  
+   cand_id country endMonth  endYear                name  startYear
+0      651      IN  Present  Present     Anna University        NaN
+1      651      US  Present  Present  University of Utah        NaN
+2      651      IN  Present     2005     Anna University     2001.0
+3      651      US  Present     2013  University of Utah     2008.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/michelle-dionne-02b86113 - 652'
+   cand_id firstname                   img_path lastname  \
+0      652  Michelle  photo/profile_img_652.jpg   Dionne   
+
+                                                 url  
+0  https://www.linkedin.com/in/michelle-dionne-02...  
+   cand_id country endMonth  endYear              locationName  \
+0      652      US       10     2009                       NaN   
+1      652      US        8     2010                       NaN   
+2      652      US        4     2017  Cambridge, Massachusetts   
+3      652      US  Present  Present                       NaN   
+4      652      US        1     2015                       NaN   
+
+                                                name  startMonth  startYear  
+0                             Vertex Pharmaceuticals           7       2008  
+1                  Molecular Insight Pharmaceuticals          10       2009  
+2                                          Merrimack          11       2015  
+3                                       TESARO, Inc.           4       2017  
+4  Novartis Institutes for BioMedical Research (N...           9       2010  
+   cand_id country endMonth  endYear                                  name
+0      652      US  Present  Present  University of Massachusetts, Amherst
+1      652      US  Present  Present  University of Massachusetts, Amherst
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/tom-gilchrist-b6273911 - 653'
+   cand_id firstname                   img_path   lastname  \
+0      653       Tom  photo/profile_img_653.jpg  Gilchrist   
+
+                                                 url  
+0  https://www.linkedin.com/in/tom-gilchrist-b627...  
+   cand_id country  endMonth  endYear locationName       name  startMonth  \
+0      653      US         5     2013          NaN   Infinera           1   
+1      653      US         1     2012          NaN   Infinera           6   
+2      653      US         3     2017  Redmond, WA  Microsoft           6   
+3      653      US         6     2004          NaN      Ciena           4   
+
+   startYear  
+0       2012  
+1       2004  
+2       2013  
+3       2001  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/michellemcdaniel9 - 654'
+   cand_id firstname                   img_path       lastname  \
+0      654  Michelle  photo/profile_img_654.jpg  McDaniel, MBA   
+
+                                             url  
+0  https://www.linkedin.com/in/michellemcdaniel9  
+   cand_id country endMonth  endYear        locationName  \
+0      654      US       10     2013       Austin, Texas   
+1      654      US        4     2016       Austin, Texas   
+2      654      US        2     2015       Austin, Texas   
+3      654      US  Present  Present       Austin, Texas   
+4      654      US        1     2017  Austin, Texas Area   
+
+                     name  startMonth  startYear  
+0  On-X Life Technologies           2       2011  
+1                Asuragen           2       2015  
+2                Asuragen           2       2014  
+3                  Abbott           1       2017  
+4        St. Jude Medical           5       2016  
+   cand_id country endMonth  endYear                                 name  \
+0      654      US  Present  Present         Sam Houston State University   
+1      654      US  Present     2015  Texas A&M University- Central Texas   
+2      654      US  Present     2009         Sam Houston State University   
+
+   startYear  
+0        NaN  
+1     2013.0  
+2     2006.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/andrey-eltsov-8b06a229 - 655'
+   cand_id firstname                   img_path lastname  \
+0      655    Andrey  photo/profile_img_655.jpg   Eltsov   
+
+                                                 url  
+0  https://www.linkedin.com/in/andrey-eltsov-8b06...  
+   cand_id country endMonth  endYear            locationName  \
+0      655      US  Present     2009                     NaN   
+1      655      US  Present  Present  San Francisco Bay Area   
+2      655      US        5     2013  San Francisco Bay Area   
+3      655      IN       10     2011                     NaN   
+4      655      US        3     2015  San Francisco Bay Area   
+
+                                               name  startMonth  startYear  
+0                                             Intel         NaN       2006  
+1  Lynx Software Technologies (formerly LynuxWorks)         3.0       2015  
+2                                        AnchorFree        10.0       2011  
+3                                            Auriga        10.0       2009  
+4  Lynx Software Technologies (formerly LynuxWorks)         6.0       2013  
+   cand_id country endMonth  endYear  \
+0      655      RU  Present  Present   
+1      655      RU  Present     2011   
+2      655      RU  Present     2006   
+
+                                                name  startYear  
+0  State University of Nizhni Novgorod named afte...        NaN  
+1  State University of Nizhni Novgorod named afte...     2006.0  
+2  State University of Nizhni Novgorod named afte...     2001.0  
+   cand_id     name           proficiency
+0      655  English  PROFESSIONAL_WORKING
+'https://www.linkedin.com/in/lori-karpinecz-ma-cip-ccrp-636a0110 - 656'
+   cand_id firstname                   img_path                  lastname  \
+0      656      Lori  photo/profile_img_656.jpg  Karpinecz, MA, CIP, CCRP   
+
+                                                 url  
+0  https://www.linkedin.com/in/lori-karpinecz-ma-...  
+   cand_id country endMonth  endYear                locationName  \
+0      656      US       12     2014  Cleveland/Akron, Ohio Area   
+1      656      US  Present  Present             Brecksville, OH   
+2      656      US  Present  Present                         NaN   
+3      656      US        4     2015            Strongsville, OH   
+4      656      US        3     2016  Cleveland/Akron, Ohio Area   
+5      656      US  Present     2005                         NaN   
+
+                              name  startMonth  startYear  
+0  Case Western Reserve University        12.0       2013  
+1               Northeast Ohio Fit         4.0       2005  
+2                              PPD         3.0       2016  
+3             IMARC Research, Inc.         1.0       2015  
+4                         Complion         4.0       2015  
+5               Northeast Ohio Fit         NaN       2005  
+   cand_id country endMonth  endYear                                name  \
+0      656      US  Present  Present     Case Western Reserve University   
+1      656      US  Present  Present  Indiana University of Pennsylvania   
+2      656      US  Present     2007     Case Western Reserve University   
+3      656      US  Present     2000  Indiana University of Pennsylvania   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2004.0  
+3     1996.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/vincent-romualdez-320bb73 - 657'
+   cand_id firstname                   img_path   lastname  \
+0      657   Vincent  photo/profile_img_657.jpg  Romualdez   
+
+                                                 url  
+0  https://www.linkedin.com/in/vincent-romualdez-...  
+   cand_id country endMonth  endYear                   locationName  \
+0      657      TH        7     2014                       Thailand   
+1      657    None  Present  Present                 Southeast Asia   
+2      657      CN        5     2011                            NaN   
+3      657    None  Present  Present  Thailand, Malaysia, Singapore   
+4      657    None        1     2005                            NaN   
+
+                                                name  startMonth  startYear  
+0                       International Paper Thailand           6       2011  
+1                           International Paper Asia           8       2014  
+2                International Paper Asia (Shanghai)           2       2005  
+3              United Creation Packaging Solutions             7       2016  
+4  International Paper Pacific Millennium (Thailand)           7       2000  
+   cand_id country endMonth  endYear                         name  startYear
+0      657      PH  Present  Present  Ateneo de Manila University        NaN
+1      657      PH  Present     1988  Ateneo de Manila University     1984.0
+   cand_id     name        proficiency
+0      657  Chinese  FULL_PROFESSIONAL
+'https://www.linkedin.com/pub/leela-krishna-kadiri/9/200/819 - 658'
+   cand_id firstname img_path lastname  \
+0      658   No name      NaN  No name   
+
+                                                 url  
+0  https://www.linkedin.com/pub/leela-krishna-kad...  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/zafe-futch-bb58a932 - 659'
+   cand_id firstname                   img_path lastname  \
+0      659      Zafe  photo/profile_img_659.jpg    Futch   
+
+                                               url  
+0  https://www.linkedin.com/in/zafe-futch-bb58a932  
+   cand_id country endMonth  endYear                     locationName  \
+0      659      US        9     2007                   Wilmington, NC   
+1      659      US  Present  Present          raleigh, north carolina   
+2      659      US        4     2006  Wilmington, North Carolina Area   
+3      659      US       11     2010  Wilmington, North Carolina Area   
+4      659      US        1     2013                              NaN   
+
+        name  startMonth  startYear  
+0        PPD           4       2006  
+1        PRA           8       2013  
+2        PPD           3       2005  
+3  Quintiles          10       2008  
+4  Quintiles          11       2010  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/prakharmehrotra - 660'
+   cand_id firstname                   img_path  lastname  \
+0      660   Prakhar  photo/profile_img_660.jpg  Mehrotra   
+
+                                           url  
+0  https://www.linkedin.com/in/prakharmehrotra  
+   cand_id country endMonth  endYear               locationName  \
+0      660      US        4     2013               Pasadena, CA   
+1      660      US        3     2016              San Francisco   
+2      660      US        4     2015  San Francisco, California   
+3      660      US        1     2015     San Francisco Bay Area   
+4      660      US  Present  Present  San Francisco, California   
+
+                                 name  startMonth  startYear  
+0  California Institute of Technology           1       2010  
+1                                Uber           4       2015  
+2                                Uber           1       2015  
+3                             Twitter           7       2013  
+4                                Uber           3       2016  
+   cand_id country endMonth  endYear                                name  \
+0      660    None  Present  Present                Ãcole Polytechnique   
+1      660      US  Present  Present                             Caltech   
+2      660    None  Present     2009                Ãcole Polytechnique   
+3      660      US  Present     2008  California Institute of Technology   
+4      660      US  Present     2013  California Institute of Technology   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2008.0  
+3     2007.0  
+4     2010.0  
+   cand_id     name        proficiency
+0      660  English  FULL_PROFESSIONAL
+'https://www.linkedin.com/in/shupingkuang - 661'
+   cand_id firstname                   img_path    lastname  \
+0      661  Shu Ping  photo/profile_img_661.jpg  Kuang, CPA   
+
+                                        url  
+0  https://www.linkedin.com/in/shupingkuang  
+   cand_id country endMonth  endYear   locationName  \
+0      661      US        8     2014   Berkeley, CA   
+1      661      US  Present  Present  San Francisco   
+2      661      US       10     2009  San Francisco   
+3      661      US        9     2005            NaN   
+4      661      US        6     2006  San Francisco   
+
+                          name  startMonth  startYear  
+0                   NeuroFocus           8       2010  
+1        Williams-Sonoma, Inc.          12       2014  
+2  Artisan Confections Company           6       2006  
+3        Seiler & Company, LLP          12       2004  
+4          Grant Thornton, LLP           9       2005  
+   cand_id country endMonth  endYear                            name  \
+0      661      US  Present  Present  San Francisco State University   
+1      661      US  Present     1999  San Francisco State University   
+
+   startYear  
+0        NaN  
+1     1997.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/annie-armstrong-39b4465 - 662'
+   cand_id firstname                   img_path   lastname  \
+0      662     Annie  photo/profile_img_662.jpg  Armstrong   
+
+                                                 url  
+0  https://www.linkedin.com/in/annie-armstrong-39...  
+   cand_id country endMonth  endYear                locationName  \
+0      662      US  Present  Present      San Francisco Bay Area   
+1      662      US  Present  Present      San Francisco Bay Area   
+2      662      US        9     2007     Richmond, Virginia Area   
+3      662      AU        5     2004           Sydney, Australia   
+4      662      US        3     2010  Greater New York City Area   
+
+                 name  startMonth  startYear  
+0                KPMG           9       2015  
+1            KPMG LLP           3       2010  
+2             KPMG US           5       2004  
+3      KPMG Australia          12       2002  
+4  KPMG International          10       2007  
+   cand_id country endMonth  endYear                      name  startYear
+0      662      US  Present  Present  James Madison University        NaN
+1      662      US  Present     1996       Monacan High School     1992.0
+2      662      US  Present     2000  James Madison University     1996.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/kglukhov - 663'
+   cand_id   firstname img_path lastname                                   url
+0      663  Konstantin      NaN  Glukhov  https://www.linkedin.com/in/kglukhov
+   cand_id country endMonth  endYear locationName            name  startMonth  \
+0      663      US        3     2006          NaN  Morgan Stanley           4   
+1      663      US       12     2009          NaN     Wells Fargo          10   
+2      663      US        3     2005          NaN     Wells Fargo          10   
+3      663      US  Present  Present   Irvine, CA     Undisclosed          12   
+4      663      US       10     2006          NaN    State Street           4   
+
+   startYear  
+0       2005  
+1       2006  
+2       2004  
+3       2009  
+4       2006  
+   cand_id country endMonth  endYear  \
+0      663    None  Present  Present   
+1      663    None  Present     1988   
+
+                                                name  startYear  
+0  National University of Science and Technology ...        NaN  
+1  National University of Science and Technology ...     1983.0  
+   cand_id     name          proficiency
+0      663  English  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/ezhang - 664'
+   cand_id firstname img_path lastname                                 url
+0      664      Eric      NaN    Zhang  https://www.linkedin.com/in/ezhang
+   cand_id country endMonth  endYear                name  startMonth  \
+0      664      AU       12     2007          Synplicity           7   
+1      664      US        8     2016  Intuitive Surgical           4   
+2      664      US  Present  Present  Intuitive Surgical           8   
+3      664      US       11     2010              Yahoo!          12   
+4      664      US       12     2013           Microsoft          11   
+
+   startYear  
+0       2001  
+1       2014  
+2       2016  
+3       2007  
+4       2010  
+   cand_id country endMonth  endYear                             name
+0      664      US  Present  Present  University of California, Davis
+1      664      US  Present  Present  University of California, Davis
+Empty DataFrame
+Columns: []
+Index: []
+'http://www.linkedin.com/in/kcramer/ - 665'
+   cand_id firstname img_path lastname                                  url
+0      665   No name      NaN  No name  http://www.linkedin.com/in/kcramer/
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/lorrainevenner - 666'
+   cand_id firstname                   img_path lastname  \
+0      666  Lorraine  photo/profile_img_666.jpg   Venner   
+
+                                          url  
+0  https://www.linkedin.com/in/lorrainevenner  
+   cand_id country endMonth  endYear               locationName  \
+0      666      US  Present     2016      Sunnyvale, California   
+1      666      US  Present     2005              San Francisco   
+2      666      US  Present     2014  Mountain View, California   
+3      666      US  Present  Present       Campbell, California   
+4      666      US  Present     2012              San Francisco   
+
+                         name  startYear  
+0  Hewlett-Packard Enterprise       2014  
+1                    Totality       2000  
+2                      Intuit       2012  
+3                    Hightail       2016  
+4            Verizon Business       2005  
+   cand_id country endMonth  endYear                   name
+0      666      US  Present  Present  Penn State University
+1      666      US  Present  Present  Penn State University
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/deborah-harbin-04541a1a/nl - 667'
+   cand_id firstname                   img_path lastname  \
+0      667   Deborah  photo/profile_img_667.jpg   Harbin   
+
+                                                 url  
+0  https://www.linkedin.com/in/deborah-harbin-045...  
+   cand_id country endMonth  endYear          locationName             name  \
+0      667      US  Present  Present   Blue Ridge, Georgia  Treo Blue Ridge   
+1      667      US        4     2012  Greater Atlanta Area  Bank of America   
+2      667      US        2     2015  Greater Atlanta Area  Bank of America   
+3      667      US  Present  Present   Blue Ridge, Georgia  Treo Blue Ridge   
+4      667      US        3     2014  Greater Atlanta Area  Bank of America   
+
+   startMonth  startYear  
+0           2       2017  
+1           8       2007  
+2           3       2014  
+3           2       2017  
+4           4       2012  
+   cand_id country endMonth  endYear  \
+0      667      US  Present  Present   
+1      667      US  Present  Present   
+2      667      US  Present  Present   
+3      667      US  Present  Present   
+4      667      US  Present  Present   
+5      667      US  Present  Present   
+
+                                                name  
+0  Georgia State University - J. Mack Robinson Co...  
+1                          The University of Georgia  
+2  Georgia State University - J. Mack Robinson Co...  
+3                          The University of Georgia  
+4                          The University of Georgia  
+5  Georgia State University - J. Mack Robinson Co...  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/philippa-edis-5b03a986 - 668'
+   cand_id firstname img_path lastname  \
+0      668  Philippa      NaN     Edis   
+
+                                                 url  
+0  https://www.linkedin.com/in/philippa-edis-5b03...  
+   cand_id country endMonth  endYear                   name  startMonth  \
+0      668      GB        1     2015  Newton Europe Limited           4   
+1      668      BT  Present  Present                     BT           9   
+2      668      GB        8     2015  Newton Europe Limited           1   
+
+   startYear  
+0       2013  
+1       2015  
+2       2015  
+   cand_id country endMonth  endYear                     name  startYear
+0      668      GB  Present     2012  University of Cambridge       2008
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/charles-black-hammond-605556b - 669'
+   cand_id firstname                   img_path       lastname  \
+0      669   Charles  photo/profile_img_669.jpg  Black Hammond   
+
+                                                 url  
+0  https://www.linkedin.com/in/charles-black-hamm...  
+   cand_id country endMonth  endYear      locationName                name  \
+0      669      US  Present  Present       Seattle, WA       Expedia, Inc.   
+1      669      US        5     2015      Bellevue, WA             Expedia   
+2      669      US       12     2012  Bellevue/Seattle  Pariveda Solutions   
+3      669      US        9     2016      Bellevue, WA       Expedia, Inc.   
+4      669      US        5     2011               NaN           GuestWare   
+
+   startMonth  startYear  
+0           9       2016  
+1          12       2012  
+2           5       2011  
+3           5       2015  
+4          11       2005  
+   cand_id country endMonth  endYear                           name  startYear
+0      669      US  Present  Present  Western Washington University        NaN
+1      669      US  Present  Present              Walden University        NaN
+2      669      US  Present     2005  Western Washington University     2001.0
+3      669      US  Present     2008              Walden University     2006.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/nisheedh-raveendran-1b52206 - 670'
+   cand_id firstname                   img_path    lastname  \
+0      670  Nisheedh  photo/profile_img_670.jpg  Raveendran   
+
+                                                 url  
+0  https://www.linkedin.com/in/nisheedh-raveendra...  
+   cand_id country endMonth  endYear             name  startMonth  startYear
+0      670      US        9     2014      Informatica         3.0       2012
+1      670      US        3     2012           Yahoo!         NaN       2008
+2      670      US  Present     2005              PTC         NaN       2001
+3      670      NL  Present     2008  Human Inference         NaN       2005
+4      670      US  Present  Present      Informatica        11.0       2014
+   cand_id country endMonth  endYear  \
+0      670      IN  Present  Present   
+1      670      IN  Present  Present   
+2      670      IN  Present     1999   
+3      670      IN  Present     2004   
+
+                                                name  startYear  
+0        Cochin University of Science and Technology        NaN  
+1  Birla Institute of Technology and Science, Pilani        NaN  
+2        Cochin University of Science and Technology     1994.0  
+3  Birla Institute of Technology and Science, Pilani     2002.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/jessica-yang-4199b253 - 671'
+   cand_id firstname                   img_path lastname  \
+0      671   Jessica  photo/profile_img_671.jpg     Yang   
+
+                                                 url  
+0  https://www.linkedin.com/in/jessica-yang-4199b253  
+   cand_id country endMonth  endYear              locationName  \
+0      671      US       11     2016            West Hollywood   
+1      671      US  Present  Present  Greater Los Angeles Area   
+2      671      US        9     2013          Santa Monica, CA   
+3      671      US       12     2012               Burbank, CA   
+4      671      US       11     2013        Universal City, CA   
+
+                          name  startMonth  startYear  
+0            Eclectic Pictures          10       2014  
+1  Nu Image - Millennium Films          11       2016  
+2            Pearlstreet Films           2       2013  
+3           Weed Road Pictures           8       2012  
+4           Universal Pictures           9       2013  
+   cand_id country endMonth  endYear                          name  startYear
+0      671      US  Present  Present   ArtCenter College of Design        NaN
+1      671      US  Present     2012  Art Center College of Design     2010.0
+   cand_id     name          proficiency
+0      671  Chinese  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/jeff-bezenyan-a448574 - 672'
+   cand_id firstname                   img_path  lastname  \
+0      672      Jeff  photo/profile_img_672.jpg  Bezenyan   
+
+                                                 url  
+0  https://www.linkedin.com/in/jeff-bezenyan-a448574  
+   cand_id country endMonth  endYear                locationName  \
+0      672      US        5     2010                          NJ   
+1      672      US        4     2016  Greater New York City Area   
+2      672      US        2     2012                         NYC   
+3      672      US  Present  Present                          PA   
+4      672      US        7     2015                          CT   
+
+                          name  startMonth  startYear  
+0                        Merck           2       2009  
+1                    Citigroup           8       2015  
+2     Citigroup Global Markets           5       2010  
+3  Integraph Productions, LLC.          10       1996  
+4          Knights of Columbus           2       2012  
+   cand_id country endMonth  endYear                             name  \
+0      672      US  Present  Present  Fashion Institute of Technology   
+1      672      US  Present     1988  Fashion Institute of Technology   
+
+   startYear  
+0        NaN  
+1     1984.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/derrickhammond - 673'
+   cand_id firstname                   img_path lastname  \
+0      673   Derrick  photo/profile_img_673.jpg  Hammond   
+
+                                          url  
+0  https://www.linkedin.com/in/derrickhammond  
+   cand_id country endMonth  endYear   locationName  \
+0      673      US  Present  Present    Seattle, WA   
+1      673      US        6     2014   Kirkland, WA   
+2      673      US  Present  Present    Seattle, WA   
+3      673      US       12     2010  Middleton, WI   
+
+                         name  startMonth  startYear  
+0                   Oculus VR           7       2014  
+1  343 Industries | Microsoft          12       2010  
+2                   Oculus VR           9       2015  
+3              Raven Software           7       2003  
+   cand_id country endMonth  endYear                     name  startYear
+0      673      US  Present  Present  Art Institute of Dallas        NaN
+1      673      US  Present     2003  Art Institute of Dallas     2001.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/joyce-loh-26526b3a/ - 674'
+   cand_id firstname                   img_path lastname  \
+0      674     Joyce  photo/profile_img_674.jpg      Loh   
+
+                                               url  
+0  https://www.linkedin.com/in/joyce-loh-26526b3a/  
+   cand_id country endMonth  endYear            locationName  \
+0      674      SG  Present     2016               Singapore   
+1      674      SG  Present     2005                     NaN   
+2      674    None  Present     2015  Suntec city, singapore   
+3      674      US  Present     2014                     NaN   
+4      674      SG  Present  Present                     NaN   
+5      674      US  Present  Present                     NaN   
+
+                                     name  startYear  
+0                      Schneider Electric     2015.0  
+1  National University Hospital/ Lux Asia     2001.0  
+2                             LIXIL Group     2014.0  
+3                              Kohler Co.     2005.0  
+4                          SPCA Singapore        NaN  
+5                      Voices For Animals        NaN  
+   cand_id country endMonth  endYear                                     name
+0      674      SG  Present  Present                    Singapore Polytechnic
+1      674      AU  Present  Present                          RMIT University
+2      674      AU  Present  Present  Royal Melbourne Institute of Technology
+3      674      SG  Present  Present                    Singapore Polytechnic
+   cand_id       name      proficiency
+0      674  Cantonese  LIMITED_WORKING
+'https://ph.linkedin.com/in/kent-de-guzman-825735b0 - 675'
+   cand_id firstname img_path lastname  \
+0      675   No name      NaN  No name   
+
+                                                 url  
+0  https://ph.linkedin.com/in/kent-de-guzman-8257...  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/kingsley-macmadu-932b9aa - 676'
+   cand_id firstname                   img_path lastname  \
+0      676  Kingsley  photo/profile_img_676.jpg  Macmadu   
+
+                                                 url  
+0  https://www.linkedin.com/in/kingsley-macmadu-9...  
+   cand_id country endMonth  endYear            locationName  \
+0      676      US  Present  Present  San Francisco Bay Area   
+1      676      US  Present  Present  San Francisco Bay Area   
+2      676      US  Present  Present  San Francisco Bay Area   
+3      676      US        9     2012                Napa, CA   
+4      676      US  Present     2011          Morgantown, WV   
+5      676      US  Present  Present                     NaN   
+
+                        name  startMonth  startYear  
+0         Impax Laboratories         3.0       2015  
+1         Impax Laboratories        11.0       2015  
+2         Impax Laboratories        11.0       2012  
+3            Mylan Specialty         1.0       2011  
+4  Mylan Pharmaceuticals Inc         NaN       2009  
+5            City of Hayward         9.0       2014  
+   cand_id country endMonth  endYear                      name
+0      676      US  Present  Present  West Virginia University
+1      676      US  Present  Present     Waynesburg University
+2      676      US  Present  Present  West Virginia University
+Empty DataFrame
+Columns: []
+Index: []
+'https://nl.linkedin.com/in/sander-meijer-1009151 - 677'
+   cand_id firstname img_path lastname  \
+0      677   No name      NaN  No name   
+
+                                                url  
+0  https://nl.linkedin.com/in/sander-meijer-1009151  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/sabrina-bird-b0263538 - 678'
+   cand_id firstname img_path lastname  \
+0      678   Sabrina      NaN     Bird   
+
+                                                 url  
+0  https://www.linkedin.com/in/sabrina-bird-b0263538  
+   cand_id country endMonth  endYear        locationName  \
+0      678      US  Present  Present         Hayward, CA   
+1      678      US        1     2011  Newark, California   
+2      678      US  Present  Present         Oakland, CA   
+3      678      US        7     2007      Juneau, Alaska   
+
+                       name  startMonth  startYear  
+0      Rabid Brains Studios           1       2012  
+1                  JCPenney           6       2008  
+2       St George Warehouse           3       2012  
+3  Alaska Travel Adventures           5       2007  
+   cand_id country endMonth  endYear                       name  startYear
+0      678      US  Present  Present  Academy of Art University        NaN
+1      678      US  Present     2012  Academy of Art University     2006.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/pub/miriam-redi/1a/275/910 - 679'
+   cand_id firstname                   img_path lastname  \
+0      679    Miriam  photo/profile_img_679.jpg     Redi   
+
+                                                 url  
+0  https://www.linkedin.com/pub/miriam-redi/1a/27...  
+   cand_id country endMonth  endYear               locationName  \
+0      679      ES       10     2013      Barcelona Area, Spain   
+1      679      ES        4     2015                  Barcelona   
+2      679      GB  Present  Present  Cambridge, United Kingdom   
+3      679      FR        6     2013                        NaN   
+4      679      US        8     2016                        NaN   
+5      679      ES       11     2013                        NaN   
+
+                  name  startMonth  startYear  
+0               Yahoo!           6       2013  
+1                Yahoo          10       2013  
+2            Bell Labs           9       2016  
+3              EURECOM           2       2010  
+4                Yahoo           4       2015  
+5  Bancs dels Aliments          11       2013  
+   cand_id country endMonth  endYear                              name  \
+0      679      IT  Present  Present             Politecnico di Torino   
+1      679      ES  Present  Present  Universidad Carlos III de Madrid   
+2      679      IT  Present     2007             Politecnico di Torino   
+3      679      IT  Present     2009             Politecnico di Torino   
+4      679      ES  Present     2009  Universidad Carlos III de Madrid   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2004.0  
+3     2007.0  
+4     2008.0  
+   cand_id     name           proficiency
+0      679  English  PROFESSIONAL_WORKING
+'https://www.linkedin.com/in/geetha-basavaraja-4447b929 - 680'
+   cand_id firstname                   img_path    lastname  \
+0      680    Geetha  photo/profile_img_680.jpg  Basavaraja   
+
+                                                 url  
+0  https://www.linkedin.com/in/geetha-basavaraja-...  
+   cand_id country endMonth  endYear                   name  startMonth  \
+0      680      IN  Present  Present  TEXTRON India pvt ltd          12   
+1      680      IN       12     2010        BCS Innovations          12   
+
+   startYear  
+0       2010  
+1       2009  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/chrisoryschak - 681'
+   cand_id    firstname                   img_path  lastname  \
+0      681  Christopher  photo/profile_img_681.jpg  Oryschak   
+
+                                         url  
+0  https://www.linkedin.com/in/chrisoryschak  
+   cand_id country endMonth  endYear            locationName  \
+0      681      US        1     2017  San Francisco Bay Area   
+1      681      US        8     2015           San Francisco   
+2      681      US        8     2013  San Francisco Bay Area   
+3      681      US       12     2012  San Francisco Bay Area   
+4      681      US  Present  Present  San Francisco Bay Area   
+
+                                         name  startMonth  startYear  
+0                                     Twitter           8       2015  
+1                                    PlanChat           9       2013  
+2                              RealPage, Inc.          12       2012  
+3  Propertyware, Inc., a division of Realpage           3       2012  
+4                                      Google           1       2017  
+   cand_id country endMonth  endYear                    name  startYear
+0      681      US  Present  Present           Virginia Tech        NaN
+1      681      US  Present     2006           Virginia Tech     2003.0
+2      681      US  Present     2000  Horseheads High School     1996.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/peter-olah-atx?authType=NAME_SEARCH&authToken=aZEl - 682'
+   cand_id firstname                   img_path lastname  \
+0      682     Peter  photo/profile_img_682.jpg     Olah   
+
+                                                 url  
+0  https://www.linkedin.com/in/peter-olah-atx?aut...  
+   cand_id country endMonth  endYear        locationName  \
+0      682      US        8     2014          Austin, TX   
+1      682      US        5     2010                 NaN   
+2      682      US  Present  Present  Austin, Texas Area   
+3      682      US        3     2017                 NaN   
+4      682      US        8     2011          Austin, TX   
+5      682      US       10     2006                 NaN   
+6      682      US        6     2009                 NaN   
+
+                           name  startMonth  startYear  
+0                  HomeAway.com           8       2011  
+1              BP3 Global, Inc.           7       2008  
+2                  HomeAway.com           3       2017  
+3                  HomeAway.com           8       2014  
+4                  HomeAway.com           5       2010  
+5         Texas 4000 for Cancer           8       2005  
+6  Austin Partners in Education          12       2008  
+   cand_id country endMonth  endYear                               name
+0      682      US  Present  Present  The University of Texas at Austin
+1      682      US  Present  Present  The University of Texas at Austin
+2      682    None  Present  Present             Kassak Lajos Gimnazium
+   cand_id     name          proficiency
+0      682  English  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/philipphunold?authType=name&authToken=Yret - 683'
+   cand_id firstname img_path lastname  \
+0      683   Philipp      NaN   Hunold   
+
+                                                 url  
+0  https://www.linkedin.com/in/philipphunold?auth...  
+   cand_id country endMonth  endYear                locationName  \
+0      683      US        1     2013                Princeton NJ   
+1      683    None        4     2009                         NaN   
+2      683      US        6     2016  Greater New York City Area   
+3      683      US        5     2011                         NaN   
+4      683      CH  Present  Present   ZÃ¼rich Area, Switzerland   
+
+                                name  startMonth  startYear  
+0                             Niksun           6       2011  
+1                          nabbr.com          10       2008  
+2  RSA, The Security Division of EMC           2       2013  
+3                         Scivantage           5       2009  
+4                          Microsoft           7       2016  
+   cand_id country endMonth  endYear  \
+0      683      US  Present  Present   
+1      683      US  Present  Present   
+2      683      CH  Present     2004   
+
+                                              name  startYear  
+0                  Stevens Institute of Technology        NaN  
+1                  Stevens Institute of Technology        NaN  
+2  Zurich University of Applied Science Winterthur     2001.0  
+   cand_id     name        proficiency
+0      683  English  FULL_PROFESSIONAL
+'https://www.linkedin.com/in/aaronkbrown - 684'
+   cand_id firstname                   img_path lastname  \
+0      684     Aaron  photo/profile_img_684.jpg    Brown   
+
+                                       url  
+0  https://www.linkedin.com/in/aaronkbrown  
+   cand_id country endMonth  endYear locationName                    name  \
+0      684      US  Present     2013  Seattle, WA  NVL Laboratories, Inc.   
+1      684      US  Present  Present  Seattle, WA             B&C Comfort   
+2      684      US  Present     2009  Seattle, WA         Pace Analytical   
+3      684      US        8     2015  Seattle, WA               Freelance   
+
+   startMonth  startYear  
+0         NaN       2010  
+1         8.0       2015  
+2         NaN       2006  
+3         6.0       2014  
+   cand_id country endMonth  endYear                      name  startYear
+0      684      US  Present  Present  University of Washington        NaN
+1      684      US  Present     2006  University of Washington     2000.0
+2      684      US  Present  Present              Code Fellows     2014.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/zaidhisham - 685'
+   cand_id firstname                   img_path lastname  \
+0      685      Zaid  photo/profile_img_685.jpg   Hisham   
+
+                                      url  
+0  https://www.linkedin.com/in/zaidhisham  
+   cand_id country endMonth  endYear           locationName  \
+0      685      US  Present  Present                    NaN   
+1      685      US        6     2014   Greater Seattle Area   
+2      685      US        2     2015   Greater Seattle Area   
+3      685      US        6     2015            Redmond, WA   
+4      685      US        1     2014  Portland, Oregon Area   
+5      685      BR        6     2013                    NaN   
+
+                name  startMonth  startYear  
+0         Consultant           7       2015  
+1          Microsoft           4       2014  
+2      Expedia, Inc.           8       2014  
+3          Microsoft           2       2015  
+4  Intel Corporation           6       2013  
+5    Startup Weekend           9       2010  
+   cand_id country endMonth  endYear                                 name  \
+0      685      US  Present  Present  University of California, Riverside   
+1      685      US  Present     2011     Pacific Northwest College of Art   
+2      685      US  Present     2000  University of California, Riverside   
+3      685      NZ  Present     2012                                 LUXr   
+
+   startYear  
+0        NaN  
+1     2011.0  
+2     1995.0  
+3     2012.0  
+   cand_id     name          proficiency
+0      685  English  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/catamorphism?authType=name&authToken=9KG7 - 686'
+   cand_id firstname                   img_path   lastname  \
+0      686       Tim  photo/profile_img_686.jpg  Chevalier   
+
+                                                 url  
+0  https://www.linkedin.com/in/catamorphism?authT...  
+   cand_id country endMonth  endYear            locationName  \
+0      686      US  Present  Present  San Francisco Bay Area   
+1      686      US        6     2014           Sunnyvale, CA   
+2      686      US        4     2015       San Francisco, CA   
+3      686      US        9     2011  San Francisco Bay Area   
+4      686      US       11     2013                     NaN   
+5      686      US        8     2010                     NaN   
+6      686    None        6     2015                     NaN   
+7      686    None        1     2014                     NaN   
+
+                       name  startMonth  startYear  
+0                    Google          12       2015  
+1  AlephCloud Systems, Inc.          11       2013  
+2                    Heroku           7       2014  
+3                   Mozilla           3       2011  
+4       Mozilla Corporation           1       2012  
+5      All Hands Volunteers           7       2010  
+6          GNOME Foundation          11       2014  
+7          GNOME Foundation          10       2013  
+   cand_id country endMonth  endYear                                name  \
+0      686      US  Present  Present                   Wellesley College   
+1      686      US  Present  Present           Portland State University   
+2      686      US  Present  Present  University of California, Berkeley   
+3      686      US  Present     2001                   Wellesley College   
+4      686      US  Present     2011           Portland State University   
+5      686      US  Present     2003  University of California, Berkeley   
+
+   startYear  
+0        NaN  
+1        NaN  
+2        NaN  
+3     1997.0  
+4     2007.0  
+5     2001.0  
+   cand_id     name          proficiency
+0      686  English  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/jett-sarrett-52538613 - 687'
+   cand_id firstname img_path lastname  \
+0      687      Jett      NaN  Sarrett   
+
+                                                 url  
+0  https://www.linkedin.com/in/jett-sarrett-52538613  
+   cand_id country endMonth  endYear                   name  startMonth  \
+0      687      US  Present  Present       Gearbox Software          12   
+1      687      US        8     2007  West Asset Management           2   
+
+   startYear  
+0       2009  
+1       2006  
+   cand_id country endMonth  endYear                               name  \
+0      687      US  Present  Present  The University of Texas at Dallas   
+1      687      US  Present     2009  The University of Texas at Dallas   
+
+   startYear  
+0        NaN  
+1     2007.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/iyad-batal-b2451b15/ - 688'
+   cand_id firstname                   img_path lastname  \
+0      688      Iyad  photo/profile_img_688.jpg    Batal   
+
+                                                url  
+0  https://www.linkedin.com/in/iyad-batal-b2451b15/  
+   cand_id country endMonth  endYear             locationName  \
+0      688      US  Present  Present            sunnyvale, CA   
+1      688      US        8     2013  Greater Pittsburgh Area   
+2      688      US        8     2011            Princeton, NY   
+3      688      GE        9     2015                      NaN   
+4      688      US        7     2016    Sunnyvale, California   
+
+                         name  startMonth  startYear  
+0                   Microsoft           7       2016  
+1    University of Pittsburgh          11       2012  
+2  Siemens Corporate Research           5       2011  
+3                          GE           9       2013  
+4                       Yahoo          10       2015  
+   cand_id country endMonth  endYear                      name  startYear
+0      688      US  Present  Present  University of Pittsburgh        NaN
+1      688      SY  Present     2005       Damascus University     2000.0
+2      688      US  Present     2012  University of Pittsburgh     2008.0
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/jim-mccafferty-9741a51 - 689'
+   cand_id firstname                   img_path    lastname  \
+0      689       Jim  photo/profile_img_689.jpg  McCafferty   
+
+                                                 url  
+0  https://www.linkedin.com/in/jim-mccafferty-974...  
+   cand_id country endMonth  endYear     locationName                   name  \
+0      689      US  Present     2008              NaN             Abbott Lab   
+1      689      US  Present  Present              NaN             Abbott Lab   
+2      689      US  Present  Present  Abbott Park, IL            Abbott Labs   
+3      689      US  Present  Present      Wauconda,IL  Striking Arts Academy   
+4      689      US        2     2010              NaN             Abbott Lab   
+5      689      US        5     2008              NaN    Knights of Columbus   
+6      689    None        2     2010              NaN          Single Mingle   
+7      689      US        6     2009              NaN                   BCCO   
+
+   startMonth  startYear  
+0           3       2004  
+1           2       2010  
+2           5       2013  
+3           3       2012  
+4           1       2008  
+5           5       2008  
+6           2       2010  
+7           6       2009  
+   cand_id country endMonth  endYear                           name  startYear
+0      689      US  Present     1998  William Rainey Harper College       1993
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/juliemiyano - 690'
+   cand_id firstname                   img_path lastname  \
+0      690     Julie  photo/profile_img_690.jpg   Miyano   
+
+                                       url  
+0  https://www.linkedin.com/in/juliemiyano  
+   cand_id country endMonth  endYear  locationName                      name  \
+0      690      US  Present     2004  Pasadena, Ca             Lavalab, inc.   
+1      690      US  Present  Present  Glendale, CA  Disney Consumer Products   
+2      690      US  Present     2001   Burbank, Ca  Disney Consumer Products   
+
+   startYear  
+0       2001  
+1       2004  
+2       1997  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/xuantran16 - 691'
+   cand_id firstname                   img_path lastname  \
+0      691      Xuan  photo/profile_img_691.jpg     Tran   
+
+                                      url  
+0  https://www.linkedin.com/in/xuantran16  
+   cand_id country endMonth  endYear               locationName  \
+0      691      US        7     2012             Richardson, TX   
+1      691      US        8     2013                        NaN   
+2      691      US        2     2013              Rochester, NY   
+3      691      US  Present  Present    Syracuse, New York Area   
+4      691      US        5     2016  San Francisco, California   
+
+                                                name  startMonth  startYear  
+0                                              Cisco           1       2012  
+1  Rochester Institute of Technology: Gosnell Col...           2       2013  
+2  Rochester Institute of Technology: Carlson Cen...           5       2011  
+3                            Thruway Fasteners, Inc.           6       2016  
+4                                       Cisco Meraki           6       2014  
+   cand_id country endMonth  endYear                               name  \
+0      691      US  Present  Present  Rochester Institute of Technology   
+1      691      US  Present     2014  Rochester Institute of Technology   
+
+   startYear  
+0        NaN  
+1     2009.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/inna-levina-196b70 - 692'
+   cand_id firstname                   img_path lastname  \
+0      692      Inna  photo/profile_img_692.jpg   Levina   
+
+                                              url  
+0  https://www.linkedin.com/in/inna-levina-196b70  
+   cand_id country endMonth  endYear             name  startMonth  startYear
+0      692      US        1     2017    Axolotl Corp.           1       2011
+1      692      US  Present  Present  Cinarra Systems           1       2017
+2      692    None       11     2010    Adify ( Cox )           6       2006
+3      692      US        3     2006           MSN TV          11       2000
+   cand_id country endMonth  endYear                                  name  \
+0      692      US  Present  Present  University of California, Santa Cruz   
+1      692      UA  Present  Present      Odessa State Agrarian University   
+2      692      US  Present     2011  University of California, Santa Cruz   
+3      692      UA  Present     1994      Odessa State Agrarian University   
+
+   startYear  
+0        NaN  
+1        NaN  
+2     2007.0  
+3     1989.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/euphemia-erikson-3636b910 - 693'
+   cand_id firstname                   img_path lastname  \
+0      693  euphemia  photo/profile_img_693.jpg  erikson   
+
+                                                 url  
+0  https://www.linkedin.com/in/euphemia-erikson-3...  
+   cand_id country endMonth  endYear          locationName  \
+0      693      US  Present     2015  Greater Atlanta Area   
+1      693      US  Present  Present  Greater Atlanta Area   
+2      693      US        7     2012          Stamford, CT   
+3      693      US        5     2014  Greater Atlanta Area   
+4      693      US  Present     2016  Greater Atlanta Area   
+
+                        name  startMonth  startYear  
+0     First Data Corporation         NaN       2014  
+1     First Data Corporation         7.0       2014  
+2  MetroWine Distribution Co        10.0       2011  
+3                Lunex Group         1.0       2013  
+4     First Data Corporation         NaN       2015  
+   cand_id country endMonth  endYear  \
+0      693      US  Present  Present   
+1      693      GB  Present  Present   
+2      693      US  Present     1987   
+3      693      US  Present     1991   
+
+                                            name  startYear  
+0                                 Beloit College        NaN  
+1  Boston University - London Internship Program     1990.0  
+2          Woodlands Academy of the Sacred Heart     1985.0  
+3                                 Beloit College     1987.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/shigeki-tsukamoto-76b04318 - 694'
+   cand_id firstname img_path   lastname  \
+0      694   Shigeki      NaN  Tsukamoto   
+
+                                                 url  
+0  https://www.linkedin.com/in/shigeki-tsukamoto-...  
+   cand_id country endMonth  endYear  locationName           name  startMonth  \
+0      694      JP  Present  Present  Tokyo, Japan        Acronis         6.0   
+1      694      US  Present  Present           NaN  Adobe Systems         NaN   
+2      694      US  Present     2013           NaN        Acronis         NaN   
+
+   startYear  
+0     2013.0  
+1        NaN  
+2     2013.0  
+   cand_id country endMonth  endYear          name
+0      694    None  Present  Present  åè¥¿å¤§å­¦
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/maritessmith31 - 695'
+   cand_id firstname                   img_path lastname  \
+0      695   Marites  photo/profile_img_695.jpg    Smith   
+
+                                          url  
+0  https://www.linkedin.com/in/maritessmith31  
+   cand_id country endMonth  endYear           locationName  \
+0      695      US       10     2007           San Jose, CA   
+1      695      US        6     2007          Sunnyvale, CA   
+2      695      US  Present  Present   San Jose, California   
+3      695      US        2     2013  Sunnyvale, California   
+4      695      US        5     2015        Santa Clara, CA   
+5      695      US  Present  Present                    NaN   
+6      695      US        6     2015                    NaN   
+7      695      US  Present  Present                    NaN   
+
+                                  name  startMonth  startYear  
+0                         Trianz/Cisco           6       2007  
+1       Fujitsu Computer Systems, Inc.          10       2003  
+2               Cadence Design Systems           5       2015  
+3              MIPS Technologies, Inc.          11       2007  
+4        Imagination Technologies, LLC           2       2013  
+5  Homestead High School Music Booster           7       2015  
+6           Homestead High School PTSA           7       2013  
+7           Homestead High School PTSA           7       2015  
+   cand_id country endMonth  endYear                       name
+0      695      US  Present  Present            De Anza College
+1      695      US  Present  Present            De Anza College
+2      695      US  Present  Present  Silver Creek HS, San Jose
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/in/emily-smith-71763a6 - 696'
+   cand_id firstname                   img_path lastname  \
+0      696     Emily  photo/profile_img_696.jpg    Smith   
+
+                                               url  
+0  https://www.linkedin.com/in/emily-smith-71763a6  
+   cand_id country endMonth  endYear                      locationName  \
+0      696      US        9     2015                        Novato, CA   
+1      696      US        8     1994  Northern District, San Francisco   
+2      696      US       11     2000                 San Francisco, CA   
+3      696      US        8     1995                    San Rafael, CA   
+4      696      US  Present  Present                     San Francisco   
+5      696      US  Present  Present                               NaN   
+6      696      US  Present     2016                               NaN   
+7      696      US  Present     2016                               NaN   
+
+                                                name  startMonth  startYear  
+0                   Fireman's Fund Insurance Company        11.0       2000  
+1  Judge Saundra Brown Armstrong, United States D...         6.0       1994  
+2                                   Wolkin & Timpane         9.0       1996  
+3            Ragghianti, Thomas, Montobbio & Wallace         6.0       1995  
+4                 California Department of Insurance        12.0       2015  
+5     Terra Linda High School Scholarship Foundation         NaN       2013  
+6                     UC Berkeley Alumni Association         NaN       2014  
+7                    Dixie Terra Linda Little League         NaN       2011  
+   cand_id country endMonth  endYear  \
+0      696      US  Present  Present   
+1      696      US  Present  Present   
+2      696      US  Present  Present   
+3      696      US  Present  Present   
+
+                                                name  
+0  University of California, Berkeley - School of...  
+1                 University of California, Berkeley  
+2                 University of California, Berkeley  
+3  University of California, Berkeley - School of...  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/pub/jinru-liu/27/9b0/320 - 697'
+   cand_id firstname                   img_path lastname  \
+0      697     Jinru  photo/profile_img_697.jpg      Liu   
+
+                                                 url  
+0  https://www.linkedin.com/pub/jinru-liu/27/9b0/320  
+   cand_id country endMonth  endYear            locationName           name  \
+0      697    None        8     2011                     NaN   Mobia.tv LLC   
+1      697      US  Present  Present  San Francisco Bay Area      OpenTable   
+2      697      US        6     2014           Austin, Texas  Mutual Mobile   
+3      697      US        2     2017           San Francisco      OpenTable   
+4      697      US  Present  Present      Austin, Texas Area      MilkCrate   
+
+   startMonth  startYear  
+0           5       2010  
+1           3       2017  
+2           7       2011  
+3           6       2014  
+4           1       2013  
+   cand_id country endMonth  endYear                      name  startYear
+0      697      US  Present  Present  Arizona State University        NaN
+1      697      US  Present     2011  Arizona State University     2008.0
+   cand_id     name          proficiency
+0      697  Chinese  NATIVE_OR_BILINGUAL
+'https://www.linkedin.com/in/maher-d-3042991?authType=name&authToken=RkAf - 698'
+   cand_id firstname img_path lastname  \
+0      698     Maher      NaN       D.   
+
+                                                 url  
+0  https://www.linkedin.com/in/maher-d-3042991?au...  
+   cand_id country endMonth  endYear                          name  \
+0      698      US        2     2005                    BiogenIdec   
+1      698      US        8     2007                Sanofi-aventis   
+2      698    None        4     2002  Phase-1 Molecular Toxicology   
+3      698      US        6     2010                    Affymetrix   
+4      698      US  Present  Present                    Affymetrix   
+
+   startMonth  startYear  
+0         7.0       2002  
+1         2.0       2005  
+2        11.0       2000  
+3         8.0       2007  
+4         NaN       2010  
+   cand_id country endMonth  endYear                 name  startMonth  \
+0      698      JP  Present  Present     Chiba University         NaN   
+1      698      JP  Present     1993     Chiba University         NaN   
+2      698      JP  Present     1996     Chiba University         NaN   
+3      698      TN        7     1988  Monastir University        10.0   
+
+   startYear  
+0        NaN  
+1     1991.0  
+2     1993.0  
+3     1983.0  
+Empty DataFrame
+Columns: []
+Index: []
+'https://www.linkedin.com/pub/enrique-gonzales/7/548/106 - 699'
+   cand_id firstname img_path lastname  \
+0      699   No name      NaN  No name   
+
+                                                 url  
+0  https://www.linkedin.com/pub/enrique-gonzales/...  
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []
+Empty DataFrame
+Columns: []
+Index: []

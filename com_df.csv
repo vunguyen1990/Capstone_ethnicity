@@ -1,0 +1,406 @@
+,cand_id,country,endMonth,endYear,locationName,name,startMonth,startYear
+0,801.0,US,2,2013,"Berwyn, PA",PVigilant LLC,2.0,2011.0
+1,801.0,US,Present,Present,"Cherry Hill, NJ",Actelion,10.0,2013.0
+2,801.0,US,2,2011,"Bowie, MD",MedAssurant (now Inovalon),10.0,2010.0
+3,801.0,US,6,2013,,Teva Pharmaceuticals,3.0,2013.0
+4,801.0,US,10,2013,"Princeton, NJ",Novo Nordisk,7.0,2013.0
+0,802.0,US,Present,Present,San Francisco Bay Area,"Okta, Inc.",2.0,2016.0
+1,802.0,US,11,2012,"San Mateo, CA",Keynote Systems,2.0,2006.0
+2,802.0,US,1,2015,San Francisco Bay Area,Keynote Systems,11.0,2012.0
+3,802.0,US,2,2016,San Francisco Bay Area,Splunk,1.0,2015.0
+4,802.0,US,Present,Present,,"Okta, Inc.",,
+0,803.0,US,Present,Present,Malakoff,SPIE Communications,6.0,2005.0
+1,803.0,FR,10,1990,,Econocom Maintenance,10.0,1987.0
+2,803.0,FR,6,2005,,FAST Services et Informatique,10.0,1990.0
+3,803.0,FR,Present,Present,Rungis,SPIE Communications,1.0,2013.0
+0,804.0,US,8,2007,"San Francisco, CA",Ingenio,7.0,2004.0
+1,804.0,US,9,2003,"Redmond, WA",Microsoft,6.0,2003.0
+2,804.0,US,9,2014,"Mountain View, CA",Google,7.0,2008.0
+3,804.0,US,Present,Present,"Mountain View, CA",Quora,9.0,2014.0
+0,805.0,US,3,2015,San Mateo,Rumble,10.0,2013.0
+1,805.0,US,8,2012,"Palo Alto, CA",Onlive,5.0,2008.0
+2,805.0,US,Present,Present,,Lattice Engines,4.0,2015.0
+3,805.0,US,5,2008,,Webroot Software,6.0,2007.0
+4,805.0,US,9,2013,"Sunnyvale, ca",Phoenix 2.0. Inc.,8.0,2012.0
+5,805.0,,8,2012,,ASVARO,8.0,2012.0
+6,805.0,,1,2010,,SVECS,1.0,2010.0
+7,805.0,US,1,2010,,Ham Radio VE,1.0,2010.0
+0,806.0,US,Present,Present,"San Francisco, CA",Self,4.0,2011.0
+1,806.0,US,4,2011,,GreenRoad,4.0,2010.0
+2,806.0,US,4,2010,,"BabyCenter, LLC",6.0,2007.0
+3,806.0,US,Present,Present,"San Francisco, California",Udemy,2.0,2016.0
+4,806.0,US,5,2013,San Francisco Bay Area,GreatSchools,5.0,2012.0
+0,807.0,US,Present,Present,,Thales e-Security,2.0,2010.0
+1,807.0,US,6,2009,,MontaVista Software,4.0,2007.0
+2,807.0,GB,Present,2006,,Sun Microsystems,,1996.0
+3,807.0,US,Present,Present,"Cupertino, California",The Bay Club Company,8.0,2012.0
+4,807.0,US,Present,Present,San Francisco Bay Area,Thales e-Security,2.0,2010.0
+0,808.0,US,Present,Present,San Francisco Bay Area,Walmart eCommerce,7.0,2015.0
+1,808.0,US,5,2012,San Francisco Bay Area,The Clorox Company,11.0,2011.0
+2,808.0,US,7,2015,,Walmart eCommerce,8.0,2014.0
+3,808.0,US,8,2014,San Francisco Bay Area,AIKO Agency,4.0,2014.0
+0,809.0,SE,6,2016,"Skane County, Sweden",Kvadrat AB,11.0,2015.0
+1,809.0,SE,4,2014,"Lund, Sweden",Sony Mobile Communications,2.0,2012.0
+2,809.0,SE,Present,Present,,Addable AB,11.0,2015.0
+3,809.0,SE,Present,Present,"Helsingborg, Sweden",IKEA IT,11.0,2015.0
+4,809.0,SE,9,2015,"Lund, Sweden",Sony Mobile Communications,4.0,2014.0
+0,810.0,GB,4,2015,,Aldermore Bank PLC,8.0,2013.0
+1,810.0,,Present,Present,,Harrods Bank Limited,2.0,2016.0
+2,810.0,GB,2,2016,,Aldermore Bank PLC,3.0,2015.0
+3,810.0,GB,12,2011,"London, United Kingdom",Lloyds Banking Group - Group IT,6.0,2011.0
+4,810.0,GB,8,2013,"London, United Kingdom",Lloyds Banking Group - Group IT,12.0,2011.0
+0,811.0,GB,Present,Present,"London, United Kingdom",MetaPack Group,10.0,2016.0
+1,811.0,ES,2,2014,"Sevilla Area, Spain",Universidad de Sevilla,1.0,2013.0
+2,811.0,GB,10,2016,"London, United Kingdom",British Medical Association,7.0,2015.0
+3,811.0,PL,2,2015,"Warsaw Area, Poland",Webellian,2.0,2014.0
+4,811.0,GB,7,2015,"London, United Kingdom",TUI Group,2.0,2015.0
+0,812.0,US,Present,Present,,"FireEye, Inc.",10.0,2015.0
+1,812.0,US,12,2006,,Pegasus Solutions,11.0,2006.0
+2,812.0,US,7,2006,"Plano, TX",Electronic Data Systems,5.0,2005.0
+3,812.0,US,2,2015,"Phoenix, Arizona Area",Sogeti Group,9.0,2013.0
+4,812.0,US,8,2013,"Tempe, AZ",US Airways,12.0,2006.0
+0,813.0,US,8,2013,Redwood Shores,Oracle,12.0,2009.0
+1,813.0,US,7,2015,Redwood Shores,Oracle Corporation,8.0,2013.0
+2,813.0,US,12,2009,Redwood Shores,Oracle,12.0,2007.0
+3,813.0,US,12,2007,Redwood Shores,Oracle,6.0,2006.0
+4,813.0,US,Present,Present,,Oracle,8.0,2015.0
+0,814.0,US,Present,2014,,EY,,2013.0
+1,814.0,US,Present,2013,,Ernst & Young,,2003.0
+2,814.0,US,Present,Present,,EY,,2014.0
+0,815.0,,10,2014,"Santa Clara, CA","Oceanleap, Inc.",11.0,2013.0
+1,815.0,,11,2015,"Palo Alto, CA","Magnet Systems, Inc.",1.0,2015.0
+2,815.0,,1,2014,Mountain View,Sonoma Wire Works,10.0,2011.0
+3,815.0,,Present,Present,"Mountain View, CA","Jiff, Inc.",1.0,2016.0
+4,815.0,,1,2015,,"Oceanleap, Inc.",10.0,2014.0
+5,815.0,,1,2008,,Digital Clubhouse Network,1.0,1998.0
+0,816.0,,3,2017,,"Motiga, Inc.",12.0,2013.0
+1,816.0,,Present,Present,,Freelancing,10.0,2011.0
+2,816.0,,Present,Present,,Drifter Entertainment,3.0,2017.0
+3,816.0,,12,2013,,Avalanche Studios,10.0,2012.0
+4,816.0,,9,2012,,343 Industries,10.0,2011.0
+0,817.0,,4,2007,"San Francisco, California","Morgan, Lewis & Bockius LLP",2.0,2003.0
+1,817.0,,Present,Present,"San Francisco, California",Big Heart Pet Brands (formerly Del Monte Corporation),1.0,2010.0
+2,817.0,,11,1998,"San Francisco, California",Morrison & Foerster LLP,5.0,1997.0
+3,817.0,,12,2009,"Phoenix, Arizona",Squire Sanders,5.0,2008.0
+4,817.0,,2,2003,"San Francisco, California",Brobeck Phleger & Harrison LLP,11.0,1998.0
+0,818.0,,8,2011,"Decatur, Illinois Area",Archer Daniels Midland,5.0,2011.0
+1,818.0,,2,2016,"Mountain View, California",LinkedIn,7.0,2014.0
+2,818.0,,Present,Present,"Mountain View, CA",LinkedIn,3.0,2016.0
+3,818.0,,8,2012,"Lisle, IL",Lextech Global Services,5.0,2012.0
+4,818.0,,8,2013,"Mountain View, California",LinkedIn,5.0,2013.0
+0,820.0,,9,2011,Greater Atlanta Area,Georgia Game Developers Association,10.0,2008.0
+1,820.0,,6,2011,Greater Atlanta Area,Thrust Interactive,3.0,2011.0
+2,820.0,,6,2011,Greater Atlanta Area,Thrust Interactive,10.0,2008.0
+3,820.0,,Present,Present,"Novato, CA",Hangar 13,12.0,2014.0
+4,820.0,,12,2014,"San Rafael, CA",Telltale Games,6.0,2011.0
+5,820.0,,9,2011,,Georgia Game Developers Association,10.0,2008.0
+0,822.0,,Present,Present,,Sainsbury's,6.0,2013.0
+1,822.0,,Present,Present,"London, United Kingdom",Lloyds Register,8.0,2011.0
+2,822.0,,Present,Present,Maidenhead,Inscope Project Management Services,8.0,2011.0
+3,822.0,,9,2016,"London, United Kingdom",Capgemini / Inspire Corporation,10.0,2015.0
+4,822.0,,Present,Present,"Reading, United Kingdom",Computacenter,12.0,2016.0
+0,823.0,,Present,Present,NYC,Rocket Fuel,8.0,2013.0
+1,823.0,,3,2011,,InvestingChannel,11.0,2008.0
+2,823.0,,7,2013,Greater New York City Area,Rocket Fuel Inc.,3.0,2011.0
+3,823.0,,11,2008,,TheStreet.com,4.0,2006.0
+4,823.0,,Present,Present,Greater New York City Area,Rocket Fuel Inc.,3.0,2017.0
+0,824.0,,Present,Present,"Southfield, MI",Federal-Mogul,2.0,2006.0
+1,824.0,,Present,2001,,FCI,,1999.0
+2,824.0,,Present,2006,"Dearborn, MI",Lear Corporation,,2001.0
+0,825.0,,8,2008,,Takeda Pharmaceuticals,5.0,2008.0
+1,825.0,,Present,Present,"Houston, Texas Area",DM Clinical Research,2.0,2009.0
+0,826.0,,9,2014,"Sunnyvale, CA",NetApp,11.0,2012.0
+1,826.0,,11,2012,,"SAP Labs, Palo Alto, CA",7.0,2010.0
+2,826.0,,Present,Present,,Splunk,1.0,2016.0
+3,826.0,,12,2015,"Santa Clara, CA",Citrix,9.0,2014.0
+4,826.0,,11,2009,,Autodesk Manufacturing Division,6.0,2007.0
+0,827.0,,Present,Present,"Toronto, Canada Area",Deloitte Canada,11.0,2011.0
+1,827.0,,6,2011,Islamabad,IBM Global Services,12.0,2007.0
+0,829.0,,Present,Present,"Frankfurt Am Main Area, Germany",Crytek,7.0,2016.0
+1,829.0,,5,2016,"Berlin Area, Germany",MoBerries,8.0,2015.0
+2,829.0,,6,2016,"Frankfurt am Main und Umgebung, Deutschland",Freelancer,5.0,2016.0
+3,829.0,,7,2015,Dublin,eBay Inc,2.0,2015.0
+4,829.0,,1,2015,Galway,Freelancer,9.0,2014.0
+0,830.0,,4,2011,,Ubisoft,2.0,2011.0
+1,830.0,,8,2010,,Simthetiq,6.0,2010.0
+2,830.0,,6,2011,,Ubisoft Summer School,6.0,2011.0
+3,830.0,,Present,Present,Greater Los Angeles Area,Santa Monica Studio,12.0,2015.0
+4,830.0,,10,2015,"Montreal, Canada Area",Ubisoft,2.0,2012.0
+0,831.0,,4,2010,"Provo, Utah Area",Microsoft,9.0,2008.0
+1,831.0,,1,2015,"Houston, Texas Area",ExxonMobil,9.0,2013.0
+2,831.0,,9,2013,"Houston, Texas Area",ExxonMobil,5.0,2010.0
+3,831.0,,1,2016,"Houston, Texas Area",ExxonMobil,1.0,2015.0
+4,831.0,,Present,Present,"Bellevue, WA","Expedia, Inc.",1.0,2016.0
+5,831.0,,Present,Present,,United Way of Greater Houston,9.0,2010.0
+0,832.0,,Present,Present,,Apple Inc.,,2007.0
+1,832.0,,11,2007,,National Instruments,3.0,2000.0
+0,833.0,,Present,Present,"London, United Kingdom",BrightLocal SEO,,2010.0
+1,833.0,,Present,Present,"London, United Kingdom",Brightfish Software,12.0,2009.0
+2,833.0,,1,2009,,Global Radio,4.0,2008.0
+3,833.0,,12,2009,,IPC Media,3.0,2009.0
+4,833.0,,4,2008,,Yahoo!,12.0,2007.0
+0,834.0,,2,2012,San Francisco.,Topspin Media,9.0,2010.0
+1,834.0,,Present,Present,San Francisco Bay Area,Yelp,10.0,2013.0
+2,834.0,,6,2012,San Francisco Bay Area,"goBalto, Inc.",11.0,2011.0
+3,834.0,,10,2013,San Francisco Bay Area,"Rewarder, Inc.",3.0,2013.0
+4,834.0,,12,2012,United States,Givegoods Inc,8.0,2012.0
+0,835.0,,3,2012,"Austin, Texas Area",Y&R Austin / SicolaMartin,4.0,2011.0
+1,835.0,,2,2011,"Austin, Texas Area","SNAPPatx (Federal Transit Administration, Grant Program)",12.0,2009.0
+2,835.0,,Present,Present,Greater New York City Area,Square,3.0,2017.0
+3,835.0,,3,2017,San Francisco Bay Area,Square,3.0,2012.0
+4,835.0,,4,2011,"Austin, Texas Area",University of Texas at Austin,8.0,2008.0
+0,836.0,,Present,Present,San Francisco Bay Area,Salesforce,3.0,2015.0
+1,836.0,,2,2015,Greater Seattle Area,Hitachi Data Systems,3.0,2014.0
+2,836.0,,2,2014,Greater Seattle Area,Amazon.com,1.0,2011.0
+3,836.0,,7,2009,,Advanced Research Lab,10.0,2008.0
+4,836.0,,12,2010,Dallas/Fort Worth Area,SNRLabs Corporation,7.0,2009.0
+0,837.0,,Present,Present,San Francisco Bay Area,Sledgehammer Games,9.0,2016.0
+1,837.0,,8,2012,"Amsterdam Area, Netherlands",Little Chicken Game Company,8.0,2011.0
+2,837.0,,8,2016,Greater Chicago Area,Play Mechanix,8.0,2013.0
+3,837.0,,5,2013,Greater Chicago Area,Play Mechanix,1.0,2013.0
+0,838.0,,8,2016,"Malmo, Sweden",IKEA Group,7.0,2015.0
+1,838.0,,Present,Present,"Malmo, Sweden",IKEA Group,9.0,2016.0
+2,838.0,,3,2014,"Shanghai City, China",IKEA Retail China,,2010.0
+3,838.0,,4,2010,,IKEA,,2007.0
+4,838.0,,6,2015,"Shanghai City, China",IKEA Retail China,3.0,2014.0
+0,840.0,,12,2013,,University of Utah School of Medicine,4.0,2012.0
+1,840.0,,4,2012,,Brigham Young University,8.0,2009.0
+2,840.0,,1,2012,,Antarctica Logistics and Expeditions,5.0,2009.0
+3,840.0,,Present,Present,,University of Utah School of Medicine,1.0,2014.0
+0,841.0,,11,2004,,WELCO CGI GAS TECHNOLOGIES,8.0,2002.0
+1,841.0,,11,2008,,New York Blood Center,1.0,2005.0
+2,841.0,,8,2002,,LILY TRANSPORTATION INC,6.0,2001.0
+3,841.0,,Present,Present,,New York Blood Center,12.0,2008.0
+4,841.0,,6,2000,,NITTA CASINGS INC,10.0,1997.0
+0,842.0,,6,2014,Dublin,Al-Noor Islamic School,9.0,2013.0
+1,842.0,,6,2015,"ZÃ¼rich Area, Switzerland",ProVi Swiss,5.0,2015.0
+2,842.0,,1,2015,Ireland,Aisling Nursery and Montessori School,9.0,2014.0
+3,842.0,,Present,Present,,CPL/ Facebook,6.0,2016.0
+4,842.0,,5,2015,,Word Perfect Translations,5.0,2014.0
+5,842.0,,Present,Present,,Islamic Relief Worldwide,,
+6,842.0,,Present,Present,,Soccer Against Racism Ireland,,
+7,842.0,,Present,Present,,Diverse City Soccer,,
+0,843.0,,Present,Present,"San Luis Obispo, California Area",Amazon.com,7.0,2014.0
+1,843.0,,4,2013,"Mountain View, CA",Study.com,11.0,2010.0
+2,843.0,,7,2014,San Francisco Bay Area,ClearSlide,3.0,2014.0
+3,843.0,,11,2010,"Foster City, CA",Study.com,6.0,2006.0
+4,843.0,,6,2006,"San Luis Obispo, California Area",Study.com,6.0,2004.0
+5,843.0,,5,2012,,St. Bernard Project,5.0,2012.0
+6,843.0,,Present,Present,,OneBrick.org,3.0,2011.0
+7,843.0,,3,2013,,St. Bernard Project,3.0,2013.0
+0,844.0,,Present,Present,The Edge of Reality,Nettitude Group,2.0,2015.0
+1,844.0,,12,2007,,MWR InfoSecurity,7.0,2007.0
+2,844.0,,12,2014,Saturn,IRM PLC,10.0,2011.0
+3,844.0,,12,2010,,Sophos,1.0,2008.0
+4,844.0,,12,2014,,Electric Cat,12.0,2010.0
+0,845.0,,12,2016,"Vienna, Vienna, Austria",Deloitte Financial Services ,1.0,2016.0
+1,845.0,,4,2012,,Ithuba Capital AG,12.0,2011.0
+2,845.0,,Present,Present,"Vienna, Vienna, Austria",Deloitte Financial Services,1.0,2017.0
+3,845.0,,8,2013,,Erste Group Bank AG,2.0,2013.0
+4,845.0,,12,2015,"Vienna, Vienna, Austria",Deloitte Financial Services ,9.0,2014.0
+0,846.0,,Present,2009,"Neuroscience Center, Sweden","Sweden, Lund University",,2005.0
+1,846.0,,7,2013,"Geneva Area, Switzerland",Merck Serono,1.0,2009.0
+2,846.0,,12,2008,,Other Professional Activities,1.0,2004.0
+3,846.0,,Present,Present,"Geneva Area, Switzerland",Covance,6.0,2016.0
+4,846.0,,Present,Present,"Geneva Area, Switzerland",Covance,8.0,2013.0
+0,847.0,,12,2012,,Spoke LLC,9.0,2010.0
+1,847.0,,10,2009,,Toledo Webshop,5.0,2009.0
+2,847.0,,Present,Present,"Mission Viejo, CA",FireForge,6.0,2013.0
+3,847.0,,6,2013,"Chalfont, PA","AWeber Communications, Inc.",12.0,2012.0
+4,847.0,,9,2010,,Grocery Heroes,10.0,2009.0
+0,848.0,,4,2010,,ROX Medical,9.0,2008.0
+1,848.0,,8,2016,,Cangene Corporation,2.0,2013.0
+2,848.0,,2,2013,,"Inspiration Biopharmaceuticals, Inc",11.0,2012.0
+3,848.0,,11,2012,,"Inspiration Biopharmaceuticals, Inc",4.0,2010.0
+4,848.0,,Present,Present,,Cerus,8.0,2016.0
+0,849.0,,9,2011,,SAGEMCOM,3.0,2010.0
+1,849.0,,4,2016,"Munich Area, Germany",Dialog Semiconductor,6.0,2013.0
+2,849.0,,3,2010,Tunisie,Codintek,9.0,2008.0
+3,849.0,,5,2013,"Bruges Area, Belgium",Alten Belgium - Philips TV division,9.0,2011.0
+4,849.0,,Present,Present,"Munich Area, Germany",Dialog Semiconductor,4.0,2016.0
+0,850.0,,Present,Present,"Cambridge, United Kingdom",Jagex,1.0,2013.0
+1,850.0,,1,2013,,Crytek,5.0,2009.0
+2,850.0,,6,2009,,Rockstar Leeds,5.0,2008.0
+3,850.0,,8,2008,,Pivotal Games,5.0,1985.0
+4,850.0,,Present,1996,,Microprose,,1990.0
+0,851.0,,Present,Present,,Olympus,,2008.0
+1,851.0,,Present,Present,,Olympus America,,2008.0
+2,851.0,,7,2007,,Stryker,7.0,2006.0
+3,851.0,,Present,2008,,Foxhollow Technologies,,2007.0
+4,851.0,,Present,2008,,FoxHollow Technology,,2007.0
+0,852.0,,11,2011,"San Jose, CA",ProteinSimple,5.0,2011.0
+1,852.0,,8,2014,"Alameda, CA",Celera,11.0,2011.0
+2,852.0,,2,2017,"Redwood City, CA",Ingenuity Web Apps,10.0,2014.0
+3,852.0,,Present,Present,San Francisco Bay Area,"Zymergen, Inc.",2.0,2017.0
+4,852.0,,12,2010,"Mill Valley, CA",Comcast,9.0,2009.0
+0,853.0,,1,2003,,IMS MAXIMS,11.0,1998.0
+1,853.0,,7,2013,,IMS MAXIMS,12.0,2010.0
+2,853.0,,Present,Present,"Milton Keynes, United Kingdom",Volkswagen Group UK Ltd,1.0,2014.0
+3,853.0,,12,2010,,IMS MAXIMS,1.0,2003.0
+4,853.0,,1,2014,"Milton Keynes, United Kingdom",Volkswagen Group UK Ltd,7.0,2013.0
+0,854.0,,7,2015,Washington D.C. Metro Area,Savers,7.0,2014.0
+1,854.0,,7,2014,"Vienna, VA",Ratner Companies,6.0,2011.0
+2,854.0,,Present,Present,"Tulsa, OK",ConsumerAffairs,11.0,2016.0
+3,854.0,,Present,Present,"Tulsa, Oklahoma Area","Paws on Pearl,LLC",11.0,2015.0
+4,854.0,,Present,Present,"Tulsa, Oklahoma Area",Wholemade Meal Co.,10.0,2016.0
+0,857.0,,Present,Present,"Santa Clara, CA",Intel Corporation,12.0,2015.0
+1,857.0,,4,2014,"Santa Clara, CA",Marvell Semiconductor,10.0,2012.0
+2,857.0,,5,2011,,Michigan Technological University,8.0,2008.0
+3,857.0,,11,2012,"Santa Clara, CA",Marvell Semiconductor,2.0,2012.0
+4,857.0,,12,2015,"Santa Clara, California",Marvell Semiconductor,4.0,2014.0
+0,859.0,,7,2010,"Pune Area, India",Infosys,9.0,2008.0
+1,859.0,,1,2012,Newark NJ,NJIT,5.0,2011.0
+2,859.0,,8,2014,Roseville CA,"Revenue Solutions, Inc.",3.0,2012.0
+3,859.0,,Present,Present,San Francisco Bay Area,Moody's Analytics,8.0,2014.0
+4,859.0,,5,2011,Newark NJ,"S&A Technologies, LLC",9.0,2010.0
+0,860.0,,1,2016,San Mateo California,Predictofy,12.0,2014.0
+1,860.0,,11,2014,Cupertino - California,Zend Technologies,9.0,2012.0
+2,860.0,,2,2016,Palo Alto California,VMware,11.0,2014.0
+3,860.0,,Present,Present,San Mateo,Marketo,2.0,2016.0
+4,860.0,,9,2012,Israel - Ramat Gan,Zend Technologies,9.0,2007.0
+0,861.0,,Present,Present,"USDA/Forest Service, Denver CO",SNAP Inc,12.0,2006.0
+0,862.0,,7,2015,,Cenegenics Medical Institute (USA),5.0,2015.0
+1,862.0,,2,2017,San Francisco,Zenefits,2.0,2016.0
+2,862.0,,12,2015,San Francisco,Zenefits,7.0,2015.0
+3,862.0,,2,2016,San Francisco,Zenefits,12.0,2015.0
+4,862.0,,Present,Present,,Zenefits,2.0,2017.0
+0,863.0,,6,2014,"Campbell, CA",Panzura,5.0,2013.0
+1,863.0,,3,2013,San Francisco Bay Area,One Step Beyond Consulting,3.0,2012.0
+2,863.0,,Present,Present,"Los Altos, California","Didja, Inc.",6.0,2014.0
+3,863.0,,12,2011,"Mountain View, CA",Beyond Oblivion Inc.,11.0,2010.0
+4,863.0,,3,2010,San Francisco Bay Area,Kakai Inc.,11.0,2009.0
+0,864.0,,6,2014,"London, United Kingdom",Energize Recruitment Solutions,4.0,2013.0
+1,864.0,,Present,Present,Borehamwood/London,JUST EAT,7.0,2014.0
+2,864.0,,11,2012,"Manchester, United Kingdom",Signum,7.0,2011.0
+3,864.0,,4,2013,"Manchester, United Kingdom",Randstad CPE,11.0,2012.0
+0,866.0,,3,2012,,Baxter International Inc.,11.0,2008.0
+1,866.0,,Present,Present,,Baxter International Inc.,3.0,2012.0
+0,867.0,,11,2009,"darien, il",Wight & Company,5.0,2008.0
+1,867.0,,Present,2010,"chicago, illinois",Proposal Consultant,,2009.0
+2,867.0,,Present,Present,"naperville, il","Office Depot, Inc. (formerly OfficeMax)",,2010.0
+3,867.0,,Present,2004,"Bolingbrook, IL",The Shaw Group,,2000.0
+4,867.0,,Present,2008,"Lisle, IL",Patrick Engineering,,2005.0
+0,868.0,,3,2015,,Apple,7.0,2008.0
+1,868.0,,Present,Present,,Apple,3.0,2015.0
+2,868.0,,7,2008,,Apple Inc.,11.0,2006.0
+0,870.0,,Present,Present,Greater Denver Area,Indaba Group LLC,8.0,2013.0
+1,870.0,,7,2013,"Denver, CO",Purple Crayons Interactive,12.0,2012.0
+2,870.0,,Present,Present,Greater Denver Area,Vedana Ent,1.0,2009.0
+3,870.0,,12,2012,"Lincoln, Nebraska Area",Fiserv,5.0,2008.0
+4,870.0,,6,2010,,United States Army Reserve,6.0,2006.0
+0,871.0,,3,2016,"Santa Clara, California",Marvell Semiconductor,9.0,2013.0
+1,871.0,,5,2008,Bangalore,Infosys Technology Ltd,6.0,2007.0
+2,871.0,,8,2012,Bangalore,Cypress Semiconductor,1.0,2010.0
+3,871.0,,12,2009,Bangalore,Cypress Semiconductor,6.0,2008.0
+4,871.0,,Present,Present,"Santa Clara, California",Marvell Semiconductor,4.0,2016.0
+0,872.0,,Present,Present,,Salem Health,,
+0,873.0,,3,2014,Irvine,Edwards Lifesciences,9.0,2011.0
+1,873.0,,10,2005,Costa Mesa,cWorks,1.0,2002.0
+2,873.0,,11,2001,Irvine,Toshiba,7.0,1997.0
+3,873.0,,9,2011,Irvine,Masimo,10.0,2005.0
+4,873.0,,Present,Present,Laguan Hills,"SonendoÂ®, Inc.",3.0,2014.0
+5,873.0,,Present,Present,,American Youth Soccer Organization,,2008.0
+6,873.0,,3,2016,,Community HOA,9.0,2009.0
+0,874.0,,Present,2002,South San Francisco,Genentech,,1999.0
+1,874.0,,Present,2005,South San Francisco,Genentech,,2002.0
+2,874.0,,Present,2009,SSF,"Genentech, Inc.",,2005.0
+3,874.0,,8,2014,South San Francisco,Genentech-Roche,,2009.0
+4,874.0,,Present,Present,South San Francisco,Genentech,9.0,2014.0
+0,875.0,,6,2016,San Francisco Bay Area,Lookout,3.0,2014.0
+1,875.0,,3,2014,"RÃ©gion de la baie de San Francisco , Ãtats-Unis",Couchsurfing,1.0,2012.0
+2,875.0,,2,2012,Velizy,Bouygues Telecom,9.0,2011.0
+3,875.0,,6,2016,San Francisco Bay Area,Lookout,3.0,2014.0
+4,875.0,,10,2016,Greater Seattle Area,Avvo,6.0,2016.0
+5,875.0,,Present,Present,Greater Seattle Area,Getty Images,11.0,2016.0
+6,875.0,,3,2014,"RÃ©gion de la baie de San Francisco , Ãtats-Unis",Couchsurfing,1.0,2012.0
+7,875.0,,2,2012,Velizy,Bouygues Telecom,9.0,2011.0
+0,876.0,,12,2006,,Precerche,9.0,2005.0
+1,876.0,,Present,Present,"Austin, TX",HotSchedules,6.0,2007.0
+0,878.0,,Present,Present,Greater New York City Area,Priceline.com,11.0,2015.0
+1,878.0,,Present,Present,"New York, New York",Priceline.com,8.0,2015.0
+2,878.0,,1,2016,"New York, NY and Providence, RI",Ghost Tour Directory,1.0,2011.0
+3,878.0,,Present,Present,"Providence, RI",Providence Ghost Tour,1.0,2006.0
+4,878.0,,Present,Present,"New York, New York",Priceline.com,7.0,2013.0
+0,879.0,,5,2011,,Pericom Semiconductor,4.0,2009.0
+1,879.0,,4,2016,Cupertino,SugarCRM,12.0,2014.0
+2,879.0,,12,2014,Pleasanton,CallidusCloud,8.0,2013.0
+3,879.0,,5,2009,,Network Equipment Technologies,4.0,2007.0
+4,879.0,,8,2013,"San Carlos, Ca",MarkLogic,7.0,2011.0
+0,880.0,,Present,1990,,University of Illinois at Urbana-Champaign,,1984.0
+1,880.0,,Present,Present,,MITRE,7.0,2015.0
+2,880.0,,7,2015,,The MITRE Corporation,1.0,2000.0
+3,880.0,,Present,1990,,Motorola,,1990.0
+4,880.0,,12,1999,,Eberhard-Karls-UniversitÃ¤t TÃ¼bingen,7.0,1991.0
+0,881.0,,Present,2006,,Kendle International,,2002.0
+1,881.0,,Present,2007,,Premier Research Group,,2006.0
+2,881.0,,Present,2011,,PRS Clinical,,2007.0
+3,881.0,,Present,2012,"Holly Ridge, NC",PRA International,,2011.0
+4,881.0,,Present,Present,"Holly Ridge, NC",CTI Clinical Trials and Consulting,,2012.0
+0,882.0,,Present,Present,"London, United Kingdom",Vodafone,4.0,2014.0
+1,882.0,,10,2011,,Ipsos MORI,11.0,2009.0
+2,882.0,,10,2009,,Tube Lines,10.0,2005.0
+3,882.0,,3,2014,"London, United Kingdom",Nickelodeon / Comedy Central,10.0,2011.0
+0,883.0,,Present,Present,Greater New York City Area,Architizer,3.0,2016.0
+1,883.0,,2,2013,Greater New York City Area,Drum Guru,12.0,2012.0
+2,883.0,,3,2013,Greater New York City Area,"Hudson Music, LLC",4.0,2011.0
+3,883.0,,4,2015,Greater New York City Area,OpenAsset,10.0,2011.0
+4,883.0,,3,2016,Greater New York City Area,SinglePlatform,4.0,2015.0
+0,884.0,,Present,Present,"Redmond, WA",Microsoft,5.0,2011.0
+1,884.0,,5,2010,,Wells Fargo & Co,12.0,2008.0
+2,884.0,,5,2011,"Bloomington, Indiana Area",Indiana University Bloomington,1.0,2011.0
+3,884.0,,8,2006,,"Honeywell Technology Solutions, Inc.",6.0,2005.0
+4,884.0,,12,2008,,AT&T Wireless,11.0,2007.0
+0,885.0,,6,2015,"Austin, TX",Self-employed,7.0,2013.0
+1,885.0,,7,2010,"Austin, Texas Area",Enfatico (Y&R),9.0,2008.0
+2,885.0,,Present,Present,"Austin, Texas Area",IBM,6.0,2015.0
+3,885.0,,7,2013,"Austin, Texas Area",SolarWinds,8.0,2011.0
+4,885.0,,7,2011,"Austin, Texas Area",PointServe,7.0,2010.0
+0,887.0,,4,2016,Andover,Personnel Selection,1.0,2015.0
+1,887.0,,2,2017,Winchester,Manpower,5.0,2016.0
+2,887.0,,12,2014,Winchester,Manpower UK,7.0,2013.0
+3,887.0,,Present,Present,Winchester,Ernest & Nicholson Recruitment Ltd,2.0,2017.0
+4,887.0,,2,2013,Basingstoke,Great Guns Marketing,12.0,2011.0
+0,889.0,,Present,Present,San Francisco Bay Area,Xavient Information Systems,4.0,2016.0
+1,889.0,,Present,Present,San Francisco Bay Area,Xavient Information Systems,5.0,2016.0
+2,889.0,,4,2016,"Austin, Texas Area",3 M - Client of Cognizant,11.0,2015.0
+3,889.0,,4,2016,"San Francisco, California Area",Cognizant,2.0,2011.0
+4,889.0,,11,2015,San Francisco Bay Area,"eBay StubHub, A Cognizant client",7.0,2015.0
+5,889.0,,5,2003,,Satyam Computer Services,5.0,2003.0
+6,889.0,,Present,2006,,Utah Tamil Sangam,,2006.0
+0,891.0,,3,2015,"Santa Clara, CA","Connected IO, Inc.",11.0,2014.0
+1,891.0,,Present,Present,San Francisco,August Home Inc,9.0,2016.0
+2,891.0,,12,2015,"Palo Alto, California",Nest,4.0,2015.0
+3,891.0,,8,2016,San Francisco Bay Area,Nearby,4.0,2016.0
+4,891.0,,1,2014,"Karaganda, Kazakhstan",âEurotechservice Kâ LLC,10.0,2011.0
+0,892.0,,8,2013,San Francisco Bay Area,Cybernet Entertainment,3.0,2013.0
+1,892.0,,2,2015,San Francisco Bay Area,Technorati Media,9.0,2013.0
+2,892.0,,3,2013,San Francisco Bay Area,IO Group Inc. DBA Titan Media,6.0,2010.0
+3,892.0,,Present,Present,,Anaplan,8.0,2015.0
+4,892.0,,7,2015,,Sidecar,2.0,2015.0
+0,893.0,,12,2004,"Toronto, Canada Area",Alias|Wavefront,5.0,2003.0
+1,893.0,,Present,Present,San Francisco Bay Area,Industrial Light & Magic,4.0,2009.0
+2,893.0,,4,2006,"Emeryville, California",Pixar Animation Studios,5.0,2005.0
+3,893.0,,12,2006,"Emeryville, California",Pixar Animation Studios,8.0,2006.0
+4,893.0,,4,2009,San Francisco Bay Area,Industrial Light & Magic,7.0,2007.0
+5,893.0,,11,2013,,"Make-A-Wish Foundation, Greater Bay Area",11.0,2013.0
+0,894.0,,5,2015,"Northfield, Il",Kraft Foods Group,9.0,2013.0
+1,894.0,,Present,Present,,Foster Farms,5.0,2015.0
+2,894.0,,5,2012,,Bel Brands USA,4.0,2007.0
+3,894.0,,9,2013,Greater New York City Area,Lactalis American Group,6.0,2012.0
+4,894.0,,Present,2007,,ConAgra Foods,,2004.0
+0,895.0,,12,2003,,Radiant Research,4.0,2003.0
+1,895.0,,9,2007,,"Evalve, Inc.",2.0,2006.0
+2,895.0,,Present,Present,,"Evalve, Inc.",,
+3,895.0,,2,2006,,"Evalve, Inc.",8.0,2004.0
+4,895.0,,8,2004,,First Clinical Research,12.0,2003.0
+0,896.0,,Present,Present,,Novartis,6.0,2008.0
+0,897.0,,Present,Present,"Segundo, CA",Internet Brands,7.0,2011.0
+0,898.0,,Present,Present,,Jenny Lee Photography,1.0,2007.0
+1,898.0,,2,2015,"Sunnyvale, California",Apple Inc.,12.0,2014.0
+2,898.0,,Present,Present,,"CREATIVEPORK, Freelance Design",11.0,2008.0
+3,898.0,,9,2014,"San Jose, CA",eBay Inc,4.0,2013.0
+4,898.0,,12,2015,Menlo Park,Facebook,8.0,2015.0
+5,898.0,,3,2010,,Symantec,3.0,2010.0
+0,899.0,,6,2004,,neuf telecom,8.0,1999.0
+1,899.0,,Present,Present,,SFR Business Team,5.0,2009.0
+2,899.0,,5,2009,,Neuf Cegetel,6.0,2004.0

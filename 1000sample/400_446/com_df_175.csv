@@ -1,0 +1,176 @@
+,cand_id,country,endMonth,endYear,locationName,name,startMonth,startYear
+0,401.0,GB,10,2016,"London, United Kingdom",Investec,3.0,2016.0
+1,401.0,US,2,2016,,Deutsche Bank,4.0,2008.0
+2,401.0,GB,Present,Present,"London, United Kingdom",SmartStream Technologies,12.0,2016.0
+0,402.0,US,6,2012,"Evanston/Chicago, IL",Urban Outfitters,8.0,2008.0
+1,402.0,US,5,2010,"Evanston, IL",Aware Records/A-Squared Management,1.0,2010.0
+2,402.0,US,4,2016,"Chicago, il",marcus evans Group,6.0,2013.0
+3,402.0,US,Present,Present,Greater Chicago Area,Central Logic,5.0,2016.0
+4,402.0,US,6,2013,"Chicago, IL",Marcus Evans,2.0,2012.0
+5,402.0,US,1,2009,,Platform One Entertainment,1.0,2009.0
+0,403.0,US,Present,2002,"Waltham, Massachusetts",Qiave Technologies,,1999.0
+1,403.0,US,Present,Present,"Mountain View, California",Symantec,12.0,2013.0
+2,403.0,US,12,2013,"San Francisco, CA",Symantec,11.0,2012.0
+3,403.0,US,11,2012,"San Francisco, CA",Symantec,7.0,2006.0
+4,403.0,US,6,2006,"San Francisco, CA",Symantec,10.0,2002.0
+0,404.0,US,Present,Present,"South San Francisco, CA",Thermo Fisher Scientific,1.0,2013.0
+1,404.0,US,10,2011,"Foster City, CA",Life Technologies,5.0,2008.0
+2,404.0,US,1,2006,"Tucson, Arizona Area",Arizona Microsystems,7.0,2002.0
+3,404.0,US,6,2012,"Redwood City, CA",Ingenuity Systems,10.0,2011.0
+4,404.0,US,5,2008,"Foster City, CA",Applied Biosystems,1.0,2006.0
+0,406.0,DE,12,2015,"Hamburg Area, Germany",hmmh multimediahaus AG,7.0,2014.0
+1,406.0,DE,Present,Present,"Hamburg Area, Germany",haven5 GmbH,1.0,2016.0
+2,406.0,DE,9,2006,Kiel und Hamburg,Deutsche Telekom AG,9.0,2003.0
+3,406.0,DE,7,2014,Hamburg,hmmh multimediahaus AG,8.0,2010.0
+4,406.0,DE,6,2010,"Hamburg Area, Germany",Otto (GmbH & Co KG),9.0,2009.0
+0,407.0,US,12,2015,"Bala Cynwyd, PA",ACI Clinical,5.0,2013.0
+1,407.0,US,3,2009,"Wilmington, DE",AstraZeneca,4.0,1997.0
+2,407.0,US,Present,Present,"Menlo Park, CA",Intersect ENT,1.0,2016.0
+0,410.0,US,1,2013,Washington D.C. Metro Area,VERISIGN,8.0,2012.0
+1,410.0,US,6,2007,,Penn State University,1.0,2003.0
+2,410.0,CN,Present,2003,,Tsinghua Tongfang,,2001.0
+3,410.0,US,Present,Present,San Francisco Bay Area,"Hitachi America, Ltd.",2.0,2013.0
+4,410.0,US,8,2012,,Penn State University,7.0,2007.0
+0,412.0,US,Present,Present,"San Francisco, CA",Salesforce,11.0,2016.0
+1,412.0,US,5,2010,,Oracle USA,6.0,2007.0
+2,412.0,US,1,2013,"Santa Clara, CA",Citrix Systems,7.0,2011.0
+3,412.0,US,7,2011,"Cupertino, CA",Cloud.com (acquired by Citrix Systems),5.0,2010.0
+4,412.0,US,11,2016,"San Mateo, CA",NetSuite (Acquired by Oracle),1.0,2013.0
+0,413.0,US,9,2005,,TEFL International,1.0,2005.0
+1,413.0,US,3,2014,,Freelance,10.0,2013.0
+2,413.0,US,5,2012,"New York, NY",American Lung Association,9.0,2010.0
+3,413.0,US,Present,Present,Greater New York City Area,The New York Times,4.0,2014.0
+4,413.0,US,9,2010,,Theatre Communications Group,1.0,2006.0
+0,414.0,US,Present,Present,North Hollywood,Irdeto,3.0,2015.0
+1,414.0,US,2,2015,North Hollywood,Irdeto,9.0,2014.0
+2,414.0,US,5,2012,Burbank,Deluxe,5.0,2008.0
+3,414.0,US,Present,Present,,Business Data Software,11.0,2016.0
+4,414.0,US,9,2014,Burbank,Deluxe,5.0,2012.0
+0,415.0,US,Present,2013,,Peermusic,,2012.0
+1,415.0,US,Present,2015,,peermusic,,2014.0
+2,415.0,US,7,2012,,BMG RIGHTS MANAGEMENT,2.0,2011.0
+3,415.0,US,Present,Present,,Peermusic,8.0,2015.0
+4,415.0,CA,Present,2012,,Freelance Music Professional,,2006.0
+0,416.0,US,Present,Present,Mountain View,Google,9.0,2012.0
+1,416.0,US,8,2010,,Los Alamos National Laboratory,5.0,2010.0
+2,416.0,US,9,2011,,Google,6.0,2011.0
+3,416.0,US,9,2009,,Oregon State University,6.0,2009.0
+4,416.0,US,5,2012,,Harvey Mudd College,1.0,2009.0
+0,417.0,US,Present,2009,"Regional: Kansas City, MO",Metropolitan Research Associates,,2008.0
+1,417.0,US,Present,2017,"Regional: Kansas City, MO","TissueGene, Inc.  Cell Technologies",,2016.0
+2,417.0,US,Present,Present,"Regional: Kansas City, MO","TissueGene, Inc. Cell Technologies",2.0,2017.0
+3,417.0,US,Present,2008,"Regional: Kansas City, MO",PRA Health Sciences,,2006.0
+4,417.0,US,Present,2015,"Regional: Kansas City, MO",Lundbeck Pharmaceuticals,,2009.0
+0,418.0,US,11,2012,San Francisco Bay Area,Salesforce.com,2.0,2012.0
+1,418.0,US,12,2015,,Change.org,12.0,2014.0
+2,418.0,US,9,2016,San Francisco Bay Area,Change.org,12.0,2015.0
+3,418.0,US,12,2014,San Francisco Bay Area,Change.org,4.0,2013.0
+4,418.0,US,Present,Present,Greater Boston Area,Entrepreneurial Finance Lab [EFL Global],10.0,2016.0
+5,418.0,,7,2011,,The New Leaders Council,1.0,2010.0
+6,418.0,US,Present,Present,,Full Circle Fund,12.0,2008.0
+7,418.0,US,9,2011,,Imagine H2O,12.0,2008.0
+0,419.0,GB,5,2014,"London, United Kingdom",Institute of Contemporary Arts,12.0,2013.0
+1,419.0,GB,3,2017,"London, United Kingdom",Mintel,8.0,2015.0
+2,419.0,GB,Present,Present,"London, United Kingdom",Self-Employed,7.0,2014.0
+3,419.0,GB,Present,Present,"London, United Kingdom",Self-Employed,6.0,2014.0
+4,419.0,GB,10,2014,"London, United Kingdom",double decker,5.0,2014.0
+0,420.0,GB,Present,Present,"London, United Kingdom",Partnership,1.0,2013.0
+1,420.0,GB,Present,Present,"London, United Kingdom",Partnership,1.0,2015.0
+2,420.0,US,Present,2011,,SAS Software,,2004.0
+3,420.0,GB,Present,Present,"London, United Kingdom",Just ..,6.0,2016.0
+4,420.0,GB,1,2013,Eastleigh,Aviva plc,,2011.0
+5,420.0,CA,6,1986,,The Duke of Edinburgh's Award,6.0,1986.0
+6,420.0,GB,Present,Present,,London Borough of Tower Hamlets,11.0,2014.0
+7,420.0,US,1,2013,,Partnership,1.0,2013.0
+0,421.0,US,11,2009,,Metrolina Medical Research,11.0,2007.0
+1,421.0,US,11,2007,,"OrthoCarolina Research Institute, Inc.",8.0,2005.0
+2,421.0,US,Present,Present,Greater San Diego Area,QuintilesIMS,5.0,2011.0
+3,421.0,US,5,2011,Greater San Diego Area,UC San Diego Health System,2.0,2010.0
+4,421.0,US,11,2010,"Charlotte, North Carolina Area",Joint and Muscle Research Institute,11.0,2009.0
+0,422.0,US,10,2015,"Morgan Hill, California",All Sensors,7.0,2014.0
+1,422.0,US,10,2016,"Morgan Hill, California",All Sensors,10.0,2015.0
+2,422.0,US,10,2013,,Evergreen Math Institute,2.0,2007.0
+3,422.0,US,Present,Present,San Francisco,Helpshift,11.0,2016.0
+4,422.0,US,7,2014,"San Jose, California","Mixel, Inc.",5.0,2011.0
+0,423.0,US,12,2014,,Sabre Holdings,6.0,2013.0
+1,423.0,US,8,2009,Dallas/Fort Worth Area,Southwest Airlines,5.0,2009.0
+2,423.0,US,Present,Present,"San Francisco, California",Hotwire,12.0,2014.0
+3,423.0,US,8,2012,,Southwest Airlines,1.0,2010.0
+4,423.0,US,5,2013,Dallas/Fort Worth Area,Infovision - Barclay Bank,8.0,2012.0
+0,424.0,GB,Present,Present,,IRESS UK,9.0,2015.0
+1,424.0,GB,7,2015,,Toplevel,1.0,2015.0
+2,424.0,VE,Present,2010,,Capita,,2010.0
+3,424.0,GB,Present,Present,"Cheltenham, Gloucestershire, United Kingdom",IRESS,9.0,2016.0
+4,424.0,VE,Present,2014,,Capita,,2014.0
+0,426.0,DE,Present,Present,"Berlino, Germania",ImmobilienScout24,1.0,2017.0
+1,426.0,IT,8,2012,"Milan Area, Italy",CSP SpA,1.0,2011.0
+2,426.0,IT,8,2012,"Milan Area, Italy",Esselunga,4.0,2011.0
+3,426.0,DE,12,2016,"Berlin Area, Germany",Bonial International Group,9.0,2012.0
+4,426.0,IT,3,2011,"Milan Area, Italy",Reply,1.0,2011.0
+0,427.0,US,3,2015,"Las Vegas, Nevada Area",Quintiles,9.0,2013.0
+1,427.0,US,Present,Present,"Indianapolis, Indiana Area",Quintiles,4.0,2015.0
+2,427.0,US,Present,2010,,Eli Lilly and Company,,1992.0
+3,427.0,US,8,2012,Indianapolis,Indiana University,10.0,2011.0
+4,427.0,US,8,2013,"Las Vegas, NV",Quintiles,8.0,2012.0
+0,428.0,US,6,2015,"Santa Clara, CA","Connected IO, Inc.",6.0,2014.0
+1,428.0,US,Present,Present,San Francisco Bay Area,Wells Fargo,2.0,2017.0
+2,428.0,US,1,2017,"1020 Enterprise Way, Sunnyvale, CA",Microsoft,7.0,2015.0
+3,428.0,US,6,2015,San Francisco Bay Area,Helios Interactive (Experience Design Studio),6.0,2015.0
+4,428.0,US,5,2014,"Los Gatos, CA",Memocast,11.0,2012.0
+0,429.0,US,10,2013,"Los Angeles, CA",Rundavoo,4.0,2012.0
+1,429.0,US,8,2012,"Beverly Hills, CA",Paris Hilton Entertainment,1.0,2012.0
+2,429.0,,5,2014,,LOLPlaybook,11.0,2013.0
+3,429.0,US,Present,Present,"San Ramon, CA",GE Digital,10.0,2016.0
+4,429.0,US,10,2016,San Francisco Bay Area,GE Digital,6.0,2014.0
+0,430.0,IE,1,2008,,Tesco,3.0,2007.0
+1,430.0,GB,Present,Present,"Leicester, United Kingdom",Tesco PLC,3.0,2014.0
+2,430.0,GB,10,2012,Hertfordshire,Tesco Stores Ltd,8.0,2011.0
+3,430.0,GB,8,2011,Hertfordshire,Tesco,2.0,2008.0
+4,430.0,HK,2,2014,Asia - Hong Kong,Tesco PLC,10.0,2012.0
+0,431.0,US,3,2014,"Louisville, Colorado",GHX,7.0,2011.0
+1,431.0,US,7,2011,Greater Denver Area,Merkle,10.0,2007.0
+2,431.0,US,1,2016,Greater Denver Area,Xero,3.0,2014.0
+3,431.0,US,12,2014,,Denver SQL Server User Group,1.0,2013.0
+4,431.0,US,Present,Present,Greater Denver Area,UpSearch,2.0,2016.0
+5,431.0,,Present,Present,,SQL Server Community,3.0,2011.0
+0,433.0,US,3,2003,Greater Atlanta Area,SEARS REGIONAL CREDIT CARD OPERATIONS CENTER,1.0,1999.0
+1,433.0,US,3,2013,Greater Atlanta Area,"LDG Financial Services, LLC",4.0,2003.0
+2,433.0,US,Present,Present,"2550 windy ridge pkwy, atlanta, ga 30339",The Coca-Cola Company,6.0,2015.0
+3,433.0,US,6,2015,"Norcross, GA",FFAM / FFAM Capital Partners / FFAM MedRev Solutions,4.0,2010.0
+0,435.0,US,12,2016,"Sunnyvale, CA",Pharmacyclics,10.0,2012.0
+1,435.0,US,Present,2007,,Amgen,,2006.0
+2,435.0,US,Present,Present,Greater San Diego Area,"Hologic, Inc.",12.0,2016.0
+3,435.0,US,Present,2009,,W.L. Gore & Associates,,2007.0
+4,435.0,US,10,2012,United States,Jazz/JAI/Genentech,10.0,2009.0
+0,436.0,US,Present,Present,,IBM,,2005.0
+1,436.0,BE,Present,Present,,IBM Belgium,,
+2,436.0,LU,Present,Present,,IBM Luxembourg,7.0,2005.0
+0,438.0,US,Present,Present,,Regeneron Pharmaceuticals,7.0,2013.0
+1,438.0,US,7,2013,,Regeneron Pharmaceuticals,2.0,2012.0
+2,438.0,US,Present,Present,"Albany, New York Area","Regeneron Pharmaceuticals, Inc.",6.0,2016.0
+0,439.0,US,Present,2011,San Francisco,Macys.com,,2011.0
+1,439.0,US,Present,2015,San Francisco Bay Area,"Williams-Sonoma, Inc.",,2011.0
+2,439.0,US,Present,Present,San Francisco Bay Area,Lending Club,,2015.0
+3,439.0,US,Present,2010,"Denver, Calgary, Houston, San Jose",OpenText,,1997.0
+4,439.0,US,Present,2009,Greater Denver Area,Denver Water,,2001.0
+0,440.0,ES,Present,Present,,"Galsan InformÃ¡tica Profesional, SLU",12.0,2005.0
+1,440.0,ES,12,2005,,"Modas Cristal, S.L.",9.0,1997.0
+2,440.0,GB,Present,Present,,Nephos Solutions Limited,4.0,2014.0
+0,441.0,US,10,2015,"Bellevue, WA.",Fresh Consulting,8.0,2015.0
+1,441.0,US,9,2015,,Crown Social Agency,2.0,2012.0
+2,441.0,US,9,2015,Seattle,Hypr Inc.,4.0,2012.0
+3,441.0,US,Present,Present,"Seattle, Washington",FanWide,7.0,2016.0
+4,441.0,US,8,2016,Seattle,- Freelancer,11.0,2015.0
+0,442.0,US,11,2014,San Jose,PayPal,4.0,2012.0
+1,442.0,US,Present,Present,Mountain View,Coursera,11.0,2016.0
+2,442.0,US,12,2011,"San Jose, California",PayPal,7.0,2011.0
+3,442.0,IN,10,2008,"Bangalore, India",Infosys,8.0,2006.0
+4,442.0,US,3,2012,"Santa Clara, CA",Santa Clara University,4.0,2010.0
+0,445.0,GB,8,2011,Lancashire,NationWide Laboratories,3.0,2005.0
+1,445.0,GB,Present,Present,Runcorn,Teva Pharmaceuticals UK,2.0,2014.0
+2,445.0,GB,9,2012,University of Manchester,University of Manchester,9.0,2011.0
+0,446.0,GB,Present,Present,"Enfield, United Kingdom",Excitech Ltd,1.0,2017.0
+1,446.0,GB,1,2017,"Enfield, United Kingdom",Excitech Ltd,2.0,2016.0
+2,446.0,GB,1,2016,"Enfield, United Kingdom",Excitech Ltd,1.0,2015.0
+3,446.0,GB,1,2014,Gatwick,Autodesk Channel Partner,1.0,2013.0
+4,446.0,GB,1,2015,"Enfield, United Kingdom",Excitech Ltd,1.0,2014.0

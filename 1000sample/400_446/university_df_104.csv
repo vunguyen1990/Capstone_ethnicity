@@ -1,0 +1,105 @@
+,cand_id,country,endMonth,endYear,name,startMonth,startYear
+0,401.0,GB,Present,Present,University of Westminster,,
+1,401.0,GB,Present,2004,University of Westminster,,2001.0
+0,402.0,US,Present,Present,Columbia College Chicago,,
+1,402.0,US,Present,Present,Northern Illinois University,,
+2,402.0,US,Present,2010,Columbia College Chicago,,2007.0
+3,402.0,US,Present,2007,Northern Illinois University,,2005.0
+4,402.0,US,Present,2005,Evanston Township High School,,2001.0
+0,403.0,US,Present,Present,Massachusetts Institute of Technology,,
+1,403.0,US,Present,1992,Massachusetts Institute of Technology,,1988.0
+2,403.0,US,Present,Present,Wellesley College,,
+0,404.0,US,Present,Present,Stanford University,,
+1,404.0,US,Present,Present,Georgia Institute of Technology,,
+2,404.0,US,Present,1999,Stanford University,,1993.0
+3,404.0,US,Present,1993,Georgia Institute of Technology,,1989.0
+0,406.0,DE,Present,Present,Hochschule Flensburg,,
+1,406.0,DE,Present,2010,Fachhochschule Flensburg,,2006.0
+0,407.0,US,Present,Present,DCCC,,
+0,410.0,CN,Present,Present,Jilin University,,
+1,410.0,US,Present,Present,Penn State University,,
+2,410.0,CN,Present,2002,Jilin University,,1999.0
+3,410.0,US,Present,2007,Penn State University,,2003.0
+0,412.0,US,Present,Present,North Carolina State University,,
+1,412.0,IN,Present,Present,University of Mumbai,,
+2,412.0,US,Present,2006,North Carolina State University,,2005.0
+3,412.0,IN,Present,2005,University of Mumbai,,2001.0
+0,413.0,US,Present,Present,City University of New York City College,,
+1,413.0,US,Present,2009,City University of New York City College,,2006.0
+2,413.0,US,Present,2013,Flatiron School,,2013.0
+3,413.0,US,Present,2004,St. Michael's College,,2000.0
+0,414.0,US,Present,Present,UC Irvine,,
+1,414.0,CN,Present,Present,Peking University,,
+2,414.0,US,Present,Present,UC Irvine,,
+3,414.0,CN,Present,Present,Peking University,,
+4,414.0,US,Present,Present,"University of California, Irvine",,
+0,415.0,US,Present,Present,Belmont University,,
+1,415.0,US,Present,Present,Pepperdine Graziadio School of Business and Management,,
+2,415.0,US,Present,2001,Canfield High School,,1997.0
+3,415.0,US,Present,2005,Belmont University,,2001.0
+4,415.0,US,Present,2012,"Pepperdine University, The George L. Graziadio School of Business and Management",,2010.0
+0,416.0,US,Present,Present,Harvey Mudd College,,
+1,416.0,US,Present,2012,Harvey Mudd College,,2008.0
+2,416.0,HU,Present,2011,Aquincum Institute of Technology,,2011.0
+0,417.0,,Present,Present,Webster University,,
+1,417.0,,Present,1999,Webster University,,
+2,417.0,US,Present,1996,Iowa Methodist Medical Center School of Nursing,,
+3,417.0,,Present,Present,Webster University,,
+0,418.0,US,Present,Present,Brown University,,
+1,418.0,US,Present,2013,Berkeley Digital Film Institute,,2013.0
+2,418.0,US,Present,2006,Brown University,,2002.0
+3,418.0,US,Present,2015,UC Berkeley Extension School,,2013.0
+0,419.0,GB,Present,Present,Nottingham Trent University,,
+1,419.0,GB,Present,Present,Kingston University - Company,,
+2,419.0,GB,Present,2013,Nottingham Trent University,,2010.0
+3,419.0,GB,Present,2014,Kingston University,,2013.0
+4,419.0,,Present,2008,The Play Lounge Fashion Editor Academy,,2008.0
+0,420.0,GB,Present,1987,George Abbot,,1980.0
+0,421.0,US,Present,2001,"Southern Illinois University, Carbondale",,1998.0
+0,422.0,US,Present,Present,"University of California, Santa Cruz",,
+1,422.0,US,Present,2010,"University of California, Santa Cruz",,2007.0
+2,422.0,US,Present,Present,Evergreen Valley High School,,
+0,423.0,IN,Present,Present,Maharashtra Institute of Technology,,
+1,423.0,US,Present,Present,University of North Texas,,
+2,423.0,IN,Present,2006,Maharashtra Institute of Technology,,2002.0
+3,423.0,US,Present,2009,University of North Texas,,2007.0
+0,424.0,GB,Present,Present,University of Nottingham,,
+1,424.0,GB,Present,2011,University of Nottingham,,2008.0
+0,426.0,IT,Present,Present,UniversitÃ  degli Studi di Milano,,
+1,426.0,IT,Present,2006,UniversitÃ  degli Studi di Milano,,2002.0
+2,426.0,IT,Present,2007,UniversitÃ  degli Studi di Milano,,2006.0
+3,426.0,IT,Present,2009,UniversitÃ  degli Studi di Milano,,2007.0
+0,428.0,RU,Present,Present,Khabarovsk State Technical University,,
+1,428.0,,Present,2003,Ð¥Ð°Ð±Ð°ÑÐ¾Ð²ÑÐºÐ¸Ð¹ ÐÐ¾ÑÑÐ´Ð°ÑÑÑÐ²ÐµÐ½Ð½ÑÐ¹ Ð¢ÐµÑÐ½Ð¸ÑÐµÑÐºÐ¸Ð¹ Ð£Ð½Ð¸Ð²ÐµÑÑÐ¸ÑÐµÑ,,1998.0
+0,429.0,US,Present,Present,Arizona State University,,
+1,429.0,US,Present,Present,Loyola Marymount University,,
+2,429.0,US,Present,2009,Arizona State University,,2005.0
+3,429.0,US,Present,Present,Jesuit Highschool,,
+4,429.0,US,Present,2005,Loyola Marymount University,,2003.0
+0,430.0,GB,Present,Present,Keele University,,
+1,430.0,GB,Present,2001,"Lawrence Sheriff School, Rugby",,1999.0
+2,430.0,US,Present,2009,Accenture,,2008.0
+3,430.0,GB,Present,2004,Keele University,,2001.0
+0,431.0,US,Present,Present,University of Colorado Boulder,,
+1,431.0,US,Present,1996,University of Colorado at Boulder,,1992.0
+2,431.0,US,Present,1996,University of Colorado Boulder,,1992.0
+0,433.0,US,Present,Present,Southern Polytechnic State University,,
+1,433.0,US,Present,2014,Southern Polytechnic State University,,2009.0
+0,435.0,US,Present,Present,University at Buffalo,,
+1,435.0,US,Present,1995,Buffalo State College,,1987.0
+2,435.0,US,Present,1998,Buffalo State College,,1996.0
+0,438.0,US,Present,Present,Rensselaer Polytechnic Institute,,
+1,438.0,US,Present,2011,Rensselaer Polytechnic Institute,,2007.0
+0,439.0,CA,Present,Present,Okanagan College,,
+1,439.0,CA,Present,Present,Okanagan College,,
+0,441.0,US,Present,Present,University of Washington,,
+1,441.0,US,Present,Present,Eastern Washington University,,
+2,441.0,US,Present,2010,Eastern Washington University,,2009.0
+3,441.0,US,Present,2009,West Seattle High School,,2005.0
+4,441.0,US,Present,2014,University of Washington,,2011.0
+0,442.0,US,Present,Present,Santa Clara University,,
+1,442.0,IN,Present,2006,Bangalore Institute of Technology,,2002.0
+2,442.0,US,Present,2012,Santa Clara University,,2010.0
+0,445.0,GB,Present,Present,The University of Manchester,,
+1,445.0,GB,Present,2015,The University of Manchester,,2011.0
+0,446.0,GB,Present,Present,Maidstone Grammar School,,

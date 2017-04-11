@@ -1,0 +1,263 @@
+,cand_id,country,endMonth,endYear,name,startMonth,startYear
+0,100.0,IN,Present,Present,Shivaji University,,
+1,100.0,IN,Present,2004,Shivaji University,,2000.0
+2,100.0,IN,Present,Present,Adarsh Balak Mandir,,
+0,101.0,US,Present,Present,University of Colorado Boulder,,
+1,101.0,US,Present,2015,University of Colorado Boulder,,2011.0
+2,101.0,US,Present,2015,University of Colorado Boulder,,2015.0
+0,102.0,IN,Present,Present,University of Mumbai,,
+1,102.0,US,Present,Present,San Jose State University,,
+2,102.0,US,Present,2014,San Jose State University,,2012.0
+3,102.0,IN,Present,2011,University of Mumbai,,2007.0
+0,103.0,US,Present,Present,University of North Texas,,
+1,103.0,US,Present,2004,University of North Texas,,2001.0
+0,104.0,GB,Present,Present,University of Birmingham,,
+1,104.0,GB,Present,1993,King Edward VI High School for Girls,,1985.0
+2,104.0,GB,Present,1997,University of Birmingham,,1993.0
+0,105.0,US,Present,Present,University of Nebraska-Lincoln,,
+1,105.0,CN,Present,Present,Tsinghua University,,
+2,105.0,CN,Present,Present,"No4 Middle School, Beijing",,
+3,105.0,US,Present,Present,University of Nebraska Lincoln,,
+4,105.0,CN,Present,Present,Tsinghua University,,
+0,108.0,US,Present,Present,San Jose State University,,
+1,108.0,US,Present,2007,San Jose State University,,2005.0
+0,109.0,US,Present,Present,The University of Texas at Dallas,,
+1,109.0,IN,Present,2008,"Coimbatore Institute of Technology, Anna University",,2004.0
+2,109.0,US,Present,2012,The University of Texas at Dallas,,2011.0
+0,110.0,US,Present,Present,California Polytechnic State University-San Luis Obispo,,
+1,110.0,US,1,1995,"Cal Poly, San Luis Obispo",6.0,1990.0
+0,112.0,IN,Present,Present,"Indian Institute of Technology, Bombay",,
+1,112.0,IN,Present,2003,"Indian Institute of Technology, Bombay",,1999.0
+0,113.0,US,Present,Present,University of South Florida,,
+1,113.0,US,Present,Present,University of South Florida,,
+0,114.0,US,Present,Present,University of Michigan,,
+1,114.0,US,Present,Present,California Institute of the Arts,,
+2,114.0,US,Present,Present,University of Michigan,,
+3,114.0,US,Present,Present,California Institute of the Arts,,
+0,115.0,US,Present,Present,University of Southern California,,
+1,115.0,IN,Present,Present,"Indian Institute of Technology, Madras",,
+2,115.0,US,Present,2009,University of Southern California,,2003.0
+3,115.0,IN,Present,2003,"Indian Institute of Technology, Madras",,1999.0
+4,115.0,US,Present,2005,University of Southern California,,2003.0
+0,116.0,US,Present,Present,George Mason University - School of Business,,
+1,116.0,US,Present,2011,George Mason University - School of Management,,2007.0
+0,118.0,US,Present,Present,San Jose City College,,
+1,118.0,US,Present,Present,San Jose City College,,
+0,119.0,CN,Present,Present,Anhui University,,
+1,119.0,US,Present,Present,University of Illinois at Urbana-Champaign,,
+2,119.0,CN,Present,Present,Peking University,,
+3,119.0,CN,Present,Present,Peking University,,
+4,119.0,US,Present,Present,University of Illinois at Urbana-Champaign,,
+5,119.0,CN,Present,Present,Anhui University,,
+0,120.0,US,Present,Present,Fashion Institute of Design & Merchandising,,
+1,120.0,US,Present,Present,Fashion Institute of Design & Merchandising,,
+0,121.0,GB,Present,Present,University of London,,
+1,121.0,GB,Present,Present,University of London,,
+2,121.0,GB,Present,Present,"University of Westminster, London",,
+0,122.0,US,Present,Present,Oregon State University,,
+1,122.0,IN,Present,Present,Osmania University,,
+2,122.0,US,Present,Present,Oregon State University,,
+3,122.0,IN,Present,Present,Osmania University,,
+0,123.0,GB,Present,2006,"Event Management Training Ltd - London, United Kindgom",,2005.0
+1,123.0,AU,Present,1999,"Loreto College - Adelaide, Australia",,1987.0
+2,123.0,AU,Present,2002,"Adelaide Hospitality and Tourism School - Adelaide, Australia",,2000.0
+0,124.0,US,Present,Present,University of Illinois at Chicago,,
+1,124.0,US,Present,2006,University of Illinois at Chicago,,
+0,125.0,US,Present,Present,Kennesaw State University,,
+1,125.0,US,Present,2008,Kennesaw State University,,2003.0
+0,126.0,,Present,Present,National University of Singapore,,
+1,126.0,,Present,Present,National University of Singapore,,
+0,127.0,,Present,Present,National University of Singapore,,
+1,127.0,SG,Present,Present,Nanyang Technological University,,
+2,127.0,SG,Present,2015,Nanyang Technological University,,2014.0
+3,127.0,,Present,2001,National University of Singapore,,1998.0
+0,128.0,US,Present,Present,University of Washington - Michael G. Foster School of Business,,
+1,128.0,US,Present,2004,"University of Washington, Michael G. Foster School of Business",,2000.0
+2,128.0,US,Present,2005,"University of Washington, Michael G. Foster School of Business",,2004.0
+0,129.0,AU,Present,Present,RMIT University,,
+1,129.0,AU,Present,1993,Royal Melbourne Institute of Technology,,1990.0
+0,130.0,US,Present,Present,The University of Texas at Austin,,
+1,130.0,US,Present,2006,The University of Texas at Austin,,2002.0
+0,131.0,US,Present,Present,The University of Toledo,,
+1,131.0,IN,Present,Present,University of Mumbai,,
+2,131.0,IN,Present,Present,University of Mumbai,,
+3,131.0,US,Present,Present,University of Toledo,,
+0,132.0,US,Present,Present,Wake Forest University,,
+1,132.0,US,Present,Present,Ithaca College,,
+2,132.0,US,Present,1996,Ithaca College,,1992.0
+3,132.0,US,Present,1999,Wake Forest University,,1997.0
+4,132.0,US,Present,1992,Bancroft,,1988.0
+0,133.0,US,Present,Present,West Chester University of Pennsylvania,,
+1,133.0,US,Present,2011,West Chester University of Pennsylvania,,2008.0
+0,134.0,US,Present,1992,San Diego Statue University,,1987.0
+1,134.0,US,Present,Present,Hilltop High,,
+0,135.0,US,Present,Present,Rowan College at Burlington County,,
+1,135.0,US,Present,2008,Rowan College at Burlington County,,2007.0
+0,136.0,IN,Present,Present,Netaji Subhas Institute of Technology,,
+1,136.0,US,Present,Present,Stanford University,,
+2,136.0,IN,Present,2009,Netaji Subhas Institute of Technology,,2005.0
+3,136.0,US,6,2013,Stanford University,,2011.0
+0,138.0,US,Present,Present,School of Visual Arts,,
+1,138.0,US,Present,Present,Fashion Institute of Technology,,
+2,138.0,US,Present,2009,Fashion Institute of Technology,,2009.0
+3,138.0,US,Present,2009,School of Visual Arts,,2004.0
+0,139.0,CA,Present,Present,Simon Fraser University,,
+1,139.0,CA,Present,2013,Simon Fraser University,,2008.0
+0,140.0,AU,Present,Present,University of Tasmania,,
+1,140.0,AU,Present,1999,University of Tasmania,,1995.0
+2,140.0,AU,Present,1999,University of Tasmania,,1994.0
+0,141.0,GB,Present,Present,Abertay University,,
+1,141.0,GB,Present,2004,University of Abertay Dundee,,1999.0
+0,142.0,US,Present,Present,"University of California, Berkeley",,
+1,142.0,US,Present,2007,"University of California, Berkeley",,2005.0
+0,143.0,IN,Present,Present,Anna University,,
+1,143.0,IN,Present,Present,Anna University,,
+2,143.0,IN,Present,Present,BITS Pilani,,
+0,145.0,,Present,Present,Campbell University,,
+0,146.0,US,Present,Present,The University of Georgia,,
+1,146.0,US,Present,Present,The University of Georgia,,
+2,146.0,IN,Present,1994,Symbiosis Institute of Business Management,,1992.0
+3,146.0,US,Present,Present,S P College,,
+0,147.0,SI,Present,2010,"University of Ljubljana, Faculty of Computer and Information Science",,2005.0
+0,150.0,GB,Present,Present,University of Cambridge,,
+1,150.0,US,Present,2007,HFLS,,2003.0
+2,150.0,GB,Present,2014,University of Cambridge,,2010.0
+0,151.0,US,Present,Present,Boston University,,
+1,151.0,US,Present,2009,Boston University - School of Public Health,,2004.0
+2,151.0,US,Present,1999,Somerville High School,,1997.0
+3,151.0,US,Present,2003,Boston University,,1999.0
+0,152.0,,Present,1991,EHSAL,,1986.0
+0,153.0,US,Present,Present,Chatham University,,
+1,153.0,US,Present,Present,University of Florida,,
+2,153.0,US,Present,Present,The Johns Hopkins University - Carey Business School,,
+3,153.0,US,Present,1993,University of Florida,,1990.0
+4,153.0,US,Present,2007,The Johns Hopkins University - Carey Business School,,2004.0
+5,153.0,US,Present,2000,Chatham University,,1998.0
+0,154.0,IN,Present,2003,"Deogiri College, India",,2001.0
+1,154.0,IN,Present,2010,"Y. B. Chavan College Of Pharmacy, Dr. BAMU University, India.",,2008.0
+2,154.0,IN,Present,2008,"Government College of Pharmacy, Dr. BAMU University, India",,2004.0
+0,155.0,GB,Present,Present,Queen's University  Belfast,,
+1,155.0,GB,Present,1990,Queen's University  Belfast,,1987.0
+2,155.0,GB,Present,1995,Queen's University  Belfast,,1990.0
+3,155.0,GB,Present,Present,Queen's University  Belfast,,
+4,155.0,GB,Present,1990,Queen's University  Belfast,,1987.0
+5,155.0,GB,Present,1995,Queen's University  Belfast,,1990.0
+0,156.0,DE,Present,Present,Munich University of Applied Sciences,,
+1,156.0,DE,Present,1992,Josef-Hofmiller-Gymnasium,,1983.0
+2,156.0,DE,Present,1992,Fachhochschule MÃ¼nchen,,1987.0
+0,157.0,US,Present,Present,Purdue University,,
+1,157.0,US,5,2003,Purdue University,8.0,1998.0
+0,159.0,US,Present,Present,"University of California, Santa Cruz",,
+1,159.0,US,Present,Present,Santa Barbara City College,,
+2,159.0,US,Present,2008,UC Santa Cruz,,2006.0
+3,159.0,US,Present,2006,Santa Barbara City College,,2004.0
+0,160.0,IN,Present,2003,SRMS College Of Engineering & Technology,,1999.0
+0,161.0,US,Present,Present,University of Denver,,
+1,161.0,US,Present,Present,University of Colorado Boulder,,
+2,161.0,US,Present,2012,University of Denver,,2010.0
+3,161.0,US,Present,2006,University of Colorado at Boulder,,2003.0
+0,162.0,US,Present,Present,Bowling Green State University,,
+1,162.0,US,Present,2007,Bowling Green State University,,2003.0
+0,163.0,IN,Present,Present,Visvesvaraya Technological University,,
+1,163.0,IN,Present,2010,Visvesvaraya Technological University,,2006.0
+0,164.0,US,Present,Present,University of the Pacific,,
+1,164.0,US,Present,Present,University of Arizona,,
+2,164.0,US,Present,2002,University of the Pacific,,1997.0
+3,164.0,US,Present,1996,University of Arizona,,1994.0
+0,165.0,US,Present,2012,Cal Poly San Luis Obispo,,2007.0
+0,166.0,US,Present,Present,Santa Barbara City College,,
+1,166.0,US,Present,Present,California Polytechnic State University-San Luis Obispo,,
+2,166.0,US,Present,Present,California Polytechnic State University-San Luis Obispo,,
+3,166.0,US,Present,Present,Santa Barbara City College,,
+0,169.0,US,Present,Present,Kutztown University of Pennsylvania,,
+1,169.0,US,Present,Present,Seton Hall University School of Law,,
+2,169.0,US,Present,Present,Widener University School of Law,,
+3,169.0,US,Present,Present,Seton Hall University School of Law,,
+4,169.0,US,Present,2009,Widener University School of Law,,2007.0
+5,169.0,US,Present,1994,Kutztown University of Pennsylvania,,1991.0
+0,170.0,US,Present,Present,Boise State University,,
+1,170.0,US,Present,2011,Boise State University,,2008.0
+0,171.0,US,Present,2002,Micropower Computer Institute,,2002.0
+1,171.0,US,Present,2004,Nyack College,,2000.0
+0,172.0,PT,Present,Present,Universidade de Lisboa,,
+1,172.0,PT,Present,2001,Universidade TÃ©cnica de Lisboa (ISEG),,1996.0
+2,172.0,US,Present,Present,EPM,,
+0,173.0,CO,Present,Present,Universidad de Los Andes,,
+1,173.0,CO,Present,Present,Universidad Distrital Francisco JosÃ© de Caldas,,
+2,173.0,US,Present,Present,Boston University,,
+3,173.0,US,Present,2010,Boston University,,2004.0
+4,173.0,CO,Present,1999,Universidad Distrital Francisco JosÃ© de Caldas,,1992.0
+5,173.0,CO,Present,2003,Universidad de Los Andes,,2000.0
+0,174.0,US,Present,Present,The Ohio State University,,
+1,174.0,US,Present,1992,the Ohio State University,,1988.0
+2,174.0,US,Present,1997,the Ohio State University,,1995.0
+0,175.0,US,Present,Present,"University of California, Los Angeles",,
+1,175.0,US,Present,1996,"University of California, Los Angeles",,1991.0
+0,176.0,US,Present,Present,Georgetown University - The McDonough School of Business,,
+1,176.0,NL,Present,Present,University of Amsterdam,,
+2,176.0,US,Present,Present,New York Medical College,,
+3,176.0,NL,Present,1996,University of Amsterdam,,1995.0
+4,176.0,US,Present,2000,New York Medical College,,1996.0
+5,176.0,US,Present,2003,Georgetown University - The McDonough School of Business,,2001.0
+0,177.0,US,Present,Present,Texas Tech University,,
+1,177.0,US,Present,2009,Texas Tech University,,2007.0
+2,177.0,IN,Present,2007,Aacharya Nagarjuna University,,2003.0
+0,178.0,PK,Present,Present,National University of Computer and Emerging Sciences,,
+1,178.0,PK,Present,Present,Lahore University of Management Sciences,,
+2,178.0,PK,Present,2003,National University of Computer and Emerging Sciences,,1999.0
+3,178.0,PK,Present,2006,Lahore University of Management Sciences,,2004.0
+0,179.0,GB,Present,Present,University of Liverpool,,
+1,179.0,CZ,Present,Present,Charles University in Prague,,
+2,179.0,CZ,Present,1997,Charles University in Prague,,1993.0
+3,179.0,GB,Present,2008,University of Liverpool,,2005.0
+0,181.0,IN,Present,Present,Malaviya National Insitute of Technology Jaipur,,
+1,181.0,IN,Present,1999,Malaviya National Insitute of Technology Jaipur,,1995.0
+0,182.0,,Present,Present,BoÄaziÃ§i University,,
+1,182.0,TR,Present,Present,Istanbul Bilgi University,,
+2,182.0,,Present,Present,BoÄaziÃ§i Ãniversitesi,,2010.0
+3,182.0,,Present,2009,Ä°stanbul Bilgi Ãniversitesi,,2004.0
+0,183.0,US,Present,Present,Notre Dame de Namur University,,
+1,183.0,US,Present,Present,California State University-Hayward - School of Business and Economics,,
+2,183.0,US,Present,2004,California State University-Hayward - School of Business and Economics,,2000.0
+3,183.0,US,Present,2015,Notre Dame de Namur University,,2013.0
+0,184.0,DE,Present,Present,Max-Eyth-Schule Kirchheim/Teck,,
+1,184.0,DE,Present,Present,Max-Eyth-Schule Kirchheim/Teck,,
+0,185.0,US,Present,Present,Allegheny College,,
+1,185.0,US,Present,1983,Allegheny College,,
+0,186.0,US,Present,Present,Massachusetts Institute of Technology,,
+1,186.0,US,Present,2017,Thomas S. Wootton High School,,2013.0
+2,186.0,US,Present,Present,Massachusetts Institute of Technology,,
+0,187.0,DE,Present,Present,Hochschule Augsburg,,
+1,187.0,DE,Present,Present,Fachhochschule Augsburg,,
+0,188.0,US,Present,Present,Elgin Community College,,
+1,188.0,US,Present,2014,University of Illinois at Urbana-Champaign,,2012.0
+2,188.0,US,Present,2012,Elgin Community College,,2011.0
+0,189.0,US,Present,Present,Harvard Law School,,
+1,189.0,CA,Present,Present,University of Toronto,,
+2,189.0,US,Present,2012,Harvard Law School,,2009.0
+3,189.0,CA,Present,2007,University of Toronto,,2002.0
+0,190.0,US,Present,Present,California State University-Long Beach,,
+1,190.0,US,Present,1998,California State University-Long Beach,,1993.0
+0,191.0,US,Present,Present,Cornish College of the Arts,,
+1,191.0,US,Present,2010,Cornish College of the Arts,,2008.0
+0,193.0,US,Present,Present,ArtCenter College of Design,,
+1,193.0,US,Present,1995,ArtCenter College of Design,,1992.0
+0,194.0,US,Present,Present,University of Indianapolis,,
+1,194.0,,Present,Present,Indiana UniversityâPurdue University Indianapolis,,
+2,194.0,,Present,1998,Indiana UniversityâPurdue University Indianapolis,,1996.0
+3,194.0,US,Present,1984,University of Indianapolis,,1982.0
+0,195.0,US,Present,Present,Drexel University,,
+1,195.0,US,Present,Present,Pennsylvania Institute of Technology,,
+2,195.0,US,Present,2002,Pennsylvania Institute of Technology,,2000.0
+3,195.0,US,Present,2004,Drexel University,,2002.0
+0,196.0,US,Present,Present,Caldwell University,,
+1,196.0,US,Present,1983,Caldwell University,,1979.0
+0,197.0,US,Present,Present,Academy of Art University,,
+1,197.0,US,Present,2007,Renaissance Entrepreneurship Center,,2007.0
+2,197.0,US,Present,2005,Academy of Art University,,2001.0
+0,198.0,US,Present,Present,University of Maryland College Park,,
+1,198.0,US,Present,2014,University of Maryland College Park,,2010.0
+2,198.0,US,Present,Present,University of Maryland College Park,,
+3,198.0,US,Present,2014,University of Maryland College Park,,2010.0
+0,199.0,US,Present,Present,Sheridan College,,
+1,199.0,US,Present,1990,Sheridan College,,1985.0

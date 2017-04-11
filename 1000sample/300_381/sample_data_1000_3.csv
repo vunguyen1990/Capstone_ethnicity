@@ -1,0 +1,101 @@
+,index,Unnamed: 0,candidate_name,candidate_surname,candidate_country,candidate_gender,c_address_latitude,c_address_longitude,ethnicity,type,url,cand_id,fullname,ID
+300,115328,115328,Kumar,Summan,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/ksumman,115328,KumarSumman,300
+301,40420,40420,Bipin,Kuriakose,IN,Male,18.9629992,72.8175748,Asian,linkedin,https://www.linkedin.com/in/bipinkuriakose/,40420,BipinKuriakose,301
+302,82525,82525,Yongfeng,Xi,US,Male,40.7127837,-74.0059413,Asian,linkedin,https://www.linkedin.com/in/yongfengxi,82525,YongfengXi,302
+303,168491,168491,Kulin,Shah,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/kulinshah?authType=NAME_SEARCH&authToken=Hc7t,168491,KulinShah,303
+304,55331,55331,Roger,Pelletier,US,Male,25.790654,-80.1300455,White/Caucasian,linkedin,http://www.linkedin.com/in/roger-pelletier-826685,55331,RogerPelletier,304
+305,75804,75804,Nikki,Solemsaas,US,Female,47.6062095,-122.3320708,White/Caucasian,linkedin,https://www.linkedin.com/in/nikki-solemsaas-4749066a,75804,NikkiSolemsaas,305
+306,72837,72837,Tom,Blich,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/tomblich?authType=name&authToken=PK3Q&trk=prof-sb-browse_map-name,72837,TomBlich,306
+307,114158,114158,Meena,Patel,US,Female,40.554887,-74.4642861,Asian,linkedin,https://www.linkedin.com/pub/meena-patel/11/976/629,114158,MeenaPatel,307
+308,59407,59407,Jeff,Rodkey,US,Male,47.7090053,-122.3551002,White/Caucasian,linkedin,https://www.linkedin.com/in/jeffrodkey,59407,JeffRodkey,308
+309,43157,43157,Erik,Wagner,NL,Male,52.3702157,4.8951679,White/Caucasian,linkedin,https://www.linkedin.com/in/erik-wagner-279a4013,43157,ErikWagner,309
+310,77874,77874,Shubham,Choudhary,US,Male,33.7589915,-84.3868175,White/Caucasian,linkedin,https://www.linkedin.com/in/shubhamchoudhary17/,77874,ShubhamChoudhary,310
+311,159572,159572,Adam,Singer,US,Male,39.750936,-75.7571485,White/Caucasian,linkedin,https://www.linkedin.com/in/adam-singer-b612197,159572,AdamSinger,311
+312,62424,62424,Fellyn,Silliman,US,Male,40.7127837,-74.0059413,White/Caucasian,linkedin,https://www.linkedin.com/in/fellyn,62424,FellynSilliman,312
+313,196549,196549,Anju,Dubey,US,Female,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/anju-dubey-2729331b?authType=name&authToken=JL7y,196549,AnjuDubey,313
+314,30747,30747,Michael,Forster,GB,Male,52.651282,-0.480216,White/Caucasian,linkedin,https://www.linkedin.com/in/mrmichaelforster,30747,MichaelForster,314
+315,174785,174785,Scott,Reimonenq,US,Male,33.7174708,-117.8311428,White/Caucasian,linkedin,https://www.linkedin.com/in/scott-reimonenq-b078154,174785,ScottReimonenq,315
+316,3630,3630,Daniel,Roy,CA,Male,45.5016889,-73.567256,White/Caucasian,linkedin,https://ca.linkedin.com/in/daniel-roy-b316a9,3630,DanielRoy,316
+317,191659,191659,Zhengxiong,Zhang,US,Male,37.2358078,-121.9623751,Asian,linkedin,https://www.linkedin.com/in/zhengxiong-zhang-76061361,191659,ZhengxiongZhang,317
+318,158344,158344,Sheref,Elbassiouny,US,Male,40.775928,-74.585416,Other/Multiracial,linkedin,https://www.linkedin.com/in/sheref-elbassiouny-074123bb,158344,SherefElbassiouny,318
+319,75920,75920,Hsiu-Khuern,Tang,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/hsiu-khuern-tang-005aab12,75920,Hsiu-KhuernTang,319
+320,145556,145556,Jane,Tsai,US,Female,37.8271784,-122.2913078,Asian,linkedin,https://www.linkedin.com/in/jane-tsai-08182740,145556,JaneTsai,320
+321,6659,6659,Hazel,Whorley,CA,Male,42.9869502,-81.243177,White/Caucasian,linkedin,https://www.linkedin.com/in/hazelwhorley,6659,HazelWhorley,321
+322,99160,99160,Fan,Jiang,US,Male,47.6062095,-122.3320708,Asian,linkedin,https://www.linkedin.com/in/francis80,99160,FanJiang,322
+323,182116,182116,Martin,Etkin,US,Male,37.7749295,-122.4194155,Hispanic/Latino,linkedin,https://www.linkedin.com/in/martin-etkin-76315b23,182116,MartinEtkin,323
+324,183435,183435,Beau,Randall,US,Male,32.715738,-117.1610838,White/Caucasian,linkedin,https://www.linkedin.com/in/beaurandall,183435,BeauRandall,324
+325,36702,36702,Robert,Hill,GB,Male,55.378051,-3.435973,White/Caucasian,linkedin,https://www.linkedin.com/in/robert-hill-15a5122a,36702,RobertHill,325
+326,152256,152256,Narayanan,Arunachalam,US,Male,37.8271784,-122.2913078,Asian,linkedin,https://www.linkedin.com/in/narayanan-arunachalam-0744291,152256,NarayananArunachalam,326
+327,138652,138652,De,Ann Williams-Doonan,US,Female,30.318727,-97.6875402,White/Caucasian,linkedin,https://www.linkedin.com/in/de-ann-williams-doonan-8088b48?authType=name&authToken=OMTi&trk=prof-sb-browse_map-name,138652,DeAnn Williams-Doonan,327
+328,105612,105612,Kenneth,Mei,US,Male,37.8271784,-122.2913078,Asian,linkedin,https://www.linkedin.com/in/kennethmei?authType=name&authToken=03I1&trk=api*a109924*s118458*,105612,KennethMei,328
+329,38524,38524,Rachel,Duggan,IE,Male,53.41291,-8.24389,White/Caucasian,linkedin,https://www.linkedin.com/in/rachel-duggan-070b60b3,38524,RachelDuggan,329
+330,179127,179127,Joni,Butts,US,Female,42.1711365,-87.8445119,White/Caucasian,linkedin,https://www.linkedin.com/in/joni-butts-ab29245,179127,JoniButts,330
+331,170392,170392,Selvam,Srinivasan,US,Male,33.7458511,-117.826166,Asian,linkedin,https://www.linkedin.com/in/selvamsrinivasan,170392,SelvamSrinivasan,331
+332,155142,155142,Laura,Tritz,US,Female,47.6062095,-122.3320708,White/Caucasian,linkedin,https://www.linkedin.com/in/lauratritz?authType=OUT_OF_NETWORK&authToken=ENp8,155142,LauraTritz,332
+333,139816,139816,Sravani,Kavadi,US,Female,37.8271784,-122.2913078,Asian,linkedin,https://www.linkedin.com/in/sravanikavadi,139816,SravaniKavadi,333
+334,125337,125337,Holly,Gray,US,Female,47.7510741,-120.7401386,White/Caucasian,linkedin,https://www.linkedin.com/in/holly-gray-913454,125337,HollyGray,334
+335,15518,15518,Catherine,Stoffel,FR,Female,43.296482,5.36978,White/Caucasian,linkedin,https://fr.linkedin.com/in/catherinestoffel,15518,CatherineStoffel,335
+336,94737,94737,Vikram,Ravindhran,US,Male,33.4483771,-112.0740373,Asian,linkedin,https://www.linkedin.com/in/vikramravindhran,94737,VikramRavindhran,336
+337,28716,28716,Henrique,Nunes,GB,Male,51.5073509,-0.1277583,White/Caucasian,linkedin,https://www.linkedin.com/in/hjrnunes,28716,HenriqueNunes,337
+338,68624,68624,Lee,Strauss,US,Male,30.442344,-97.769885,White/Caucasian,linkedin,https://www.linkedin.com/in/lee-strauss-606b17/,68624,LeeStrauss,338
+339,140578,140578,Nicole,Cornelson,US,Female,30.442344,-97.769885,White/Caucasian,linkedin,https://www.linkedin.com/in/nicole-cornelson-15a6412?authType=name&authToken=Dhz-,140578,NicoleCornelson,339
+340,162037,162037,Susan,Causey,US,Female,35.205902,-82.704288,White/Caucasian,linkedin,https://www.linkedin.com/in/susancausey,162037,SusanCausey,340
+341,6567,6567,Filipe,Graça,CA,Male,45.5016889,-73.567256,White/Caucasian,linkedin,https://ca.linkedin.com/in/filipe-graça-4830227,6567,FilipeGraça,341
+342,64410,64410,Karen,Reich,US,Female,34.1642396,-118.0830047,White/Caucasian,linkedin,http://www.linkedin.com/pub/karen-reich/20/a91/58,64410,KarenReich,342
+343,117409,117409,Gayathri,Mahalingam,US,Female,37.3382082,-121.8863286,Asian,linkedin,https://www.linkedin.com/in/gayathrimahalingam,117409,GayathriMahalingam,343
+344,141030,141030,Brittany,Slater,US,Female,42.2570481,-88.2122582,White/Caucasian,linkedin,https://www.linkedin.com/in/brittanyslater,141030,BrittanySlater,344
+345,37086,37086,Jeffrey,MK Lam,HK,Male,22.2783151,114.174695,Asian,linkedin,https://www.linkedin.com/in/jeffrey-mk-lam-3b542716?authType=name&authToken=owZ3&trk=connect_hub_pymk_profile_name,37086,JeffreyMK Lam,345
+346,44724,44724,Mitchell,Joel Saldana,PH,Male,14.6090537,121.0222565,Asian,linkedin,https://ph.linkedin.com/in/mitchell-joel-saldana-b9085229,44724,MitchellJoel Saldana,346
+347,169794,169794,Derek,Davies,US,Male,40.7127837,-74.0059413,White/Caucasian,linkedin,https://www.linkedin.com/in/derekdavies,169794,DerekDavies,347
+348,44967,44967,Michal,Oleszko,PL,Male,52.2296756,21.0122287,White/Caucasian,linkedin,https://www.linkedin.com/in/michal-oleszko-205824?authType=OUT_OF_NETWORK&authToken=sVUe,44967,MichalOleszko,348
+349,14640,14640,Marina,Borrás Ferrá,ES,Female,41.3850639,2.1734035,White/Caucasian,linkedin,https://es.linkedin.com/in/marinaborrasferra,14640,MarinaBorrás Ferrá,349
+350,33057,33057,Chris,Moyer,GB,Male,52.7073029,-2.7553268,White/Caucasian,linkedin,https://uk.linkedin.com/in/chris-moyer-82643b,33057,ChrisMoyer,350
+351,53997,53997,Dmitriy,Dusheyko,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/ddusheyko,53997,DmitriyDusheyko,351
+352,137142,137142,P.J.,Swesey,US,Male,47.6739881,-122.121512,White/Caucasian,linkedin,https://www.linkedin.com/in/p-j-swesey-718932b?authType=name&authToken=_0rI,137142,P.J.Swesey,352
+353,107900,107900,Zhenming,Liu,US,Male,40.7127837,-74.0059413,Other/Multiracial,linkedin,https://www.linkedin.com/in/lzhenming,107900,ZhenmingLiu,353
+354,150243,150243,Noah,Presnell,US,Male,47.606139,-122.342528,White/Caucasian,linkedin,https://www.linkedin.com/in/noah-presnell-104b976?authType=name&authToken=RMGI,150243,NoahPresnell,354
+355,122748,122748,Megan,Cadow,US,Female,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/megan-cadow-97599728,122748,MeganCadow,355
+356,138479,138479,Emer,Delos Reyes,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/emer-delos-reyes-28651715,138479,EmerDelos Reyes,356
+357,33490,33490,Dean,Chance,GB,Male,51.5073509,-0.1277583,White/Caucasian,linkedin,https://uk.linkedin.com/in/dean-chance-3b090634,33490,DeanChance,357
+358,186688,186688,Mariza,Melendez,US,Female,42.3600825,-71.0588801,Hispanic/Latino,linkedin,https://www.linkedin.com/in/mariza-melendez-016984103,186688,MarizaMelendez,358
+359,176977,176977,Olga,Shestakova,US,Female,32.715738,-117.1610838,White/Caucasian,linkedin,https://www.linkedin.com/in/olga-shestakova-686aa868,176977,OlgaShestakova,359
+360,150830,150830,Hillary,Andrews,US,Female,30.267153,-97.7430608,White/Caucasian,linkedin,https://www.linkedin.com/in/hillaryandrews,150830,HillaryAndrews,360
+361,651,651,Ivan,Davies,AU,Male,-33.8674869,151.2069902,White/Caucasian,linkedin,https://au.linkedin.com/in/ivan-davies-279698a,651,IvanDavies,361
+362,4782,4782,Kary,Black,CA,Male,42.9869502,-81.243177,White/Caucasian,linkedin,https://www.linkedin.com/in/kary-black-06a3024,4782,KaryBlack,362
+363,16675,16675,Madalina,Constantin,FR,Female,45.439695,4.3871779,White/Caucasian,linkedin,https://www.linkedin.com/in/madalina-constantin-2b710127,16675,MadalinaConstantin,363
+364,185676,185676,Harshil,Amin,US,Male,40.3572976,-74.6672226,Hispanic/Latino,linkedin,https://www.linkedin.com/in/harshil-amin-707021a0,185676,HarshilAmin,364
+365,150662,150662,Jeffrey,Fiddler,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/jfiddler,150662,JeffreyFiddler,365
+366,153238,153238,Koby,Avital,US,Male,36.778261,-119.4179324,White/Caucasian,linkedin,https://www.linkedin.com/in/koby1,153238,KobyAvital,366
+367,124485,124485,Michelle,Ziperstein,US,Female,41.3164856,-73.0931641,White/Caucasian,linkedin,https://www.linkedin.com/in/michelle-ziperstein-32475419,124485,MichelleZiperstein,367
+368,150905,150905,Parul,Chansoria,US,Female,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/parulchansoria,150905,ParulChansoria,368
+369,17764,17764,Jean-Baptiste,Guerlain,FR,Male,44.837789,-0.57918,White/Caucasian,linkedin,https://www.linkedin.com/in/jean-baptiste-guerlain-a211b0a?authType=name&authToken=m4V5,17764,Jean-BaptisteGuerlain,369
+370,193082,193082,Christine,Christenson,US,Female,47.6062095,-122.3320708,White/Caucasian,linkedin,https://www.linkedin.com/in/christinechristenson,193082,ChristineChristenson,370
+371,173743,173743,Sean,O'Neill,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/sean-o-neill-pmp-5631546,173743,SeanO'Neill,371
+372,108128,108128,Nirali,Shah,US,Female,37.8271784,-122.2913078,Asian,linkedin,https://www.linkedin.com/in/niralishah35/,108128,NiraliShah,372
+373,3963,3963,Jason,Mark,CA,Male,45.5016889,-73.567256,White/Caucasian,linkedin,https://ca.linkedin.com/pub/jason-mark/0/410/3a2,3963,JasonMark,373
+374,101783,101783,Nitin,Joshi,US,Male,40.7127837,-74.0059413,Asian,linkedin,https://www.linkedin.com/in/nitin-joshi-5a22b351/,101783,NitinJoshi,374
+375,146613,146613,Blake,Burgess,US,Male,33.6189101,-117.9289469,Hispanic/Latino,linkedin,https://www.linkedin.com/in/blakeburgess?authType=name&authToken=45JG&trk=prof-sb-browse_map-name,146613,BlakeBurgess,375
+376,149461,149461,Owen,Martin,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/owenmartin,149461,OwenMartin,376
+377,187222,187222,Makuta,Kamara,US,Female,40.7643843,-73.9935549,Black/African American,linkedin,https://www.linkedin.com/in/makutak1,187222,MakutaKamara,377
+378,131438,131438,Alex,Bahouth,US,Male,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/alex-bahouth-2297a06,131438,AlexBahouth,378
+379,72348,72348,Stephen,Murtagh,US,Male,40.6781784,-73.9441579,White/Caucasian,linkedin,http://www.linkedin.com/pub/stephen-murtagh/12/183/6a6,72348,StephenMurtagh,379
+380,191767,191767,Adrien,Aubel,US,Male,37.4418834,-122.1430195,White/Caucasian,linkedin,https://www.linkedin.com/in/adrienaubel/en,191767,AdrienAubel,380
+381,134924,134924,Bri,Klein,US,Female,47.6062095,-122.3320708,White/Caucasian,linkedin,https://www.linkedin.com/in/bri-klein-263b453b,134924,BriKlein,381
+382,141097,141097,Michael,Myles,US,Male,32.715738,-117.1610838,White/Caucasian,linkedin,https://www.linkedin.com/in/michael-myles-8892411,141097,MichaelMyles,382
+383,22630,22630,Mandy,Finlay,GB,Female,51.5073509,-0.1277583,White/Caucasian,linkedin,https://uk.linkedin.com/in/mandy-finlay-36563413?trk=pub-pbmap,22630,MandyFinlay,383
+384,144669,144669,Carol,Delort,US,Male,42.2570481,-88.2122582,Asian,linkedin,https://www.linkedin.com/in/carol-delort-146493,144669,CarolDelort,384
+385,160666,160666,Maesa,Putra,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/maesaputra,160666,MaesaPutra,385
+386,116760,116760,Trent,Oswald,US,Male,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/therebelrobot,116760,TrentOswald,386
+387,29281,29281,paul,roberts,GB,Male,53.8007554,-1.5490774,White/Caucasian,linkedin,https://uk.linkedin.com/in/paul-roberts-14094542,29281,paulroberts,387
+388,69665,69665,Ilya,Veygman,US,Male,37.4418834,-122.1430195,Hispanic/Latino,linkedin,https://www.linkedin.com/in/ilyaveygman,69665,IlyaVeygman,388
+389,157865,157865,Marc,Scheipe,US,Male,33.7489954,-84.3879824,White/Caucasian,linkedin,https://www.linkedin.com/in/marc-scheipe-80437021,157865,MarcScheipe,389
+390,109848,109848,Minhong,(Minh) Phan,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/minhong-minh-phan-b7363721,109848,Minhong(Minh) Phan,390
+391,144980,144980,Masoud,Mohabbat,US,Male,34.0130796,-117.812221,Asian,linkedin,https://www.linkedin.com/in/masoud-mohabbat-51807798,144980,MasoudMohabbat,391
+392,75802,75802,Gaurav,Kapoor,US,Male,37.8271784,-122.2913078,Asian,linkedin,http://www.linkedin.com/in/analyticskapoorga,75802,GauravKapoor,392
+393,187972,187972,Lexi,(Budge) Ley,US,Female,34.0130796,-117.812221,White/Caucasian,linkedin,https://www.linkedin.com/in/lexiley,187972,Lexi(Budge) Ley,393
+394,190491,190491,Anh,Phan,US,Male,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/anh-phan-33a0837,190491,AnhPhan,394
+395,22071,22071,Alex,Gregor-Smith,GB,Male,51.5073509,-0.1277583,White/Caucasian,linkedin,https://www.linkedin.com/in/alexguk?authType=name&authToken=VA-p,22071,AlexGregor-Smith,395
+396,57841,57841,Mathieu,Rabiller,US,Male,37.7749295,-122.4194155,White/Caucasian,linkedin,https://www.linkedin.com/in/mathieu-rabiller-576b1117,57841,MathieuRabiller,396
+397,144378,144378,Christina,Kosta Procopiou,US,Female,37.8271784,-122.2913078,White/Caucasian,linkedin,https://www.linkedin.com/in/christinaprocopiou?authType=name&authToken=HJ8k,144378,ChristinaKosta Procopiou,397
+398,172463,172463,Prajakta,Jagdale,US,Female,37.3860517,-122.0838511,Asian,linkedin,https://www.linkedin.com/in/prajaktajagdale,172463,PrajaktaJagdale,398
+399,115631,115631,Felicia,Wu,US,Female,37.7749295,-122.4194155,Asian,linkedin,https://www.linkedin.com/in/felicia-wu-02b590,115631,FeliciaWu,399
