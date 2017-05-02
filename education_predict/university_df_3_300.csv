@@ -1,0 +1,316 @@
+,cand_id,country,endMonth,endYear,name,startMonth,startYear
+0,3190.0,,Present,Present,b'The Maryland Institute College of Art',,
+1,3190.0,,Present,2007,b'The Maryland Institute College of Art',,2003.0
+0,3198.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 Claude Bernard Lyon 1',,
+1,3198.0,,Present,1992,b'Universit\xc3\x83\xc2\xa9 Claude Bernard Lyon 1',,1990.0
+2,3198.0,,Present,1997,b'Universit\xc3\x83\xc2\xa9 Claude Bernard Lyon 1',,1994.0
+3,3198.0,,Present,1994,b'Universit\xc3\x83\xc2\xa9 Claude Bernard Lyon 1',,1992.0
+0,3206.0,,Present,Present,b'Simon Fraser University',,
+1,3206.0,,Present,Present,b'Universidad de Belgrano',,
+2,3206.0,,Present,2010,b'Simon Fraser University',,2006.0
+3,3206.0,,Present,2016,b'Simon Fraser University',,2010.0
+4,3206.0,,Present,2001,b'Universidad de Belgrano',,1997.0
+0,3207.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Technologie de Belfort-Montb\xc3\x83\xc2\xa9liard',,
+1,3207.0,,Present,2007,b'Universit\xc3\x83\xc2\xa9 de Technologie de Belfort-Montb\xc3\x83\xc2\xa9liard',,2002.0
+0,3209.0,,Present,Present,b'Abertay University',,
+1,3209.0,,Present,2004,b'University of Abertay Dundee',,2000.0
+0,3210.0,,Present,2011,b'Center For Digital Media',,2009.0
+1,3210.0,,Present,2006,"b'National Institute of Technology, Rourkela, Orissa, India'",,2002.0
+0,3212.0,,Present,2009,b'Institut Sup\xc3\x83\xc2\xa9rieur du G\xc3\x83\xc2\xa9nie Appliqu\xc3\x83\xc2\xa9',,2007.0
+0,3213.0,,Present,Present,b'University of Toronto Schools',,
+1,3213.0,,Present,Present,b'University of Waterloo',,
+2,3213.0,,Present,Present,b'University of Toronto Schools',,
+3,3213.0,,Present,Present,b'University of Waterloo',,
+0,3216.0,,Present,Present,b'\xc3\x83\xc2\x87ankaya \xc3\x83\xc2\x9cniversitesi',,
+1,3216.0,,Present,2006,b'\xc3\x83\xc2\x87ankaya \xc3\x83\xc2\x9cniversitesi',,2002.0
+0,3217.0,,Present,Present,b'McGill University',,
+1,3217.0,,Present,2004,b'McGill University',,2002.0
+0,3220.0,,Present,Present,b'The University of British Columbia',,
+1,3220.0,,Present,1988,b'The University of British Columbia',,1984.0
+0,3221.0,,Present,Present,b'Oxford Brookes University',,
+1,3221.0,,Present,1998,"b'Edgecliff High School, Kinver'",,1991.0
+2,3221.0,,Present,2001,b'Oxford Brookes University',,1998.0
+0,3228.0,,Present,Present,b'\xc3\x83\xc2\x89cole Polytechnique de Montr\xc3\x83\xc2\xa9al',,
+1,3228.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Sherbrooke',,
+2,3228.0,,Present,2003,b'\xc3\x83\xc2\x89cole Polytechnique de Montr\xc3\x83\xc2\xa9al',,2001.0
+3,3228.0,,Present,2008,b'Universit\xc3\x83\xc2\xa9 de Sherbrooke / Sherbrooke University',,2004.0
+4,3228.0,,Present,Present,b'LJP',,
+0,3229.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Bourgogne',,
+1,3229.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Bourgogne',,
+0,3232.0,,Present,Present,b'The University of Edinburgh',,
+1,3232.0,,Present,2007,b'The University of Edinburgh',,2003.0
+0,3238.0,,Present,2004,"b'National University ""Lvivska Polytechnica""'",,2000.0
+1,3238.0,,Present,2005,"b'National University ""Lvivska Polytechnica""'",,2004.0
+0,3239.0,,Present,Present,b'University of Ottawa',,
+1,3239.0,,Present,2002,b'Casselman high school',,1998.0
+2,3239.0,,Present,2006,"b""University of Ottawa / Universit\xc3\x83\xc2\xa9 d'Ottawa""",,2002.0
+0,3241.0,,Present,Present,b'\xc3\x83\xc2\x89cole Polytechnique de Montr\xc3\x83\xc2\xa9al',,
+1,3241.0,,Present,1999,"b'High School of Technology, Maroc'",,1997.0
+2,3241.0,,Present,2009,b'Ecole Polytechnique de Montreal',,2004.0
+3,3241.0,,Present,2015,b'Ecole Polytechnique de Montreal',,2010.0
+0,3243.0,,Present,Present,b'The University of British Columbia',,
+1,3243.0,,Present,Present,b'Simon Fraser University',,
+2,3243.0,,Present,Present,b'University of North Carolina at Chapel Hill',,
+3,3243.0,,Present,1997,b'Simon Fraser University',,1987.0
+4,3243.0,,Present,2006,b'University of North Carolina at Chapel Hill',,2004.0
+5,3243.0,,Present,2003,b'The University of British Columbia',,1999.0
+0,3244.0,,Present,Present,b'British Columbia Institute of Technology',,
+1,3244.0,,Present,2002,b'British Columbia Institute of Technology',,2002.0
+0,3246.0,,Present,2009,b'Great Northern Way Campus',,2008.0
+1,3246.0,,Present,2008,b'University of British Columbia',,2001.0
+0,3247.0,,Present,Present,b'The University of Hull',,
+1,3247.0,,Present,Present,b'Loughborough University',,
+2,3247.0,,Present,2005,b'Loughborough University',,2002.0
+3,3247.0,,Present,2006,b'The University of Hull',,2005.0
+0,3252.0,,Present,Present,b'Simon Fraser University',,
+1,3252.0,,Present,Present,b'University of Calgary',,
+2,3252.0,,Present,Present,b'Mount Royal University',,
+3,3252.0,,Present,1996,b'Mount Royal University',,1994.0
+4,3252.0,,Present,1998,b'University of Calgary',,1996.0
+5,3252.0,,Present,2003,b'Simon Fraser University',,2000.0
+0,3259.0,,Present,Present,"b'School 24, Khirovograd, Ukraine'",,
+0,3260.0,,Present,Present,b'Ivanovo State University of Chemistry and Technology (ISUCT)',,
+1,3260.0,,Present,1995,b'Ivanovo State University of Chemistry and Technology (ISUCT)',,1990.0
+0,3261.0,,Present,Present,b'Simon Fraser University',,
+1,3261.0,,Present,2004,b'Simon Fraser University',,1999.0
+0,3267.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Montr\xc3\x83\xc2\xa9al',,
+1,3267.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 Laval',,
+2,3267.0,,Present,2000,b'Universit\xc3\x83\xc2\xa9 Laval / Laval University',,1997.0
+3,3267.0,,Present,2005,b'Universit\xc3\x83\xc2\xa9 de Montr\xc3\x83\xc2\xa9al / University of Montreal',,2003.0
+0,3270.0,,Present,Present,b'University of the Witwatersrand',,
+1,3270.0,,Present,1983,b'Pretoria Boys High School',,1980.0
+2,3270.0,,Present,1989,b'University of the Witwatersrand',,1988.0
+0,3271.0,,Present,Present,b'OCAD University',,
+1,3271.0,,Present,Present,b'University of Toronto',,
+2,3271.0,,Present,2007,b'Ontario College of Art and Design',,2003.0
+3,3271.0,,Present,2006,b'University of Toronto',,2004.0
+0,3272.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Sherbrooke',,
+1,3272.0,,Present,Present,b'University of Bucharest',,
+2,3272.0,,Present,Present,b'Concordia University',,
+3,3272.0,,Present,Present,b'Concordia University',,
+4,3272.0,,Present,2006,b'Universit\xc3\x83\xc2\xa9 de Sherbrooke',,2005.0
+5,3272.0,,Present,1998,b'University of Bucharest',,1992.0
+0,3273.0,,Present,Present,b'Universidade Anhembi Morumbi',,
+1,3273.0,,Present,Present,b'Santo ivo',,
+2,3273.0,,Present,2006,b'Universidade Anhembi Morumbi',,2002.0
+0,3277.0,,Present,Present,b'University of Waterloo',,
+1,3277.0,,Present,2010,b'University of Waterloo',,2005.0
+0,3289.0,,Present,Present,b'Sofia University St. Kliment Ohridski',,
+1,3289.0,,Present,Present,b'University of Toronto',,
+2,3289.0,,Present,1998,b'Sofia University St. Kliment Ohridski',,1992.0
+3,3289.0,,Present,2002,b'University of Toronto',,1999.0
+0,3293.0,,Present,Present,b'Shenyang University of Technology',,
+1,3293.0,,Present,Present,b'The University of British Columbia',,
+2,3293.0,,Present,Present,b'Northeastern University (CN)',,
+3,3293.0,,Present,2012,b'The University of British Columbia',,2010.0
+4,3293.0,,Present,2003,b'Shenyang University of Technology',,2000.0
+5,3293.0,,Present,2003,b'Northeastern University (CN)',,2001.0
+0,3298.0,,Present,Present,b'South China University of Technology',,
+1,3298.0,,Present,1992,b'South China University of Technology',,1988.0
+0,3299.0,,Present,2008,b'Far Eastern National University',,2003.0
+0,3306.0,,Present,Present,b'University of Guelph',,
+1,3306.0,,Present,2004,b'University of Guelph',,2000.0
+0,3308.0,,Present,Present,b'The University of British Columbia',,
+1,3308.0,,Present,2004,b'The University of British Columbia',,2001.0
+0,3310.0,,Present,Present,b'University of Waterloo',,
+1,3310.0,,Present,2010,b'University of Waterloo',,2005.0
+0,3311.0,,Present,Present,"b""\xc3\x85\xc2\xbditomirs'kij In\xc3\x85\xc2\xbeenerno-tehnologicnij Institut""",,
+1,3311.0,,Present,2001,"b""\xc3\x85\xc2\xbditomirs'kij In\xc3\x85\xc2\xbeenerno-tehnologicnij Institut""",,1996.0
+0,3316.0,,Present,Present,b'Shenyang Institute of Aeronautical Engineering',,
+1,3316.0,,Present,1998,b'Shenyang Institute of Aeronautical Engineering',,1994.0
+0,3319.0,,Present,Present,b'University of Toronto',,
+1,3319.0,,Present,2006,b'University of Toronto',,2001.0
+0,3320.0,,Present,2007,b'College of Information Science and Technology; Chengdu University',,2003.0
+0,3321.0,,Present,Present,b'Western University',,
+1,3321.0,,Present,2004,b'Western University',,2002.0
+0,3329.0,,Present,Present,b'Kyung Hee University',,
+1,3329.0,,Present,2008,b'Kyung Hee University',,2004.0
+0,3334.0,,Present,Present,b'Concordia University',,
+1,3334.0,,Present,2002,b'Concordia University',,1999.0
+0,3335.0,,Present,2005,"b'University of Victoria, Victoria'",,2000.0
+0,3340.0,,Present,Present,b'University of Toronto',,
+1,3340.0,,Present,2011,b'IBM',,2011.0
+2,3340.0,,Present,2009,b'SUN',,2009.0
+3,3340.0,,Present,2008,b'University of Toronto',,2008.0
+0,3341.0,,Present,Present,b'Universidad Nacional Aut\xc3\x83\xc2\xb3noma de M\xc3\x83\xc2\xa9xico',,
+1,3341.0,,Present,Present,b'McMaster University',,
+2,3341.0,,Present,2002,b'Universidad Nacional Aut\xc3\x83\xc2\xb3noma de M\xc3\x83\xc2\xa9xico',,1997.0
+3,3341.0,,Present,2007,b'McMaster University',,2005.0
+0,3346.0,,Present,Present,b'esl',,
+1,3346.0,,Present,2003,b'Beijing Insititute of Technology',,2000.0
+2,3346.0,,Present,2000,b'Hangzhou Institute of  Commerce',,1996.0
+0,3349.0,,Present,Present,"b""Queen's University""",,
+1,3349.0,,Present,Present,b'Carleton University',,
+2,3349.0,,Present,Present,"b""Queen's University""",,
+3,3349.0,,Present,Present,b'Carleton University',,
+0,3350.0,,Present,Present,b'China University of Mining and Technology',,
+1,3350.0,,Present,1993,b'China University of Mining and Technology',,1989.0
+2,3350.0,,Present,1996,b'Chongqing University of Posts and Telecommunications',,1993.0
+3,3350.0,,Present,Present,b'Mianzhu Middle school',,
+0,3354.0,,Present,Present,b'British Columbia Institute of Technology',,
+1,3354.0,,Present,2004,b'British Columbia Institute of Technology',,2002.0
+0,3355.0,,Present,Present,b'University of Toronto - University College',,
+1,3355.0,,Present,Present,b'University of Toronto',,
+2,3355.0,,Present,1998,b'University of Toronto - University College',,1994.0
+3,3355.0,,Present,1998,b'University of Toronto',,1994.0
+0,3357.0,,Present,Present,"b""Escuela Colombiana de Ingenier\xc3\x83\xc2\xada 'Julio Garavito'""",,
+1,3357.0,,Present,Present,b'Universidad de Los Andes',,
+2,3357.0,,Present,2004,b'Universidad de Los Andes',,2003.0
+3,3357.0,,Present,2000,"b""Escuela Colombiana de Ingenier\xc3\x83\xc2\xada 'Julio Garavito'""",,1995.0
+0,3366.0,,Present,Present,b'\xc3\x83\xc2\x89cole de technologie sup\xc3\x83\xc2\xa9rieure',,
+1,3366.0,,Present,2011,b'Universit\xc3\x83\xc2\xa9 du Qu\xc3\x83\xc2\xa9bec - Ecole de Technologie sup\xc3\x83\xc2\xa9rieure',,2006.0
+2,3366.0,,Present,2006,b'Coll\xc3\x83\xc2\xa8ge G\xc3\x83\xc2\xa9rald-Godin',,2003.0
+0,3369.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Montr\xc3\x83\xc2\xa9al',,
+1,3369.0,,Present,2004,b'Universit\xc3\x83\xc2\xa9 de Montr\xc3\x83\xc2\xa9al',,2001.0
+0,3375.0,,Present,Present,b'\xc3\x83\xc2\x89cole Pratique des Hautes \xc3\x83\xc2\x89tudes',,
+1,3375.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Reims Champagne-Ardenne',,
+2,3375.0,,Present,2008,b'Ecole pratique des Hautes Etudes',,2007.0
+3,3375.0,,Present,2012,b'Universit\xc3\x83\xc2\xa9 Pierre et Marie Curie (Paris VI)',,2009.0
+4,3375.0,,Present,2007,b'Universit\xc3\x83\xc2\xa9 de Reims Champagne-Ardenne',,2006.0
+0,3377.0,,Present,1996,"b'University of Management, Simferopol, Ukraine'",,1995.0
+0,3378.0,,Present,1978,b'The Solid State Physics  Institute. USSR Academy of Science.Chernogolovka. Moscow.',,1976.0
+1,3378.0,,Present,1976,b'The Moscow State University.',,1973.0
+2,3378.0,,Present,1973,b'The Moscow Steel and Alloys Institute.',,1969.0
+0,3381.0,,Present,Present,b'The Catholic University of Korea',,
+1,3381.0,,Present,1998,b'The Catholic University of Korea',,1993.0
+0,3382.0,,Present,Present,b'British Columbia Institute of Technology',,
+1,3382.0,,Present,Present,b'The University of Lethbridge',,
+2,3382.0,,Present,Present,b'University of Calgary',,
+3,3382.0,,Present,2010,b'BCIT',,2010.0
+4,3382.0,,8,1995,b'University of Lethbridge',9.0,1991.0
+5,3382.0,,8,1997,b'University of Calgary',9.0,1995.0
+0,3383.0,,Present,Present,b'University of Waterloo',,
+1,3383.0,,Present,1996,b'University of Waterloo',,1990.0
+2,3383.0,,Present,1990,b'University of Waterloo',,1985.0
+0,3384.0,,Present,Present,b'University of Alberta',,
+1,3384.0,,Present,Present,b'Tsinghua University',,
+2,3384.0,,Present,Present,b'University of Alberta',,
+3,3384.0,,Present,Present,"b'Institute of Computing Technology, Chinese Academy of Sciene.'",,
+4,3384.0,,Present,Present,b'Tsinghua University',,
+0,3385.0,,Present,Present,b'University of Waterloo',,
+1,3385.0,,Present,2008,b'University of Waterloo',,2004.0
+2,3385.0,,Present,2004,b'Agincourt CI',,2000.0
+3,3385.0,,Present,2010,b'University of Waterloo',,2009.0
+0,3389.0,,Present,Present,b'Simon Fraser University',,
+1,3389.0,,Present,Present,b'Simon Fraser University',,
+2,3389.0,,Present,Present,b'Simon Fraser University',,
+0,3390.0,,Present,Present,b'University of Waterloo',,
+1,3390.0,,Present,Present,b'University of Toronto',,
+2,3390.0,,Present,2005,b'University of Waterloo',,2000.0
+3,3390.0,,Present,2016,b'University of Toronto',,2014.0
+0,3391.0,,Present,Present,b'McGill University',,
+1,3391.0,,Present,Present,b'Marianopolis College',,
+2,3391.0,,Present,Present,b'McGill University',,
+3,3391.0,,Present,Present,b'Marianopolis College',,
+0,3397.0,,Present,Present,b'University of Portsmouth',,
+1,3397.0,,Present,2006,b'APTECH',,2003.0
+2,3397.0,,Present,2013,b'University of Portsmouth',,2012.0
+0,3401.0,,Present,Present,b'Western University',,
+1,3401.0,,Present,Present,b'McGill University',,
+2,3401.0,,Present,1991,b'Western University',,1988.0
+3,3401.0,,Present,1993,b'McGill University',,1992.0
+0,3403.0,,Present,Present,b'University of Virginia',,
+1,3403.0,,Present,2005,b'University of Virginia',,2001.0
+0,3406.0,,Present,Present,b'Universidade Federal de Pernambuco',,
+1,3406.0,,Present,Present,b'Universidade Cat\xc3\x83\xc2\xb3lica de Pernambuco',,
+2,3406.0,,Present,2009,b'Universidade Federal de Pernambuco',,2008.0
+3,3406.0,,Present,2004,b'Universidade Cat\xc3\x83\xc2\xb3lica de Pernambuco',,2000.0
+0,3407.0,,Present,Present,b'Universit\xc3\x83\xc2\xa9 de Sherbrooke',,
+1,3407.0,,Present,1995,b'Universit\xc3\x83\xc2\xa9 de Sherbrooke',,1992.0
+0,3408.0,,Present,Present,b'University of Mauritius',,
+1,3408.0,,Present,2006,b'University of Mauritius',,2002.0
+0,3411.0,,Present,Present,b'S.P. Jain Institute of Management & Research',,
+1,3411.0,,Present,2005,b'S.G.S.I.T.S. India',,2001.0
+2,3411.0,,Present,2008,b'S.P. Jain Institute of Management & Research',,2006.0
+0,3414.0,,Present,Present,b'Moscow Institute of Electronics and Mathematics (Technical University)',,
+1,3414.0,,Present,1994,b'Moscow State Institute of Electronics and Mathematics (Technical University)',,1989.0
+0,3415.0,,Present,Present,b'University of California San Diego',,
+1,3415.0,,Present,Present,b'De Anza College',,
+2,3415.0,,Present,2004,b'UCSD',,2002.0
+3,3415.0,,Present,2002,b'De Anza College',,2000.0
+0,3417.0,,Present,Present,b'University of Oxford',,
+1,3417.0,,Present,Present,b'University of Warwick',,
+2,3417.0,,Present,1990,b'University of Warwick',,1987.0
+3,3417.0,,Present,2005,b'University of Oxford',,2002.0
+4,3417.0,,Present,1987,b'Watford Grammar School For Boys',,1985.0
+0,3419.0,,Present,Present,b'Universidade Federal de Pernambuco',,
+1,3419.0,,Present,2005,b'Universidade Federal de Pernambuco',,1998.0
+0,3421.0,,Present,Present,b'University of Toronto',,
+1,3421.0,,Present,2001,b'University of Toronto',,1999.0
+0,3422.0,,Present,1995,"b'University ""GH ASACHI"" IASI'",,1990.0
+0,3428.0,,Present,2004,b'Ufa State Aviation Technical University',,1998.0
+1,3428.0,,Present,1998,b'Ufa State Aviation Technical University',,1993.0
+0,3434.0,,Present,Present,b'The Art Institutes',,
+1,3434.0,,Present,2010,b'The Art Institutes',,2006.0
+0,3436.0,,Present,Present,b'York University',,
+1,3436.0,,Present,Present,"b'Universidad La Salle, A.C.'",,
+2,3436.0,,Present,Present,b'Western University',,
+3,3436.0,,Present,2003,"b'Universidad La Salle, A.C.'",,1998.0
+4,3436.0,,Present,2003,b'Western University',,2002.0
+5,3436.0,,Present,2014,b'York University',,2012.0
+0,3445.0,,Present,Present,b'University of Toronto - New College',,
+1,3445.0,,Present,2005,b'University of Toronto - New College',,2000.0
+0,3446.0,,Present,2006,b'Art Institute of Vancouver',,2005.0
+0,3454.0,,Present,Present,b'British Columbia Institute of Technology',,
+1,3454.0,,Present,2005,b'British Columbia Institute of Technology / BCIT',,2003.0
+0,3455.0,,Present,Present,b'Florida Atlantic University',,
+1,3455.0,,Present,1998,b'Florida Atlantic University',,1996.0
+2,3455.0,,Present,2006,b'Florida Atlantic University',,2002.0
+3,3455.0,,Present,2011,b'Florida Atlantic University',,2008.0
+0,3456.0,,Present,Present,b'University of Reading',,
+1,3456.0,,Present,2001,b'The University of Reading',,1998.0
+0,3457.0,,Present,2005,b'Vinnitsa National Technical University',,2003.0
+1,3457.0,,Present,2003,b'Vinnitsa National Technical University',,1998.0
+0,3461.0,,Present,Present,b'University of San Buenaventura - Colombia',,
+1,3461.0,,Present,Present,b'Polytechnic University of Madrid - Spain',,
+2,3461.0,,Present,Present,b'University of San Buenaventura - Colombia',,
+0,3464.0,,Present,Present,"b""Ha'Universita Ha'Petuha""",,
+1,3464.0,,Present,2007,"b""Ha'Universita Ha'Petuha""",,2001.0
+0,3466.0,,Present,Present,b'The University of British Columbia',,
+1,3466.0,,Present,2013,b'\xc3\x83\xc2\x89cole Polytechnique F\xc3\x83\xc2\xa9d\xc3\x83\xc2\xa9rale de Lausanne',,2013.0
+2,3466.0,,Present,2013,b'\xc3\x83\xc2\x89cole Polytechnique F\xc3\x83\xc2\xa9d\xc3\x83\xc2\xa9rale de Lausanne',,2013.0
+3,3466.0,,Present,2011,b'The University of British Columbia / UBC',,2007.0
+0,3467.0,,Present,Present,b'Simon Fraser University',,
+1,3467.0,,Present,Present,b'Beijing University of Posts and Telecommunications',,
+2,3467.0,,Present,2011,b'Simon Fraser University',,2009.0
+3,3467.0,,Present,2006,b'Beijing University of Post and Telecommunications',,2002.0
+4,3467.0,,Present,2009,b'Beijing University of Post and Telecommunications',,2006.0
+0,3468.0,,Present,Present,b'Peking University',,
+1,3468.0,,Present,2005,b'Peking University',,2002.0
+2,3468.0,,Present,2000,b'Jilin University',,1996.0
+0,3469.0,,Present,Present,b'Simon Fraser University',,
+1,3469.0,,Present,Present,b'Northwestern Polytechnical University',,
+2,3469.0,,Present,Present,b'Northwestern Polytechnic University (CN)',,
+3,3469.0,,Present,2014,b'Simon Fraser University',,2012.0
+0,3470.0,,Present,Present,b'British Columbia Institute of Technology',,
+1,3470.0,,Present,Present,b'Hongik University',,
+2,3470.0,,Present,2005,b'British Columbia Institute of Technology',,2003.0
+3,3470.0,,Present,1995,b'Hongik University',,1988.0
+0,3472.0,,Present,Present,b'The University of British Columbia',,
+1,3472.0,,Present,2009,b'The University of British Columbia',,2005.0
+0,3473.0,,Present,Present,b'University of York',,
+1,3473.0,,Present,1999,b'University of York',,1996.0
+0,3474.0,,Present,Present,b'Beijing Institute of Technology',,
+1,3474.0,,Present,Present,b'Nanjing University of Science and Technology',,
+2,3474.0,,Present,1997,b'Nanjing University of Science and Technology',,1993.0
+3,3474.0,,Present,2000,b'Beijing Institute of Technology',,1997.0
+0,3475.0,,Present,Present,b'Universidad de Granada',,
+1,3475.0,,Present,2006,b'Universidad de Granada',,2000.0
+0,3476.0,,Present,Present,b'University of Victoria',,
+1,3476.0,,Present,2000,b'Vancouver College',,1995.0
+2,3476.0,,Present,2006,b'University of Victoria',,2000.0
+0,3477.0,,Present,Present,b'University of Manitoba',,
+1,3477.0,,Present,Present,b'Glenlawn Collegiate',,
+2,3477.0,,Present,2004,b'University of Manitoba',,1999.0
+0,3480.0,,Present,Present,b'The University of British Columbia',,
+1,3480.0,,Present,Present,b'Hamdard University',,
+2,3480.0,,Present,2009,b'UBC',,2009.0
+3,3480.0,,Present,2003,b'Hamdard University',,1999.0
+0,3481.0,,Present,Present,b'Jerusalem College of Engineering',,
+1,3481.0,,Present,2004,b'Jerusalem College of Engineering',,2000.0
+0,3483.0,,Present,Present,b'Simon Fraser University',,
+1,3483.0,,Present,1999,b'Simon Fraser University',,1995.0
+2,3483.0,,Present,2003,b'Simon Fraser University',,2001.0
+0,3484.0,,Present,Present,b'Technical University of St. Petersburg',,
+0,3485.0,,Present,Present,b'The Faculty of Engineering at Lund University',,
+1,3485.0,,Present,2006,b'The Faculty of Engineering at Lund University',,1999.0
