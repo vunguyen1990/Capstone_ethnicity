@@ -1,0 +1,195 @@
+,country,White,Black,Asian,Hispanic,Other,country_code
+0,Afghanistan,0,0,1,0,0,AF
+1,Albania,0.98,0,0,0,0.02,AL
+2,Algeria,0,1,0,0,0,DZ
+3,Andorra,1,0,0,0,0,AD
+4,Angola,0.01,0.97,0,0,0.02,AO
+5,Antigua and Barbuda,1,0,0,0,0,AG
+6,Argentina,0.97,0,0,0.03,0,AR
+7,Armenia,0.97,0,0,0,0.03,AM
+8,Australia,0.92,0,0.08,0,0,AU
+9,Austria,1,0,0,0,0,AT
+10,Azerbaijan,1,0,0,0,,AZ
+11,Bahamas,0.12,0.85,0.03,0,0,BS
+12,Bahrain,,,0.62,,0.38,BH
+13,Bangladesh,,,1,,,BD
+14,Barbados,0.04,0.9,0.06,,,BB
+15,Belarus,1,,,,,BY
+16,Belgium,0.89,,,,0.11,BE
+17,Belize,,,,1,,BZ
+18,Benin,0.01,0.99,,,,BJ
+19,Bhutan,,1,,,,BT
+20,Bolivia,0.15,,,0.85,,BO
+21,Bosnia and Herzegovina,1,,,,,BA
+22,Botswana,,1,,,,BW
+23,Brazil,0.54,0.06,,,0.4,BR
+24,Brunei,,,1,,,BN
+25,Bulgaria,1,,,,,BG
+26,Burkina Faso,,1,,,,BF
+27,Burundi,,1,,,,BI
+28,Cambodia,,,1,,,KH
+29,Cameroon,,1,,,,CM
+30,Canada,0.98,,,,0.02,CA
+31,Cape Verde,0.01,0.99,,,,CV
+32,Central African Republic,,0.8,,,0.2,CF
+33,Chad,,1,,,,TD
+34,Chile,0.95,,,,0.05,CL
+35,China,,,1,,,CN
+36,Colombia,0.2,0.04,,0.76,,CO
+37,Comoros,,1,,,,KM
+38,"Congo, Democratic Republic of the",,1,,,,CD
+39,"Congo, Republic of",,1,,,,CG
+40,Costa Rica,0.94,0.06,,,,CR
+41,Côte d'Ivoire,,1,,,,CI
+42,Croatia,1,,,,,HR
+43,Cuba,0.37,0.14,0.01,,0.48,CU
+44,Cyprus,1,,,,,CY
+45,Czech Republic,1,,,,,CZ
+46,Denmark,1,,,,,DK
+47,Djibouti,,1,,,,DJ
+48,Dominica,,1,,,,DM
+49,Dominican Republic,0.16,0.11,,,0.73,DO
+50,East Timor,,,1,,,TL
+51,Ecuador,0.97,0.03,,,,EC
+52,Egypt,1,,,,,EG
+53,El Salvador,0.09,,,0.91,,SV
+54,Equatorial Guinea,,1,,,,GQ
+55,Eritrea,,1,,,,ER
+56,Estonia,1,,,,,EE
+57,Ethiopia,,1,,,,ET
+58,Fiji,,,1,,,FJ
+59,Finland,,1,,,,FI
+60,France,1,,,,,FR
+61,Gabon,,1,,,,GA
+62,Gambia,,0.99,,,0.01,GM
+63,Georgia,0.83,,,,0.17,GE
+64,Germany,1,,,,,DE
+65,Ghana,,0.98,,,0.02,GH
+66,Greece,1,,,,,GR
+67,Grenada,0.13,0.82,0.05,,,GD
+68,Guatemala,,,,1,,GT
+69,Guinea,,1,,,,GN
+70,Guinea-Bissau,0.01,0.99,,,,GW
+71,Guyana,0.14,0.36,0.5,,,GY
+72,Haiti,0.05,0.95,,,,HT
+73,Honduras,0.01,0.02,,0.97,,HN
+74,Hungary,1,,,,,HU
+75,Iceland,1,,,,,IS
+76,India,,,1,,,IN
+77,Indonesia,,,1,,,ID
+78,Iran,,,1,,,IR
+79,Iraq,,,1,,,IQ
+80,Ireland,1,,,,,IE
+81,Israel,,,1,,,IL
+82,Italy,1,,,,,IT
+83,Jamaica,0.02,0.9,0.08,,,JM
+84,Japan,,,1,,,JP
+85,Jordan,,,1,,,JO
+86,Kazakhstan,,,1,,,KZ
+87,Kenya,,1,,,,KE
+88,Kiribati,,,,1,,KI
+89,"Korea, North",,,1,,,KP
+90,"Korea, South",,,1,,,KR
+91,Kuwait,,,1,,,KW
+92,Kyrgyzstan,0.12,,0.88,,,KG
+93,Laos,,,1,,,LA
+94,Latvia,,,1,,,LV
+95,Lebanon,0.05,,0.95,,,LB
+96,Lesotho,0.03,0.97,,,,LS
+97,Liberia,,1,,,,LR
+98,Libya,,1,,,,LY
+99,Liechtenstein,,1,,,,LI
+100,Lithuania,1,,,,,LT
+101,Luxembourg,1,,,,,LU
+102,Macedonia,1,,,,,MK
+103,Madagascar,,1,,,,MG
+104,Malawi,,1,,,,MW
+105,Malaysia,,,1,,,MY
+106,Maldives,,,1,,,MV
+107,Mali,1,,,,,ML
+108,Malta,1,,,,,MT
+109,Marshall Islands,,1,,,,MH
+110,Mauritania,,1,,,,MR
+111,Mauritius,,1,,,,MU
+112,Mexico,0.09,,,0.91,,MX
+113,Micronesia,,1,,,,FM
+114,Moldova,1,,,,,MD
+115,Monaco,1,,,,,MC
+116,Mongolia,,,1,,,MN
+117,Montenegro,1,,,,,ME
+118,Morocco,1,,,,,MA
+119,Mozambique,,1,,,,MZ
+120,Myanmar,,,1,,,MM
+121,Namibia,0.06,0.94,,,,NA
+122,Nauru,0.08,,,0.92,,NR
+123,Nepal,,,1,,,NP
+124,Netherlands,1,,,,,NL
+125,New Zealand,0.95,,0.05,,,NZ
+126,Nicaragua,0.17,0.09,,0.74,,NI
+127,Niger,,1,,,,NE
+128,Nigeria,,1,,,,NG
+129,Norway,1,,,,,NO
+130,Oman,,,1,,,OM
+131,Pakistan,,,1,,,PK
+132,Palau,,1,,,,PW
+133,Palestinian State (proposed),,,1,,,PS
+134,Panama,0.1,0.9,,,,PA
+135,Papua New Guinea,,1,,,,PG
+136,Paraguay,,,,1,,PY
+137,Peru,0.15,,,0.85,,PE
+138,Philippines,,,1,,,PH
+139,Poland,1,,,,,PL
+140,Portugal,1,,,,,PT
+141,Qatar,,,1,,,QA
+142,Romania,1,,,,,RO
+143,Russia,1,,,,,RU
+144,Rwanda,,1,,,,RW
+145,St. Kitts and Nevis,,1,,,,KN
+146,St. Lucia,0.01,0.9,,0.03,0.06,LC
+148,Samoa,,1,,,,WS
+149,San Marino,1,,,,,SM
+151,Saudi Arabia,,,1,,,SA
+152,Senegal,,1,,,,SN
+153,Serbia,1,,,,,RS
+154,Seychelles,,1,,,,SC
+155,Sierra Leone,,1,,,,SL
+156,Singapore,,,1,,,SG
+157,Slovakia,1,,,,,SK
+158,Slovenia,1,,,,,SI
+159,Solomon Islands,,1,,,,SB
+160,Somalia,,1,,,,SO
+161,South Africa,0.91,0.09,,,,ZA
+162,Spain,1,,,,,ES
+163,Sri Lanka,,,1,,,LK
+164,Sudan,,0.52,0.48,,,SD
+165,Suriname,,1,,,,SR
+166,Swaziland,0.03,0.97,,,,SZ
+167,Sweden,1,,,,,SE
+168,Switzerland,1,,,,,CH
+169,Syria,,,1,,,SY
+170,Taiwan,,,1,,,TW
+171,Tajikistan,,1,,,,TJ
+172,Tanzania,,1,,,,TZ
+173,Thailand,,,1,,,TH
+174,Togo,,1,,,,TG
+175,Tonga,1,,,,,TO
+176,Trinidad and Tobago,,1,,,,TT
+177,Tunisia,,,1,,,TN
+178,Turkey,,,1,,,TR
+179,Turkmenistan,1,,,,,TM
+180,Tuvalu,,,,1,,TV
+181,Uganda,,,1,,,UG
+182,Ukraine,1,,,,,UA
+183,United Arab Emirates,1,,,,,AE
+184,United Kingdom,1,,,,,GB
+185,United States,0.75,0.12,0.03,0.05,0.05,US
+186,Uruguay,0.88,0.12,,,,UY
+187,Uzbekistan,1,,,,,UZ
+188,Vanuatu,1,,,,,VU
+190,Venezuela,,,1,,,VE
+191,Vietnam,,,1,,,VN
+192,Western Sahara (proposed state),,,1,,,EH
+193,Yemen,,,1,,,YE
+194,Zambia,,1,,,,ZM
+195,Zimbabwe,,1,,,,ZW
+196,Hong Kong,,,1,,,HK

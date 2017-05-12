@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25b8eb5d-1dd4-464d-9ee6-be36b215be2e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawlingFunction.py" afterPath="$PROJECT_DIR$/CrawlingFunction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawlingSampleData.ipynb" afterPath="$PROJECT_DIR$/CrawlingSampleData.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawllingCompany.ipynb" afterPath="$PROJECT_DIR$/CrawllingCompany.ipynb" />
-    </list>
+    <list default="true" id="25b8eb5d-1dd4-464d-9ee6-be36b215be2e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,18 +14,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CrawlingFunction.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/education_predict/CrawlingFunction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="161" column="23" lean-forward="false" selection-start-line="161" selection-start-column="4" selection-end-line="161" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -51,10 +36,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
-    <option name="y" value="243" />
-    <option name="width" value="1281" />
-    <option name="height" value="704" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -73,7 +58,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../try-tf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EthnicityPrediction_API" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -90,8 +75,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="243" width="1281" height="704" extended-state="0" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -120,6 +105,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/education_predict/CrawlingFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/education_predict/CrawlingFunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
