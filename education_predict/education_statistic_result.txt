@@ -1,0 +1,33 @@
+The process of computed a candidate has education location related with ethnicity
+
+Step 1: Collect all countries' ethinicity, standardization these ethnicities into 5 categories: White, Black,	Asian,	Hispanic,	Other and its distribution on each ethnicity. 
+
+Example :
+country			White	Black	Asian	Hispanic	Other	country_code
+Afghanistan		0		0		1		0			0		AF
+United States	0.75	0.12	0.03	0.05		0.05	US
+
+
+
+Step 2: With each candidate information crawled, get his actual ethnicity over his education location to related_score. For example, with a candidate has ethnicity is White and education location is United States so his related_score for this education location is 0.75
+
+
+ The statistical result of these steps:
+ - Number of candidate : 965
+
+ - Number of candidate with type_year_1 has related_score greater than 0: 873.
+ - Average related_score for type_year_1: 0.828373
+ 
+ - Number of candidate with type_year_2 has related_score greater than 0: 782.
+ - Average related_score for type_year_2: 0.806969
+
+ - Number of candidate with type_year_3 has related_score greater than 0: 518.
+ - Average related_score for type_year_3: 0.799247
+
+
+ 
+ Difficulty: Using in hypothesis, the model usually predicts new ethnicity with highest probability in this country. Example: predict ethnicity for "US" is usually is White, predict ethnicity for "AF" is usually Asian. It is true for countries with only one ethnicity, but it seem not correct with countris have many ethnicities, in this case is US. 
+
+Further work:
+- Enrich trainng dataset
+- Using more hypothesis to improve the difficulty ablow.
